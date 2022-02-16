@@ -2,7 +2,7 @@
 id: LUG5SdozeiBEpwTMjT6jv
 title: S64303
 desc: ''
-updated: 1645032732946
+updated: 1645033770842
 created: 1645032732946
 stub: false
 isDir: false
@@ -25,7 +25,7 @@ isDir: false
 - **Profile:** P&M Sales
 - **Role:** Global P&M
 - **Permission Set(s):**  
-  - ![](/assets/images/2022-02-03-15-35-15.png)
+  - ![](/assets/2022-02-03-15-35-15.png)
 
 * * *
 
@@ -52,17 +52,17 @@ isDir: false
 1. Logged in as Paula
 2. Went to an existing Case
 3. Tried to delete an existing email and received the correct error message, that it's not possible
-   - ![](/assets/images/2022-02-03-15-40-27.png)
+   - ![](/assets/2022-02-03-15-40-27.png)
 
 * * *
 
 1. Logged in as Paula
 2. Created a new Product Support Case
 3. Created an email draft:
-   ![](/assets/images/2022-02-03-16-10-20.png)
+   ![](/assets/2022-02-03-16-10-20.png)
 4. Then clicked the "Discard Draft" trash can button
-   ![](/assets/images/2022-02-03-16-11-19.png)
-   ![](/assets/images/2022-02-03-16-11-44.png)
+   ![](/assets/2022-02-03-16-11-19.png)
+   ![](/assets/2022-02-03-16-11-44.png)
    The Email draft is also removed from "Related List" Emails section
 
 * * *

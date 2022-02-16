@@ -2,7 +2,7 @@
 id: LqfxvaOlznCKWKUo08eEh
 title: S67170
 desc: ''
-updated: 1645032732947
+updated: 1645033799021
 created: 1645032732947
 stub: false
 isDir: false
@@ -23,7 +23,7 @@ isDir: false
 - **Profile:** Customer Support Supervisor
 - **Role:** Customer Support Manager
 - **Permission Set(s):**
-  - ![](/assets/images/2022-02-07-14-10-15.png)
+  - ![](/assets/2022-02-07-14-10-15.png)
 
 ### Acceptance Criteria 
 
@@ -45,8 +45,8 @@ isDir: false
    > Wait for the prompt to finish and press 2
 3. Answered the call in Salesforce from the B+S connector
 4. Clicked the "Call Activity" button
-   ![](/assets/images/2022-02-14-15-47-03.png)
+   ![](/assets/2022-02-14-15-47-03.png)
 5. The Task page opens
-   ![](/assets/images/2022-02-14-15-47-57.png)
+   ![](/assets/2022-02-14-15-47-57.png)
 6. The Activity details appear correctly in the "Comments" box
-   ![](/assets/images/2022-02-14-15-49-36.png)
+   ![](/assets/2022-02-14-15-49-36.png)

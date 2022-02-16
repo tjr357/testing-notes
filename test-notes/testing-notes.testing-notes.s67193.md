@@ -2,7 +2,7 @@
 id: FXzCASebzXmCxcMh3BE2Z
 title: S67193
 desc: ''
-updated: 1645032732947
+updated: 1645033825168
 created: 1645032732947
 stub: false
 isDir: false
@@ -23,7 +23,7 @@ isDir: false
 - **Profile:** Customer Support Supervisor
 - **Role:** Customer Support Manager
 - **Permission Set(s):**
-  - ![](/assets/images/2022-02-07-14-10-15.png)
+  - ![](/assets/2022-02-07-14-10-15.png)
 
 ### Acceptance Criteria 
 
@@ -44,15 +44,15 @@ isDir: false
    > Wait for the prompt to finish and press 2
 3. Answered the call in Salesforce from the B+S connector
 4. Clicked the transfer button
-   ![](/assets/images/2022-02-07-14-13-36.png)
+   ![](/assets/2022-02-07-14-13-36.png)
 5. Searched for each transfer number
 
 | pic                                         | pic                                         |
 | ------------------------------------------- | ------------------------------------------- |
-| ![](/assets/images/2022-02-07-14-15-23.png) | ![](/assets/images/2022-02-07-14-15-44.png) |
-| ![](/assets/images/2022-02-07-14-16-23.png) | ![](/assets/images/2022-02-07-14-16-42.png) |
-| ![](/assets/images/2022-02-07-14-17-00.png) | ![](/assets/images/2022-02-07-14-17-30.png) |
-| ![](/assets/images/2022-02-07-14-17-50.png) | ![](/assets/images/2022-02-07-14-18-11.png) |
-| ![](/assets/images/2022-02-07-14-18-33.png) | ![](/assets/images/2022-02-07-14-18-48.png) |
+| ![](/assets/2022-02-07-14-15-23.png) | ![](/assets/2022-02-07-14-15-44.png) |
+| ![](/assets/2022-02-07-14-16-23.png) | ![](/assets/2022-02-07-14-16-42.png) |
+| ![](/assets/2022-02-07-14-17-00.png) | ![](/assets/2022-02-07-14-17-30.png) |
+| ![](/assets/2022-02-07-14-17-50.png) | ![](/assets/2022-02-07-14-18-11.png) |
+| ![](/assets/2022-02-07-14-18-33.png) | ![](/assets/2022-02-07-14-18-48.png) |
 
 6. Confirmed the transfer worked

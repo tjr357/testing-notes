@@ -2,7 +2,7 @@
 id: ZdXVEs1mEvHJVq7xXH0vP
 title: S67280
 desc: ''
-updated: 1645032732947
+updated: 1645034073893
 created: 1645032732947
 stub: false
 isDir: false
@@ -21,7 +21,7 @@ isDir: false
 - **Profile:** Customer Support Supervisor
 - **Role:** Customer Support Manager
 - **Permission Set(s):**
-- ![](/assets/images/2022-02-10-10-33-35.png)
+- ![](/assets/2022-02-10-10-33-35.png)
 
 ### Acceptance Criteria
 
@@ -44,10 +44,10 @@ isDir: false
 1. Logged in as Christina
 2. Confirmed I was in the "Customer Service Lightning Console"
 3. Opened the "b+s RealtimeView" in the bottom left
-   ![](/assets/images/2022-02-10-10-36-32.png)
+   ![](/assets/2022-02-10-10-36-32.png)
 4. Confirmed the new view is wider and works as expected
-   ![](/assets/images/2022-02-10-10-37-18.png)
+   ![](/assets/2022-02-10-10-37-18.png)
 5. Expanded the view into it's own window
-   ![](/assets/images/2022-02-10-10-40-50.png)
+   ![](/assets/2022-02-10-10-40-50.png)
 
 ### Issues

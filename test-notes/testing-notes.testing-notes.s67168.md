@@ -2,7 +2,7 @@
 id: djSFBZrtsCgaW5kQl8s4F
 title: S67168
 desc: ''
-updated: 1645032732947
+updated: 1645033735863
 created: 1645032732947
 stub: false
 isDir: false
@@ -29,7 +29,7 @@ created_imported: 1644260693843
 - **Profile:** Customer Support Supervisor
 - **Role:** Customer Support Manager
 - **Permission Set(s):**
-  - ![](/assets/images/2022-02-07-14-10-15.png)
+  - ![](/assets/2022-02-07-14-10-15.png)
 
 ### Acceptance Criteria 
 
@@ -51,4 +51,4 @@ created_imported: 1644260693843
 3. Answered the call in Salesforce from the B+S connector
 4. Clicked the create Case button
 5. Received an error
-   ![](/assets/images/2022-02-14-14-26-34.png)
+   ![](/assets/2022-02-14-14-26-34.png)

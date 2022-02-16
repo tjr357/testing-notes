@@ -2,7 +2,7 @@
 id: pftmknom34uGe1EsWpiMc
 title: S67243
 desc: ''
-updated: 1645032732947
+updated: 1645034051167
 created: 1645032732947
 stub: false
 isDir: false
@@ -25,7 +25,7 @@ isDir: false
 - Profile: GI Sales 
 - Role: GI NA
 - Permission Set(s):  
-  - ![](/assets/images/2022-01-31-13-33-37.png)  
+  - ![](/assets/2022-01-31-13-33-37.png)  
 - Make sure "Receive emails" is checked in the Chatter > Email notifcation user settings
 
 ### Acceptance Criteria
@@ -42,11 +42,11 @@ isDir: false
 
 1. Logged in as Lorraine
 2. Navigated to the Chatter tab
-   - ![](/assets/images/2022-01-31-13-38-16.png)
+   - ![](/assets/2022-01-31-13-38-16.png)
 3. Chose the _Announcements_ tab
-   - ![](/assets/images/email-all-checked.png)
+   - ![](/assets/email-all-checked.png)
 4. Checked the "Email all group members" box
 5. Entered a message and clicked Share
 6. The email came through for all the members in the Chatter Group
 7. I confirmed the Post and Announcement could not be deleted, and that it could be edited. Heres' the expected error:
-   - ![](/assets/images/2022-01-31-17-07-07.png)
+   - ![](/assets/2022-01-31-17-07-07.png)

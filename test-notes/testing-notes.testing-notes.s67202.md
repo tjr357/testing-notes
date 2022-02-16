@@ -2,12 +2,11 @@
 id: a73LmV10qQENnUM6RcRcx
 title: S67202
 desc: ''
-updated: 1645032732947
+updated: 1645033872467
 created: 1645032732947
 stub: false
 isDir: false
 ---
-# S67202
 
 ### [S67202](https://rally1.rallydev.com/#/?detail=/userstory/623323875839&fdp=true): B+S: Update the User Layout with Agent fields
 
@@ -39,6 +38,6 @@ isDir: false
 1. Logged in as myself, a sys admin
 2. Opened up a user record for [Denise Adelsberg](https://sherwin--qa.lightning.force.com/lightning/setup/ManageUsers/page?address=%2F00541000003qSQOAA2%3Fnoredirect%3D1%26isUserEntityOverride%3D1)
 3. Scrolled down and confirmed the Cisco Contact Center settings are there:
-   ![](/assets/images/2022-02-04-11-59-15.png)
+   ![](/assets/2022-02-04-11-59-15.png)
 
 ### Issues
