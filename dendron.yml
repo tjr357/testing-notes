@@ -45,6 +45,8 @@ workspace:
             fsPath: test-notes
         -
             fsPath: vault
+            name: vault
+            published: false
     journal:
         dailyDomain: daily
         name: journal
