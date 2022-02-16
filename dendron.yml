@@ -21,6 +21,7 @@ site:
         action: useVault
         payload:
             - vault
+            - test-notes
 commands:
     lookup:
         note:
@@ -29,6 +30,7 @@ commands:
             leaveTrace: false
             bubbleUpCreateNew: true
             fuzzThreshold: 0.2
+            vaultSelectionModeOnCreate: smart
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -39,6 +41,8 @@ commands:
     randomNote: {}
 workspace:
     vaults:
+        -
+            fsPath: test-notes
         -
             fsPath: vault
     journal:
