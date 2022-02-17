@@ -2,13 +2,12 @@
 id: eQXLNC6lHDPkGTpb4fsgi
 title: S65446
 desc: ''
-updated: 1645033361332
+updated: 1645123887756
 created: 1645032732946
 stub: false
 isDir: false
 ---
-# S65446
-
+[[testing-notes.testing-notes.S65446-retested]]
 ### [S65446]
 
 | steps   | details                                                       |
@@ -19,14 +18,6 @@ isDir: false
 
 ### Test Users & Data
 
-- **Name:** [Christina Bonnaci](https://sherwin--qa.lightning.force.com/lightning/setup/ManageUsers/page?address=%2F00541000003qSQhAAM%3Fnoredirect%3D1%26isUserEntityOverride%3D1)
-
-- **Profile:** Customer Support Supervisor
-
-- **Role:** Customer Support Manager
-
-- **Permission Set(s):**
-  - ![](/assets/2022-02-07-14-10-15.png)
 
 - Test Emails:
   - **EU B2C General Enquiry France Queue:** [taylor.j.ruiz@y-vz08x7qg2m7d9nw4nk1t0o1d9tykfxigqi66h62njkhlrx572.6t-4ej0eaa.cs166.case.sandbox.salesforce.com](mailto:taylor.j.ruiz@y-vz08x7qg2m7d9nw4nk1t0o1d9tykfxigqi66h62njkhlrx572.6t-4ej0eaa.cs166.case.sandbox.salesforce.com)
