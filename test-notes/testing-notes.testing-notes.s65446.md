@@ -2,13 +2,13 @@
 id: eQXLNC6lHDPkGTpb4fsgi
 title: S65446
 desc: ''
-updated: 1645123887756
+updated: 1645124865224
 created: 1645032732946
 stub: false
 isDir: false
 ---
-[[testing-notes.testing-notes.S65446-retested]]
-### [S65446]
+The card was also retested: [[testing-notes.testing-notes.S65446-retested]]
+### [S65446](https://rally1.rallydev.com/#/117070905740d/teamboard?detail=%2Fuserstory%2F612142167589&view=3f2cc321-e7f8-4e13-aac7-7461bf66a431)
 
 | steps   | details                                                       |
 | ------- | ------------------------------------------------------------- |
