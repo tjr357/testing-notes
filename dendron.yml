@@ -44,6 +44,7 @@ workspace:
     vaults:
         -
             fsPath: meetings
+            name: meetings
             published: false
         -
             fsPath: test-notes
