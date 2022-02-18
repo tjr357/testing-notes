@@ -20,8 +20,8 @@ site:
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - vault
             - test-notes
+            - meetings
 commands:
     lookup:
         note:
@@ -42,11 +42,9 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: test-notes
+            fsPath: meetings
         -
-            fsPath: vault
-            name: vault
-            published: false
+            fsPath: test-notes
     journal:
         dailyDomain: daily
         name: journal
