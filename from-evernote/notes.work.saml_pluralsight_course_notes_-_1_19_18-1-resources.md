@@ -1,0 +1,11 @@
+---
+id: 0Pop5Yp3t4ulZtbh9Www4
+title: Saml_pluralsight_course_notes_ _1_19_18 1 Resources
+desc: ''
+updated: 1645225706408
+created: 1645225706408
+stub: false
+isDir: true
+---
+## Imported Assets
+- [RB 2018-01-24 09.jpg](/assets/rb-2018-01-24-09-4lM6hp2NsGtb.jpg)

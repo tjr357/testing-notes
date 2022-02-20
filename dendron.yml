@@ -22,6 +22,7 @@ site:
         payload:
             - test-notes
             - meetings
+            - from-evernote
 commands:
     lookup:
         note:
@@ -41,6 +42,8 @@ commands:
     randomNote: {}
 workspace:
     vaults:
+        -
+            fsPath: from-evernote
         -
             fsPath: meetings
         -

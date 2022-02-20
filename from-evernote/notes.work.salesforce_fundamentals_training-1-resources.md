@@ -1,0 +1,11 @@
+---
+id: sZneCSm4N3hmGiB7iQNVV
+title: Salesforce_fundamentals_training 1 Resources
+desc: ''
+updated: 1645225706411
+created: 1645225706411
+stub: false
+isDir: true
+---
+## Imported Assets
+- [RB 2018-05-21 13.jpg](/assets/rb-2018-05-21-13-Rw0hUULMa1mD.jpg)
