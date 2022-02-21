@@ -44,8 +44,12 @@ workspace:
     vaults:
         -
             fsPath: from-evernote
+            name: from-evernote
+            published: false
         -
             fsPath: meetings
+            name: meetings
+            published: false
         -
             fsPath: test-notes
     journal:
