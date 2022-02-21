@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # Roles and Profiles
 
 
-![7-19-18.jpg](/assets/7-19-18-FRUjhLbkKUcL.jpg)
+![7-19-18.jpg](/assets/7-19-18.jpg)
 

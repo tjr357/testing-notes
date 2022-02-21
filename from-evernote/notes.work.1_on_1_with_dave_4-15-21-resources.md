@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [1 on 1 with Dave 4-15-21.1.jpg](/assets/1-on-1-with-dave-4-15-21-ZKtWZ0s62mEm.jpg)
-- [1 on 1 with Dave 4-15-21.jpg](/assets/1-on-1-with-dave-4-15-21-n1ZqV7D1R5wR.jpg)
+- [1 on 1 with Dave 4-15-21.1.jpg](/assets/1-on-1-with-dave-4-15-21.jpg)
+- [1 on 1 with Dave 4-15-21.jpg](/assets/1-on-1-with-dave-4-15-21.jpg)

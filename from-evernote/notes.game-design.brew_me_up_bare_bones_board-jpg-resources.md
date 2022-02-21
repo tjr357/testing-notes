@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [TMP.jpg](/assets/tmp-QRkPeRjSOuSA.jpg)
-- [PXL_20211223_192104486.jpg](/assets/pxl_20211223_192104486-xzF46VVr4nPk.jpg)
+- [TMP.jpg](/assets/tmp.jpg)
+- [PXL_20211223_192104486.jpg](/assets/pxl_20211223_192104486.jpg)

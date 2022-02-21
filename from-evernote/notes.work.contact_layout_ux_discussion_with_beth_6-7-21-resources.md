@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Contact Layout UX discussion with Beth 6-7-21.1.jpg](/assets/contact-layout-ux-discussion-with-beth-6-7-21-Q1rJeUdejzza.jpg)
-- [Contact Layout UX discussion with Beth 6-7-21.jpg](/assets/contact-layout-ux-discussion-with-beth-6-7-21-ziTJfhtE2ahG.jpg)
+- [Contact Layout UX discussion with Beth 6-7-21.1.jpg](/assets/contact-layout-ux-discussion-with-beth-6-7-21.jpg)
+- [Contact Layout UX discussion with Beth 6-7-21.jpg](/assets/contact-layout-ux-discussion-with-beth-6-7-21.jpg)

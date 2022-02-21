@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Worker Placement Game Idea.jpg](/assets/worker-placement-game-idea-3LufnzJIIkj1.jpg)
+- [Worker Placement Game Idea.jpg](/assets/worker-placement-game-idea.jpg)

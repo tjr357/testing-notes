@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Red Squad Stand Up 8_8_18.jpg](/assets/red-squad-stand-up-8_8_18-ogkZAWL24mVM.jpg)
+- [Red Squad Stand Up 8_8_18.jpg](/assets/red-squad-stand-up-8_8_18.jpg)

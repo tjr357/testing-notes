@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [CoP Check-in Doodle.jpg](/assets/cop-check-in-doodle-KIPnoYSDrQvj.jpg)
+- [CoP Check-in Doodle.jpg](/assets/cop-check-in-doodle.jpg)

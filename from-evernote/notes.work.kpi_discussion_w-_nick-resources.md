@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [KPI Discussion w- Nick.jpg](/assets/kpi-discussion-w--nick-Z2zTuryy7mPH.jpg)
+- [KPI Discussion w- Nick.jpg](/assets/kpi-discussion-w--nick.jpg)

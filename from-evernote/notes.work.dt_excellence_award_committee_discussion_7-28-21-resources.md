@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DT Excellence Award Committee Discussion 7-28-21.jpg](/assets/dt-excellence-award-committee-discussion-7-28-21-paEtVY2GL2o3.jpg)
-- [DT Excellence Award Committee Discussion 7-28-21.1.jpg](/assets/dt-excellence-award-committee-discussion-7-28-21-Q0xuvtKXRVod.jpg)
+- [DT Excellence Award Committee Discussion 7-28-21.jpg](/assets/dt-excellence-award-committee-discussion-7-28-21.jpg)
+- [DT Excellence Award Committee Discussion 7-28-21.1.jpg](/assets/dt-excellence-award-committee-discussion-7-28-21.jpg)

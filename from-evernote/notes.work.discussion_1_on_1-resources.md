@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Discussion 1 on 1.jpg](/assets/discussion-1-on-1-iUr2MEng6DPa.jpg)
+- [Discussion 1 on 1.jpg](/assets/discussion-1-on-1.jpg)

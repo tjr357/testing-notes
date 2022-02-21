@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # Inspiration
 
 
-![Inspiration.jpg](/assets/inspiration-fsdXsOmiGYpY.jpg)
+![Inspiration.jpg](/assets/inspiration.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Rummy Twist Battle Game Idea.jpg](/assets/rummy-twist-battle-game-idea-gR5md26fUjv8.jpg)
+- [Rummy Twist Battle Game Idea.jpg](/assets/rummy-twist-battle-game-idea.jpg)

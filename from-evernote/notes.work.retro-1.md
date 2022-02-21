@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Retro
 
 
-![Retro.jpg](/assets/retro-hxc503HebeaC.jpg)
+![Retro.jpg](/assets/retro.jpg)
 

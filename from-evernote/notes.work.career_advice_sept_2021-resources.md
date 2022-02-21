@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Career Advice Sept 2021.jpg](/assets/career-advice-sept-2021-QrRUp1PkxGMC.jpg)
+- [Career Advice Sept 2021.jpg](/assets/career-advice-sept-2021.jpg)

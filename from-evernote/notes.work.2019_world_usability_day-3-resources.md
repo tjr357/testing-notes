@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [2019 World Usability Day.jpg](/assets/2019-world-usability-day-fQi2Pv3yI1Ql.jpg)
+- [2019 World Usability Day.jpg](/assets/2019-world-usability-day.jpg)

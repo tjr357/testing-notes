@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DX Cop Kick off 2-21,-19.jpg](/assets/dx-cop-kick-off-2-21,-19-GrxFP9CHflzW.jpg)
+- [DX Cop Kick off 2-21,-19.jpg](/assets/dx-cop-kick-off-2-21,-19.jpg)

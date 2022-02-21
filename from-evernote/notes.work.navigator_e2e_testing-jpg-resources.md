@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Navigator E2E Testing.jpg](/assets/navigator-e2e-testing-ZDmLjbAFK7AG.jpg)
+- [Navigator E2E Testing.jpg](/assets/navigator-e2e-testing.jpg)

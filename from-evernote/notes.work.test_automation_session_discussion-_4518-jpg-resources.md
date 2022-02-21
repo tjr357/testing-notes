@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Test Automation Session Discussion- 4518.jpg](/assets/test-automation-session-discussion--4518-JpOgZ99zPgSe.jpg)
+- [Test Automation Session Discussion- 4518.jpg](/assets/test-automation-session-discussion--4518.jpg)

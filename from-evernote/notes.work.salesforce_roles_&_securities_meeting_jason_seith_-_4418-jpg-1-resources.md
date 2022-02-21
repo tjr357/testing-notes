@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SalesForce Roles & Securities Meeting Jason Seith .jpg](/assets/salesforce-roles-&-securities-meeting-jason-seith--Nm18Nj5qMNvx.jpg)
+- [SalesForce Roles & Securities Meeting Jason Seith .jpg](/assets/salesforce-roles-&-securities-meeting-jason-seith-.jpg)

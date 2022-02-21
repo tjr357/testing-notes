@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Town Hall October 2019.jpg](/assets/sf-town-hall-october-2019-Snxs4HNzMgm2.jpg)
+- [SF Town Hall October 2019.jpg](/assets/sf-town-hall-october-2019.jpg)

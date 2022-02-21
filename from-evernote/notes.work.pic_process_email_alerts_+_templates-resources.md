@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [PIC Process Email Alerts - Templates.jpg](/assets/pic-process-email-alerts---templates-8zYLrZpUoUlp.jpg)
+- [PIC Process Email Alerts - Templates.jpg](/assets/pic-process-email-alerts---templates.jpg)

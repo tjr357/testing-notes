@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Touch point Support Service.jpg](/assets/touch-point-support-service-2kCkT9t3wOHM.jpg)
+- [Touch point Support Service.jpg](/assets/touch-point-support-service.jpg)

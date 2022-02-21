@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Better User Stories Idea.jpg](/assets/better-user-stories-idea-Ti96mU7tW1vU.jpg)
+- [Better User Stories Idea.jpg](/assets/better-user-stories-idea.jpg)

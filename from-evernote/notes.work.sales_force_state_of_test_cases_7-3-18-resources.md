@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Sales force State of Test Cases 7-3-18.jpg](/assets/sales-force-state-of-test-cases-7-3-18-bFv89gypMvZw.jpg)
+- [Sales force State of Test Cases 7-3-18.jpg](/assets/sales-force-state-of-test-cases-7-3-18.jpg)

@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # User Story Writing
 
 
-![User.jpg](/assets/user-BCa8JtWhOdK0.jpg)
+![User.jpg](/assets/user.jpg)
 

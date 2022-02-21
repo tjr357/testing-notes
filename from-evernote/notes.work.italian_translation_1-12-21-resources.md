@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Italian Translation 1-12-21.jpg](/assets/italian-translation-1-12-21-LwNQkiwDVbRf.jpg)
+- [Italian Translation 1-12-21.jpg](/assets/italian-translation-1-12-21.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Discuss S60817 4-20-21.jpg](/assets/discuss-s60817-4-20-21-0xUw6WRkqYUy.jpg)
+- [Discuss S60817 4-20-21.jpg](/assets/discuss-s60817-4-20-21.jpg)

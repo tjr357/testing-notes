@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [RB 2018-07-02 08.jpg](/assets/rb-2018-07-02-08-OWWcTVa1X8c4.jpg)
+- [RB 2018-07-02 08.jpg](/assets/rb-2018-07-02-08.jpg)

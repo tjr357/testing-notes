@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [scrum of scrums.jpg](/assets/scrum-of-scrums-m7zGD9npQYk1.jpg)
+- [scrum of scrums.jpg](/assets/scrum-of-scrums.jpg)

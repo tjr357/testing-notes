@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Bar Bingo - Experience 5-3-21.jpg](/assets/bar-bingo---experience-5-3-21-Mw9bIuIyC3tk.jpg)
+- [Bar Bingo - Experience 5-3-21.jpg](/assets/bar-bingo---experience-5-3-21.jpg)

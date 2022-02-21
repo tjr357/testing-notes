@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Meeting with Mike Kane - 4218.jpg](/assets/meeting-with-mike-kane---4218-MDYEEeAAbifn.jpg)
+- [Meeting with Mike Kane - 4218.jpg](/assets/meeting-with-mike-kane---4218.jpg)

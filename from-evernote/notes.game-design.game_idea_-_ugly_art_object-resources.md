@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Game Idea - Ugly Art Object.jpg](/assets/game-idea---ugly-art-object-ZaRKH6YVijq0.jpg)
+- [Game Idea - Ugly Art Object.jpg](/assets/game-idea---ugly-art-object.jpg)

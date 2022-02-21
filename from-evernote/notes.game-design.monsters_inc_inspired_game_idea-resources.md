@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Monsters Inc Inspired Game Idea.jpg](/assets/monsters-inc-inspired-game-idea-nEXHEPifAxwP.jpg)
+- [Monsters Inc Inspired Game Idea.jpg](/assets/monsters-inc-inspired-game-idea.jpg)

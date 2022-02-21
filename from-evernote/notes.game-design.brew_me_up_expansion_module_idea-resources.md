@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Brew Me Up Expansion Module Idea.jpg](/assets/brew-me-up-expansion-module-idea-XqJv6nzjQPrr.jpg)
+- [Brew Me Up Expansion Module Idea.jpg](/assets/brew-me-up-expansion-module-idea.jpg)

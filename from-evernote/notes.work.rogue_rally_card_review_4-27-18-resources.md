@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Rogue Rally Card Review 4-27-18.jpg](/assets/rogue-rally-card-review-4-27-18-Q4VHGYdFyRm4.jpg)
+- [Rogue Rally Card Review 4-27-18.jpg](/assets/rogue-rally-card-review-4-27-18.jpg)

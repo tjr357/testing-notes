@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Summer _18 Release Regression Test Discussion.jpg](/assets/summer-_18-release-regression-test-discussion-wrPQvQpPFghk.jpg)
+- [Summer _18 Release Regression Test Discussion.jpg](/assets/summer-_18-release-regression-test-discussion.jpg)

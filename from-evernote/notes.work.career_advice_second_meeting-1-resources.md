@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Career Advice second meeting.jpg](/assets/career-advice-second-meeting-dHWzVT2HNYaN.jpg)
+- [Career Advice second meeting.jpg](/assets/career-advice-second-meeting.jpg)

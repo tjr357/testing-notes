@@ -21,5 +21,5 @@ _Last updated at 2019-03-06._
 # 3-4-2019
 
 
-![3-4-2019.jpg](/assets/3-4-2019-evOBoCWC6MiT.jpg)
+![3-4-2019.jpg](/assets/3-4-2019.jpg)
 

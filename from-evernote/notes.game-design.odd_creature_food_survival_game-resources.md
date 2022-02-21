@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Odd Creature Food Survival Game.jpg](/assets/odd-creature-food-survival-game-GMcrLE7AhCvg.jpg)
+- [Odd Creature Food Survival Game.jpg](/assets/odd-creature-food-survival-game.jpg)

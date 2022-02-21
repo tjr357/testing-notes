@@ -21,5 +21,5 @@ _Last updated at 2018-01-16._
 # 2018 Goals
 
 
-![IMG_0217.JPG](/assets/img_0217-INtrshi13luM.JPG)
+![IMG_0217.JPG](/assets/img_0217.jpg)
 

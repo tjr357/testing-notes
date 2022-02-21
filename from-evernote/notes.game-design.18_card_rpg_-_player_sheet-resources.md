@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [18 Card RPG - Player Sheet.jpg](/assets/18-card-rpg---player-sheet-plW7zebtb6LA.jpg)
+- [18 Card RPG - Player Sheet.jpg](/assets/18-card-rpg---player-sheet.jpg)

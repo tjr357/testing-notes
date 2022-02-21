@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [PIC Process.jpg](/assets/pic-process-03o6VIFwSHYX.jpg)
+- [PIC Process.jpg](/assets/pic-process.jpg)

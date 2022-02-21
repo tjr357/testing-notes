@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [AAT Gherkin Refresher 8-24-21.jpg](/assets/aat-gherkin-refresher-8-24-21-yY1r3rLpJ5BS.jpg)
+- [AAT Gherkin Refresher 8-24-21.jpg](/assets/aat-gherkin-refresher-8-24-21.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Secret Box Game Mechanic.jpg](/assets/secret-box-game-mechanic-O5q4steHNcna.jpg)
+- [Secret Box Game Mechanic.jpg](/assets/secret-box-game-mechanic.jpg)

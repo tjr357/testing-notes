@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [18 Card RPG - Story and scenario.jpg](/assets/18-card-rpg---story-and-scenario-Z9rNOiiTeMYj.jpg)
+- [18 Card RPG - Story and scenario.jpg](/assets/18-card-rpg---story-and-scenario.jpg)

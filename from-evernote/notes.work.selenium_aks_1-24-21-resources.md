@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Selenium AKS 1-24-21.jpg](/assets/selenium-aks-1-24-21-GnNRDV1vpxB7.jpg)
+- [Selenium AKS 1-24-21.jpg](/assets/selenium-aks-1-24-21.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Provar - Exec Summary Review 1-19-21.jpg](/assets/provar---exec-summary-review-1-19-21-1UgMADSyNcvq.jpg)
+- [Provar - Exec Summary Review 1-19-21.jpg](/assets/provar---exec-summary-review-1-19-21.jpg)

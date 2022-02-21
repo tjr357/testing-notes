@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Story Card Format Discussion 3-1-21.jpg](/assets/story-card-format-discussion-3-1-21-T4MeHJN8GzVI.jpg)
+- [Story Card Format Discussion 3-1-21.jpg](/assets/story-card-format-discussion-3-1-21.jpg)

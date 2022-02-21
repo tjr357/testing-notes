@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # QA Staff Meeting
 
 
-![7-24-28.jpg](/assets/7-24-28-e6hrUw0GK2Jz.jpg)
+![7-24-28.jpg](/assets/7-24-28.jpg)
 

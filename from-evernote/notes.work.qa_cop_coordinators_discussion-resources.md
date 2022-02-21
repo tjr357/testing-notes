@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [QA CoP Coordinators Discussion.jpg](/assets/qa-cop-coordinators-discussion-7RDPvMxe6raf.jpg)
+- [QA CoP Coordinators Discussion.jpg](/assets/qa-cop-coordinators-discussion.jpg)

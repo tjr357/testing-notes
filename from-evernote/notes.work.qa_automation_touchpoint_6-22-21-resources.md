@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [QA Automation Touchpoint 6-22-21.jpg](/assets/qa-automation-touchpoint-6-22-21-leteTetpa5zH.jpg)
+- [QA Automation Touchpoint 6-22-21.jpg](/assets/qa-automation-touchpoint-6-22-21.jpg)

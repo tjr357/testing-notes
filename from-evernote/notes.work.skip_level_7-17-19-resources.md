@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Skip Level 7-17-19.jpg](/assets/skip-level-7-17-19-4C6kdJI9Aa70.jpg)
+- [Skip Level 7-17-19.jpg](/assets/skip-level-7-17-19.jpg)

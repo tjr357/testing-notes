@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Psychology Behind Compelling Apps.jpg](/assets/psychology-behind-compelling-apps-8WbBIRqLMsqL.jpg)
+- [Psychology Behind Compelling Apps.jpg](/assets/psychology-behind-compelling-apps.jpg)

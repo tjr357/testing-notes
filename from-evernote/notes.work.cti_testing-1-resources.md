@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [CTI Testing.jpg](/assets/cti-testing-0wHub2YSP1z7.jpg)
+- [CTI Testing.jpg](/assets/cti-testing.jpg)

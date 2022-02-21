@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Frogs and Turtles Game Idea.jpg](/assets/frogs-and-turtles-game-idea-4ZJc7R9QBhlG.jpg)
+- [Frogs and Turtles Game Idea.jpg](/assets/frogs-and-turtles-game-idea.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Google Analytics Fan 4 Meeting.jpg](/assets/google-analytics-fan-4-meeting-5wbKj8kZzhYX.jpg)
+- [Google Analytics Fan 4 Meeting.jpg](/assets/google-analytics-fan-4-meeting.jpg)

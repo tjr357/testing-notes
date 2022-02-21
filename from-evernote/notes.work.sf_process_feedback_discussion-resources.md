@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Process Feedback Discussion.jpg](/assets/sf-process-feedback-discussion-LCUGTUgHTR55.jpg)
+- [SF Process Feedback Discussion.jpg](/assets/sf-process-feedback-discussion.jpg)

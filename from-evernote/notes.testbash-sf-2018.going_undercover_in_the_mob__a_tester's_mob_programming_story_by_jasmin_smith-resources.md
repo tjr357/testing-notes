@@ -10,7 +10,7 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [2018_11_08 10_14 AM Office Lens.jpg](/assets/2018_11_08-10_14-am-office-lens-zlsQtvpFfgQN.jpg)
-- [2018_11_08 10_17 AM Office Lens.jpg](/assets/2018_11_08-10_17-am-office-lens-PUZt022AIlst.jpg)
-- [2018_11_08 10_21 AM Office Lens.jpg](/assets/2018_11_08-10_21-am-office-lens-8n1CpK5Kii2K.jpg)
-- [RB 2018-11-0910.jpg](/assets/rb-2018-11-0910-QH2kPpBqA0fN.jpg)
+- [2018_11_08 10_14 AM Office Lens.jpg](/assets/2018_11_08-10_14-am-office-lens.jpg)
+- [2018_11_08 10_17 AM Office Lens.jpg](/assets/2018_11_08-10_17-am-office-lens.jpg)
+- [2018_11_08 10_21 AM Office Lens.jpg](/assets/2018_11_08-10_21-am-office-lens.jpg)
+- [RB 2018-11-0910.jpg](/assets/rb-2018-11-0910.jpg)

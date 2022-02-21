@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Brew Me Up Magic Tokens 4-30-21.jpg](/assets/brew-me-up-magic-tokens-4-30-21-NsbNhAs6n8xf.jpg)
+- [Brew Me Up Magic Tokens 4-30-21.jpg](/assets/brew-me-up-magic-tokens-4-30-21.jpg)

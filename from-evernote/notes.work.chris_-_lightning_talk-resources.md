@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Chris - Lightning Talk.jpg](/assets/chris---lightning-talk-fZUR5KmZRyr0.jpg)
+- [Chris - Lightning Talk.jpg](/assets/chris---lightning-talk.jpg)

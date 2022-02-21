@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Feature Acceptance Feedback Review.jpg](/assets/feature-acceptance-feedback-review-jQi8L0X5f0n2.jpg)
+- [Feature Acceptance Feedback Review.jpg](/assets/feature-acceptance-feedback-review.jpg)

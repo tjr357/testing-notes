@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Lunch n Learn - Topic Ideas 2-1-2021.jpg](/assets/lunch-n-learn---topic-ideas-2-1-2021-HDHFrcvbbnBf.jpg)
+- [Lunch n Learn - Topic Ideas 2-1-2021.jpg](/assets/lunch-n-learn---topic-ideas-2-1-2021.jpg)

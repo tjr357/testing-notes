@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Business Value Workshop Discussion 3.jpg](/assets/business-value-workshop-discussion-3-lIeE0z7N3677.jpg)
+- [Business Value Workshop Discussion 3.jpg](/assets/business-value-workshop-discussion-3.jpg)

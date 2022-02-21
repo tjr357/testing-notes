@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [ENIMAGE1312658688867.jpg](/assets/enimage1312658688867-1TrwhhlCDvpO.jpg)
+- [ENIMAGE1312658688867.jpg](/assets/enimage1312658688867.jpg)

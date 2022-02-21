@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [QA Salesforce Release Hand-off.jpg](/assets/qa-salesforce-release-hand-off-NDlGtfbmcyTx.jpg)
+- [QA Salesforce Release Hand-off.jpg](/assets/qa-salesforce-release-hand-off.jpg)

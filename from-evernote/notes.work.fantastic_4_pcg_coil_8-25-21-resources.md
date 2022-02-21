@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Fantastic 4 PCG Coil 8-25-21.jpg](/assets/fantastic-4-pcg-coil-8-25-21-f60tPgWpD4RO.jpg)
+- [Fantastic 4 PCG Coil 8-25-21.jpg](/assets/fantastic-4-pcg-coil-8-25-21.jpg)

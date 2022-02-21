@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Season of Life Book Notes.jpg](/assets/season-of-life-book-notes-9RQjDZWu8gXJ.jpg)
+- [Season of Life Book Notes.jpg](/assets/season-of-life-book-notes.jpg)

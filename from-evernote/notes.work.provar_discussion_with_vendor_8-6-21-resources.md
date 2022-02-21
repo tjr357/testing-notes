@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Provar Discussion with Vendor 8-6-21.1.jpg](/assets/provar-discussion-with-vendor-8-6-21-HekdpVUGRL4z.jpg)
-- [Provar Discussion with Vendor 8-6-21.jpg](/assets/provar-discussion-with-vendor-8-6-21-EhPLpGpLFcKt.jpg)
+- [Provar Discussion with Vendor 8-6-21.1.jpg](/assets/provar-discussion-with-vendor-8-6-21.jpg)
+- [Provar Discussion with Vendor 8-6-21.jpg](/assets/provar-discussion-with-vendor-8-6-21.jpg)

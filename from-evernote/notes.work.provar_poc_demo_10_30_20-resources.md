@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Provar PoC Demo 10_30_20.jpg](/assets/provar-poc-demo-10_30_20-T6uHPfP6ZERd.jpg)
+- [Provar PoC Demo 10_30_20.jpg](/assets/provar-poc-demo-10_30_20.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DT Excellence Awards Committee Discussion 8-6-21.jpg](/assets/dt-excellence-awards-committee-discussion-8-6-21-rEoVri7Haj0m.jpg)
+- [DT Excellence Awards Committee Discussion 8-6-21.jpg](/assets/dt-excellence-awards-committee-discussion-8-6-21.jpg)

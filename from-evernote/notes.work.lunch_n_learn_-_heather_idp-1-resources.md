@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Lunch n Learn - Heather IDP.jpg](/assets/lunch-n-learn---heather-idp-l44PG4HuDgst.jpg)
+- [Lunch n Learn - Heather IDP.jpg](/assets/lunch-n-learn---heather-idp.jpg)

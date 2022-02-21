@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [CPQ Trailhead.1.jpg](/assets/cpq-trailhead-e6AxB0EUZkGj.jpg)
-- [CPQ Trailhead.jpg](/assets/cpq-trailhead-ISLGu9O2PJZL.jpg)
+- [CPQ Trailhead.1.jpg](/assets/cpq-trailhead.jpg)
+- [CPQ Trailhead.jpg](/assets/cpq-trailhead.jpg)

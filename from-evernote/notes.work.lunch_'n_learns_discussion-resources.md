@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Lunch in Joe - Ashley Learns Discussion.jpg](/assets/lunch-in-joe---ashley-learns-discussion-1SJqpv2mKOCI.jpg)
+- [Lunch in Joe - Ashley Learns Discussion.jpg](/assets/lunch-in-joe---ashley-learns-discussion.jpg)

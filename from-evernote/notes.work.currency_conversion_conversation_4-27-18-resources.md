@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Currency Conversion Conversation 4-27-18.jpg](/assets/currency-conversion-conversation-4-27-18-NTitOjrQU4mM.jpg)
+- [Currency Conversion Conversation 4-27-18.jpg](/assets/currency-conversion-conversation-4-27-18.jpg)

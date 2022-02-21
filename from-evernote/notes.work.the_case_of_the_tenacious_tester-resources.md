@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [The Katrina case of the Ohlemacher Tenacious Teste.jpg](/assets/the-katrina-case-of-the-ohlemacher-tenacious-teste-BwWixJZRnr5R.jpg)
+- [The Katrina case of the Ohlemacher Tenacious Teste.jpg](/assets/the-katrina-case-of-the-ohlemacher-tenacious-teste.jpg)

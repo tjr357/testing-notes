@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DT Townhall August 2021.jpg](/assets/dt-townhall-august-2021-wAkSpuB2S0JA.jpg)
+- [DT Townhall August 2021.jpg](/assets/dt-townhall-august-2021.jpg)

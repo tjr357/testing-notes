@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Scrum Master Advice with Stacy 8-16-21.jpg](/assets/scrum-master-advice-with-stacy-8-16-21-J36eggm8DT6h.jpg)
-- [Scrum Master Advice with Stacy 8-16-21.1.jpg](/assets/scrum-master-advice-with-stacy-8-16-21-7xr4bBMgaZQW.jpg)
+- [Scrum Master Advice with Stacy 8-16-21.jpg](/assets/scrum-master-advice-with-stacy-8-16-21.jpg)
+- [Scrum Master Advice with Stacy 8-16-21.1.jpg](/assets/scrum-master-advice-with-stacy-8-16-21.jpg)

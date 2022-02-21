@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [service kit implementation 3-24-21.jpg](/assets/service-kit-implementation-3-24-21-i1DWU745fGqD.jpg)
+- [service kit implementation 3-24-21.jpg](/assets/service-kit-implementation-3-24-21.jpg)

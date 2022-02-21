@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Trick taking twist idea.jpg](/assets/trick-taking-twist-idea-xTWHshQBELKn.jpg)
+- [Trick taking twist idea.jpg](/assets/trick-taking-twist-idea.jpg)

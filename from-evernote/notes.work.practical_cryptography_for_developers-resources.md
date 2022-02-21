@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Practical tryptography for Developers.jpg](/assets/practical-tryptography-for-developers-kcSj5TLoCIgR.jpg)
+- [Practical tryptography for Developers.jpg](/assets/practical-tryptography-for-developers.jpg)

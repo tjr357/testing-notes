@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Sprint Planning - Service.jpg](/assets/sprint-planning---service-3YCWktBoXPcC.jpg)
+- [Sprint Planning - Service.jpg](/assets/sprint-planning---service.jpg)

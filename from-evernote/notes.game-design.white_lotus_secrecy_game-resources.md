@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [White Lotus Secrecy Game.jpg](/assets/white-lotus-secrecy-game-aHBqrc9abrkL.jpg)
+- [White Lotus Secrecy Game.jpg](/assets/white-lotus-secrecy-game.jpg)

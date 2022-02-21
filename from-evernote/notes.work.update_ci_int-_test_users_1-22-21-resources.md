@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Update CI Int.jpg](/assets/update-ci-int-3Tjsm1T3FO15.jpg)
+- [Update CI Int.jpg](/assets/update-ci-int.jpg)

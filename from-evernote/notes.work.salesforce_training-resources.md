@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Salesforce Training.jpg](/assets/salesforce-training-VVnay1JLbtVc.jpg)
+- [Salesforce Training.jpg](/assets/salesforce-training.jpg)

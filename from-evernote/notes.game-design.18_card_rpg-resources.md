@@ -8,7 +8,7 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [18 Card RPG.1.jpg](/assets/18-card-rpg-jLRBNhppft0C.jpg)
-- [18 Card RPG.jpg](/assets/18-card-rpg-z03wQ5c09DB0.jpg)
-- [18 Card RPG.2.jpg](/assets/18-card-rpg-458p4T47ANeT.jpg)
-- [18 Card RPG.3.jpg](/assets/18-card-rpg-Ed0KtGcNOaVE.jpg)
+- [18 Card RPG.1.jpg](/assets/18-card-rpg.jpg)
+- [18 Card RPG.jpg](/assets/18-card-rpg.jpg)
+- [18 Card RPG.2.jpg](/assets/18-card-rpg.jpg)
+- [18 Card RPG.3.jpg](/assets/18-card-rpg.jpg)

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [To Do Week of May 2.jpg](/assets/to-do-week-of-may-2-k7ih7s8CbD5L.jpg)
+- [To Do Week of May 2.jpg](/assets/to-do-week-of-may-2.jpg)

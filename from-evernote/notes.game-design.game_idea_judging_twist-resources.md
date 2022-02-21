@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Game Idea Judging Twist.jpg](/assets/game-idea-judging-twist-h1hyca6V7YU1.jpg)
+- [Game Idea Judging Twist.jpg](/assets/game-idea-judging-twist.jpg)

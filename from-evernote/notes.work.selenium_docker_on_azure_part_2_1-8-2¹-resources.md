@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Selenium Docker on Azure Part 2 1-8-2¹.jpg](/assets/selenium-docker-on-azure-part-2-1-8-2¹-zdD0xiDLs9S3.jpg)
+- [Selenium Docker on Azure Part 2 1-8-2¹.jpg](/assets/selenium-docker-on-azure-part-2-1-8-2¹.jpg)

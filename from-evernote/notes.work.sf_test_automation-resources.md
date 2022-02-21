@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Test Automation.jpg](/assets/sf-test-automation-PwYxDnheHk3c.jpg)
+- [SF Test Automation.jpg](/assets/sf-test-automation.jpg)

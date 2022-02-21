@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Provar Into.jpg](/assets/provar-into-OJzE8UECxLI4.jpg)
+- [Provar Into.jpg](/assets/provar-into.jpg)

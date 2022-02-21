@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [E-Trac Achitecture Update.jpg](/assets/e-trac-achitecture-update-BaL3SaiCTc2u.jpg)
+- [E-Trac Achitecture Update.jpg](/assets/e-trac-achitecture-update.jpg)

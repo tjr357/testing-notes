@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Summer Release _18 Outstanding Issues.jpg](/assets/sf-summer-release-_18-outstanding-issues-zBrf8CsyK9W3.jpg)
+- [SF Summer Release _18 Outstanding Issues.jpg](/assets/sf-summer-release-_18-outstanding-issues.jpg)
