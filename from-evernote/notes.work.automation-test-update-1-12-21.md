@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Automation Test Update 1-12-21
 
 
-![Automation Test Update 1-12-21.jpg](./_resources/Automation_Test_Update_1-12-21.resources/Automation Test Update 1-12-21.jpg)
+![Automation Test Update 1-12-21.jpg](assets/Automation Test Update 1-12-21.jpg)
 

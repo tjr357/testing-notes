@@ -26,5 +26,5 @@ Testing Testbash
 # How to Test Serverless Cloud Applications
 
 
-![RB 2018-11-0910.jpg](./_resources/How_to_Test_Serverless_Cloud_Applications.resources/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Cypress Part 2.jpg](/assets/cypress-part-2.jpg)
+- ![Cypress Part 2.jpg](/assets/cypress-part-2.jpg)

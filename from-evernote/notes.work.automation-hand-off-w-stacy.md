@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # Automation Hand-off w Stacy
 
 
-![Automation Hand-off w Stacy.jpg](./_resources/Automation_Hand-off_w_Stacy.resources/Automation Hand-off w Stacy.jpg)
+![Automation Hand-off w Stacy.jpg](assets/Automation Hand-off w Stacy.jpg)
 

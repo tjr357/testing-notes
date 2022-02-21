@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # Fan4 Correct a Batch - 32818.jpg
 
 
-![Fan4 Correct a Batch - 32818.jpg](./_resources/Fan4_Correct_a_Batch_-_32818.jpg.resources/Fan4 Correct a Batch - 32818.jpg)
+![Fan4 Correct a Batch - 32818.jpg](assets/Fan4 Correct a Batch - 32818.jpg)
 

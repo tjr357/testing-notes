@@ -21,5 +21,5 @@ _Last updated at 2019-02-19._
 # Lunch n Learns Discussion
 
 
-![Lunch n Learns Discussion.jpg](./_resources/Lunch_n_Learns_Discussion.resources/Lunch n Learns Discussion.jpg)
+![Lunch n Learns Discussion.jpg](assets/Lunch n Learns Discussion.jpg)
 

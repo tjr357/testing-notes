@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # How Pro Wrestling Made Me a Better Tester 3
 
 
-![RB 2018-01-11 17.jpg](./_resources/How_Pro_Wrestling_Made_Me_a_Better_Tester_3.resources/RB 2018-01-11 17.jpg)
+![RB 2018-01-11 17.jpg](assets/RB 2018-01-11 17.jpg)
 

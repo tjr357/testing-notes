@@ -21,5 +21,5 @@ _Last updated at 2019-02-19._
 # E-Trac Achitecture Update
 
 
-![E-Trac Achitecture Update.jpg](./_resources/E-Trac_Achitecture_Update.resources/E-Trac Achitecture Update.jpg)
+![E-Trac Achitecture Update.jpg](assets/E-Trac Achitecture Update.jpg)
 

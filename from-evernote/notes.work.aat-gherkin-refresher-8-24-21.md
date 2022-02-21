@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # AAT Gherkin Refresher 8-24-21
 
 
-![AAT Gherkin Refresher 8-24-21.jpg](./_resources/AAT_Gherkin_Refresher_8-24-21.resources/AAT Gherkin Refresher 8-24-21.jpg)
+![AAT Gherkin Refresher 8-24-21.jpg](assets/AAT Gherkin Refresher 8-24-21.jpg)
 

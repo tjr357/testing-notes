@@ -21,5 +21,5 @@ _Last updated at 2019-02-21._
 # Cop Top February 2019
 
 
-![Cop Top February 2019.jpg](./_resources/Cop_Top_February_2019.resources/Cop Top February 2019.jpg)
+![Cop Top February 2019.jpg](assets/Cop Top February 2019.jpg)
 

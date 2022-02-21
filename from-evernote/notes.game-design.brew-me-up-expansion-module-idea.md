@@ -26,5 +26,5 @@ game-design
 # Brew Me Up Expansion Module Idea
 
 
-![Brew Me Up Expansion Module Idea.jpg](./_resources/Brew_Me_Up_Expansion_Module_Idea.resources/Brew Me Up Expansion Module Idea.jpg)
+![Brew Me Up Expansion Module Idea.jpg](assets/Brew Me Up Expansion Module Idea.jpg)
 

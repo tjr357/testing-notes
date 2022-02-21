@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # DX Cop Kick off 2-21-19
 
 
-![DX Cop Kick off 2-21,-19.jpg](./_resources/DX_Cop_Kick_off_2-21-19.resources/DX Cop Kick off 2-21,-19.jpg)
+![DX Cop Kick off 2-21,-19.jpg](assets/DX Cop Kick off 2-21,-19.jpg)
 

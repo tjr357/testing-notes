@@ -164,7 +164,7 @@ AWARDED WEEKLY
 
 Well designed site...far more convenient than dragging all my stuff to the consignment store...I love getting rid of stuff we've outgrown in exchange for sizes we're growing in to! **–Mary A.**
 
-[See more Testimonials →](http://www.thredup.com/testimonials) ![unknown_filename.1.jpeg](./_resources/thredUP_Used_Kids_Clothing_Exchange_-_where_parents_swap_gently_worn,_second_hand_&_used_kids_clothing_online.resources/unknown_filename.1.jpeg) 
+[See more Testimonials →](http://www.thredup.com/testimonials) ![unknown_filename.1.jpeg](assets/unknown_filename.1.jpeg) 
 
 ![seg?add=86678&t=2](http://ad.retargeter.com/seg?add=86678&t=2)
 
@@ -192,5 +192,5 @@ Well designed site...far more convenient than dragging all my stuff to the consi
 
 ![seg?add=86678&t=2](http://ad.retargeter.com/seg?add=86678&t=2)
 
-![unknown_filename.png](./_resources/thredUP_Used_Kids_Clothing_Exchange_-_where_parents_swap_gently_worn,_second_hand_&_used_kids_clothing_online.resources/unknown_filename.png)
+![unknown_filename.png](assets/unknown_filename.png)
 

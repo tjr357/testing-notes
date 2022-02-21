@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Defect Workflow Meeting
 
 
-![RB 2018-05-0308.jpg](./_resources/Defect_Workflow_Meeting.resources/RB 2018-05-0308.jpg)
+![RB 2018-05-0308.jpg](assets/RB 2018-05-0308.jpg)
 

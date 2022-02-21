@@ -21,5 +21,5 @@ _Last updated at 2021-10-22._
 # Worker Placement Idea
 
 
-![Snapshot.png](./_resources/Worker_Placement_Idea.1.resources/Snapshot.png)
+![Snapshot.png](assets/Snapshot.png)
 

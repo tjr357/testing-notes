@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Ball and Chain WP Game Idea.jpg](/assets/ball-and-chain-wp-game-idea.jpg)
+- ![Ball and Chain WP Game Idea.jpg](/assets/ball-and-chain-wp-game-idea.jpg)

@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # A-Team Notes and Fan4 - 3/12/18
 
 
-![RB 2018-03-22 08.jpg](./_resources/A-Team_Notes_and_Fan4_-_3_12_18.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

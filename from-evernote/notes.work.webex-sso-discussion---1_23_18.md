@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # WebEx SSO Discussion - 1/23/18
 
 
-![RB 2018-01-24 09.jpg](./_resources/WebEx_SSO_Discussion_-_1_23_18.resources/RB 2018-01-24 09.jpg)
+![RB 2018-01-24 09.jpg](assets/RB 2018-01-24 09.jpg)
 

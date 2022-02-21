@@ -24,11 +24,11 @@ created: 1645194282967
     - Automotive CPQ
 - We need to manage ourselves to get the in-PI automation completed
 ### Action Items
-- [x] Create weekly touchpoints with Chris on Training Materials include Ashley as optional
-- [ ] Update the bi-weekly update with Provar implementation based on the Rally Features
-- [x] Update the Rally view with the proper features and 
+- ![x] Create weekly touchpoints with Chris on Training Materials include Ashley as optional
+- ![ ] Update the bi-weekly update with Provar implementation based on the Rally Features
+- ![x] Update the Rally view with the proper features and 
 - https://rally1.rallydev.com/#/125886362128d/portfolioitemstreegrid?view=a9244a6e-51f4-4b51-8f7d-7e3447da0781
 ![](/assets/images/2022-02-18-09-26-44.png)
-- [x] get release planning readout info, 11:30
-- [ ] Work with Ashley on demand intake process
-- [ ] start thinking about marketing and getting the word out to the program, think of Townhall's
+- ![x] get release planning readout info, 11:30
+- ![ ] Work with Ashley on demand intake process
+- ![ ] start thinking about marketing and getting the word out to the program, think of Townhall's

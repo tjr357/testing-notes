@@ -21,5 +21,5 @@ _Last updated at 2019-04-12._
 # Chris - Lightning Talk
 
 
-![Chris - Lightning Talk.jpg](./_resources/Chris_-_Lightning_Talk.resources/Chris - Lightning Talk.jpg)
+![Chris - Lightning Talk.jpg](assets/Chris - Lightning Talk.jpg)
 

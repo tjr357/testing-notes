@@ -21,5 +21,5 @@ _Last updated at 2019-03-13._
 # Testing Support - Service with Stacy and Laura
 
 
-![RB 2019-03-1213.jpg](./_resources/Testing_Support_-_Service_with_Stacy_and_Laura.resources/RB 2019-03-1213.jpg)
+![RB 2019-03-1213.jpg](assets/RB 2019-03-1213.jpg)
 

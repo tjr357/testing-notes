@@ -21,5 +21,5 @@ _Last updated at 2011-08-06._
 # Attachment:IMAG0048
 
 
-![ENIMAGE1312659942601.jpg](./_resources/Attachment_IMAG0048.resources/ENIMAGE1312659942601.jpg)
+![ENIMAGE1312659942601.jpg](assets/ENIMAGE1312659942601.jpg)
 

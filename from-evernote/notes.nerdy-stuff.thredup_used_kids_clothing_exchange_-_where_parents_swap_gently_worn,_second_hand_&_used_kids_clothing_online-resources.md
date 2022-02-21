@@ -11,5 +11,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [unknown_filename.png](/assets/unknown_filename-ZKK6qBCSOi4b.png)
-- [unknown_filename.1.jpeg](/assets/unknown_filename-ZOJ7Cn9tZsak.jpeg)
+- ![unknown_filename.png](/assets/unknown_filename-ZKK6qBCSOi4b.png)
+- ![unknown_filename.1.jpeg](/assets/unknown_filename-ZOJ7Cn9tZsak.jpeg)

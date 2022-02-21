@@ -21,5 +21,5 @@ _Last updated at 2018-03-27._
 # Docker Rancher Chip Chats Deep Dive - 32618.jpg
 
 
-![Docker Rancher Chip Chats Deep Dive - 32618.jpg](./_resources/Docker_Rancher_Chip_Chats_Deep_Dive_-_32618.jpg.resources/Docker Rancher Chip Chats Deep Dive - 32618.jpg)
+![Docker Rancher Chip Chats Deep Dive - 32618.jpg](assets/Docker Rancher Chip Chats Deep Dive - 32618.jpg)
 

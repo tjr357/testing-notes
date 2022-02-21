@@ -26,5 +26,5 @@ game-design
 # Game Idea - Ugly Art Object
 
 
-![Game Idea - Ugly Art Object.jpg](./_resources/Game_Idea_-_Ugly_Art_Object.resources/Game Idea - Ugly Art Object.jpg)
+![Game Idea - Ugly Art Object.jpg](assets/Game Idea - Ugly Art Object.jpg)
 

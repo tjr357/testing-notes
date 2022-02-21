@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # Odd Creature Food Survival Game
 
 
-![Odd Creature Food Survival Game.jpg](./_resources/Odd_Creature_Food_Survival_Game.resources/Odd Creature Food Survival Game.jpg)
+![Odd Creature Food Survival Game.jpg](assets/Odd Creature Food Survival Game.jpg)
 

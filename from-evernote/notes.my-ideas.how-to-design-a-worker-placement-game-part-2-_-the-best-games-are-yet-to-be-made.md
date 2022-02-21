@@ -31,7 +31,7 @@ board-game board-game-design
 
 # How to Design a Worker Placement Game Part 2
 
-![unknown_filename.4.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.4.png)
+![unknown_filename.4.png](assets/unknown_filename.4.png)
 
 ###### Are you ready to start building?
 
@@ -41,10 +41,10 @@ During your research, you studied the principles of worker placement, played wor
 
 Now, you’re ready to exchange your resource cubes for something bigger and better. It’s time to retrieve your workers and prepare for the next round. Take a meeple and place it on the Build space!
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
-![unknown_filename.7.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.7.png)
-![unknown_filename.5.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.5.png)
+![unknown_filename.7.png](assets/unknown_filename.7.png)
+![unknown_filename.5.png](assets/unknown_filename.5.png)
 
 #### 3\. Build
 
@@ -58,11 +58,11 @@ This piece will not attempt to cover every facet of game creation. Instead, I wi
 *   Minimize Analysis Paralysis
 *   Know the Value of a Placement
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 “Don’t make worker placement games multiplayer solitaire.” **– [Stephen DeBaun](http://www.leagueofgamemakers.com/stephen-debaun/)**
 
-![unknown_filename.1.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.1.png)
+![unknown_filename.1.png](assets/unknown_filename.1.png)
 
 ###### Build on the Shoulders of Giants
 
@@ -70,7 +70,7 @@ This is an exciting time for the hobby of tabletop games. New and innovative gam
 
 _Speaking of giants, Agricola(and its follow-up Caverna) is widely seen as the king of worker placement games. If you have a little time, check out this [**100 part blog on the design, development, and publishing of Agricola**](http://www.cliquenabend.de/artikel/611000-Agricola-Wie-es-zu-dem-Spiel-kam.html?seite=2) by Uwe Rosenberg.
 _
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 Designers are creative people, often swimming in vast pools of great ideas. But it’s important that we do not drown in a pool of innovation. When we approach our design work, we need to remember that many of our ideas, while brilliant, may actually be inferior to something that is tried and true. It’s possible that some common, ordinary, boring technique works better than the ingenious methods in our minds.
 
@@ -80,7 +80,7 @@ Think of some common game mechanics like drawing cards into a hand, victory poin
 
 I’m not saying your game should be “Fjords of Foddercheap,” “Bone Age,” or “Daggercola.” You don’t want to make a cheap knockoff of another game, and nobody wants you to. Rather, look to your forebears to help your game have a stable foundation. Even if your game is really, really different, you can benefit by keeping some traditions alive.
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 While designing, build on the shoulders of giants by looking at how how other designers have found solutions for the design problems you are facing. Rather than inventing a solution from scratch every time an issue comes up, allow yourself to borrow solutions from other games. Then, slightly modify (mutate don’t mutilate) that solution to suit your game. In all likelihood, the solution you borrowing originated from yet another source.
 
@@ -88,7 +88,7 @@ While designing, build on the shoulders of giants by looking at how how other de
 
 For example, let’s say that you are building a worker placement game in which players must absolutely acquire a certain resource, say “Gold,” regardless of the strategy they choose. In your game, having gold is vital. When you test out your mechanics, you discover that having only one space, or two, or even three spaces for workers to acquire gold is not enough. Players can still potentially get locked out of acquiring the gold they need to make progress in your game. So you take a look at some of the games on your shelf and see how they solved similar problems.
 
-![unknown_filename.3.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.3.png)
+![unknown_filename.3.png](assets/unknown_filename.3.png)
 
 ###### Preventing total block out:
 
@@ -103,7 +103,7 @@ You have solved a design problem of your game, you have built on the shoulders o
 
 “Make sure that the placement locations are well-balanced enough in their effects that the first few choices aren’t obvious. A mixture of long-term effects whose benefit is not immediately calculable and short term effects is always beneficial. Long-term or random effects will also reduce analysis paralysis.” **– [Tom Jolly](http://www.leagueofgamemakers.com/thomas-jolly/)**
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 ###### Minimize Analysis Paralysis
 
@@ -111,7 +111,7 @@ Analysis paralysis in boardgames usually describes a situation in which players 
 
 One of the appealing aspects of worker placement games is how well the structure lends itself to enabling players to understand and evaluate their options. The benefits of a placement are often easily visible on the board. The opportunity costs are likewise there to see. In building your own worker placement games, take steps to facilitate the decision making of players.
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 ###### Game Design Principles to Reduce Analysis Paralysis
 
@@ -121,7 +121,7 @@ One of the appealing aspects of worker placement games is how well the structure
 *   **Be consistent.** Creating consistent mechanics that are uniformly applied throughout your game allows players to evaluate options more easily, and concentrate their mental energy on strategy, rather than procedure.
 *   **Provide clear goals.** If a game’s objective is too vague, players may not be able to see how useful their various options are. Provide visual cues, reference cards, or other means to let players know how well they are doing. This feedback will help them see the value of their choices, or lack thereof.
 
-![unknown_filename.10.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.10.png)
+![unknown_filename.10.png](assets/unknown_filename.10.png)
 
 In [**Part 2**](http://www.leagueofgamemakers.com/designing-games-to-prevent-analysis-paralysis-part-2/) of my previous piece on analysis paralysis, I discuss in detail the following ten methods for reducing analysis paralysis. For more information, see the [**original piece**](http://www.leagueofgamemakers.com/designing-games-to-prevent-analysis-paralysis-part-2/).
 
@@ -140,7 +140,7 @@ In [**Part 2**](http://www.leagueofgamemakers.com/designing-games-to-prevent-ana
 *   Minimize Visual Information
 *   Use Simultaneous Actions
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 ###### Know the Value of a Placement
 
@@ -148,16 +148,16 @@ One approach to designing a game is to consider the fundamental unit of value in
 
 Each time a worker is placed on the board,
 
-![unknown_filename.6.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.6.png)
+![unknown_filename.6.png](assets/unknown_filename.6.png)
 that action will turn the wheels of your game, so to speak. The placement will likely provide the acting player with a benefit, and may potentially create a cost or setback to other players. The acting player might gain a benefit like a resource, card draw, or other form of advancement toward a goal. Likewise, a player’s choice will potentially have an opportunity cost, meaning that by choosing one option a player may lose the chance to benefit from other options now or in the future. The opportunity cost may decrease the actual net value of a given choice. _For more on opportunity costs, see Stephen DeBaun’s piece: [**“Adding Opportunity Costs: Army Building in Ars Victor.”**](http://www.leagueofgamemakers.com/adding-opportunity-costs-army-building-in-ars-victor/)_
 
 If you can establish a resource or action in your game as having a value of 1, then you can analyze balance in your game by comparing the relative value of the various choices based on that fundamental unit.
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 ###### Example:
 
-![unknown_filename.8.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.8.png)
+![unknown_filename.8.png](assets/unknown_filename.8.png)
 ￼
 
 Here we see three options available for our worker: Research, Innovate, and Build. For the sake of discussion, I’ll assign a value of 1 to the Science resource. With that fundamental unit established, I can determine relative values of the other spaces and also determine the typical value of the act of placing a worker, based on what the expected benefit would be.
@@ -178,7 +178,7 @@ At a glance, it might appear that a victory point should have a value of 2, beca
 
 Now let’s consider how resources might be exchanged in this game, and what the benefit might be for the player.
 
-![unknown_filename.2.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.2.png)
+![unknown_filename.2.png](assets/unknown_filename.2.png)
 ￼
 
 ###### Example: Converting a Resource
@@ -191,13 +191,13 @@ These examples are provided only to give a basic overview. As the game is played
 
 Avoid the situation where there is “no meaningful choice in placement as the game progresses” **– Norv Brooks**
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 ###### What Worker Placement Games are We Building?
 
 Several members of the League and our design colleagues have worker placement projects in the works. Some of these are described here. Christian Strain will be Kickstarting a worker placement game in May, 2014 called [“**Asking for Trobils**,”](http://kraken-games.com/upcoming/asking-for-trobils/) which features a light space theme and bright orange artwork. Jeff Cornelius is designing a worker placement microgame that fits on a single business card and uses only 1 meeple, 14 cubes, and 2 dice. Stephen DeBaun has been experimenting with converting an existing design to worker-placement-like mechanic with his “Hundred King War.” Brad and Norv Brooks are building “Breaking News,” a game in which players build a news media empire. Mark and Christina Major have designed Chimera Station, a soon-to-be-published science fiction game where your workers can be upgraded with different body parts to help them accomplish their tasks in an intergalactic commerce hub. I am working on an energy/environmentally themed game called “Drill, Baby, Drill.”
 
-![unknown_filename.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.png)
+![unknown_filename.png](assets/unknown_filename.png)
 
 This concludes the “Build” step of designing a worker placement game.
 
@@ -205,15 +205,15 @@ This concludes the “Build” step of designing a worker placement game.
 
 > Go to Part 3!
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
-![unknown_filename.9.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.9.png)
+![unknown_filename.9.png](assets/unknown_filename.9.png)
 
 #### Also on the League of Gamemakers
 
 Here are a few other posts on the League of Gamemakers that may assist you in your game making:
 
-![unknown_filename.11.png](./_resources/How_to_Design_a_Worker_Placement_Game_Part_2___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.11.png)
+![unknown_filename.11.png](assets/unknown_filename.11.png)
 
 The following two tabs change content below.
 

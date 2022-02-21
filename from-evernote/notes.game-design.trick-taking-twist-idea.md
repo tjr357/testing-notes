@@ -26,5 +26,5 @@ game-design
 # Trick taking twist idea
 
 
-![Trick taking twist idea.jpg](./_resources/Trick_taking_twist_idea.resources/Trick taking twist idea.jpg)
+![Trick taking twist idea.jpg](assets/Trick taking twist idea.jpg)
 

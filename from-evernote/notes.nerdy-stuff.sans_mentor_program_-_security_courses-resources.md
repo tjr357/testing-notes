@@ -8,8 +8,8 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [unknown_filename.1.png](/assets/unknown_filename-Id2QrT6bWXXm.png)
-- [unknown_filename.2.png](/assets/unknown_filename-I7pslVRa1lIp.png)
-- [unknown_filename.4.png](/assets/unknown_filename-NIYCaaARn7Ae.png)
-- [unknown_filename.3.png](/assets/unknown_filename-H5WbXTST12uK.png)
-- [unknown_filename.png](/assets/unknown_filename-fAdZkjJtYQo6.png)
+- ![unknown_filename.1.png](/assets/unknown_filename-Id2QrT6bWXXm.png)
+- ![unknown_filename.2.png](/assets/unknown_filename-I7pslVRa1lIp.png)
+- ![unknown_filename.4.png](/assets/unknown_filename-NIYCaaARn7Ae.png)
+- ![unknown_filename.3.png](/assets/unknown_filename-H5WbXTST12uK.png)
+- ![unknown_filename.png](/assets/unknown_filename-fAdZkjJtYQo6.png)

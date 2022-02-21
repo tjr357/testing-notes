@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # Weekly QA Test Automation Discussion
 
 
-![Weekly QA Test Automation Discussion.jpg](./_resources/Weekly_QA_Test_Automation_Discussion.resources/Weekly QA Test Automation Discussion.jpg)
+![Weekly QA Test Automation Discussion.jpg](assets/Weekly QA Test Automation Discussion.jpg)
 

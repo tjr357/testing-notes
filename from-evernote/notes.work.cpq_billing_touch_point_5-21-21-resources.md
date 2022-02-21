@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [CPQ Billing Touch Point 5-21-21.jpg](/assets/cpq-billing-touch-point-5-21-21.jpg)
+- ![CPQ Billing Touch Point 5-21-21.jpg](/assets/cpq-billing-touch-point-5-21-21.jpg)

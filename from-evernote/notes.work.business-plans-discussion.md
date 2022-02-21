@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Business Plans Discussion
 
 
-![Business Plans Discussion.jpg](./_resources/Business_Plans_Discussion.resources/Business Plans Discussion.jpg)
+![Business Plans Discussion.jpg](assets/Business Plans Discussion.jpg)
 

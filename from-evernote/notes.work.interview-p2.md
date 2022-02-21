@@ -21,5 +21,5 @@ _Last updated at 2019-01-22._
 # Interview p2
 
 
-![Interview p2.jpg](./_resources/Interview_p2.resources/Interview p2.jpg)
+![Interview p2.jpg](assets/Interview p2.jpg)
 

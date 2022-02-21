@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Touchbase with Stacy 5-31-18
 
 
-![RB 2018-05-3117.jpg](./_resources/Touchbase_with_Stacy_5-31-18.resources/RB 2018-05-3117.jpg)
+![RB 2018-05-3117.jpg](assets/RB 2018-05-3117.jpg)
 

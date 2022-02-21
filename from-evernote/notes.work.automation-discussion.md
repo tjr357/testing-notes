@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Automation Discussion
 
 
-![RB 2018-05-21 15.jpg](./_resources/Automation_Discussion.resources/RB 2018-05-21 15.jpg)
+![RB 2018-05-21 15.jpg](assets/RB 2018-05-21 15.jpg)
 

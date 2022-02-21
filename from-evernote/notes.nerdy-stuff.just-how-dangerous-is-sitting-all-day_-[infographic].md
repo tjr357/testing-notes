@@ -53,17 +53,17 @@ Have an account? [Sign in](http://mashable.com/follow/home)
 
 # **Trending Stories**
 
-1.   [![unknown_filename.7.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.7.jpeg)](http://mashable.com/2011/05/10/google-music/) 
+1.   [![unknown_filename.7.jpeg](assets/) 
     						
     
     ## [Google Music Is (Finally) Here](http://mashable.com/2011/05/10/google-music/) **[35](http://mashable.com/2011/05/10/google-music/#comments)**
     
-2.   [![unknown_filename.9.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.9.jpeg)](http://mashable.com/2011/05/10/microsoft-acquires-skype/) 
+2.   [![unknown_filename.9.jpeg](assets/) 
     						
     
     ## [Microsoft Acquires Skype for $8.5 Billion](http://mashable.com/2011/05/10/microsoft-acquires-skype/) **[76](http://mashable.com/2011/05/10/microsoft-acquires-skype/#comments)**
     
-3.   [![unknown_filename.62.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.62.jpeg)](http://mashable.com/2011/05/09/for-top-news-sites-facebook-drives-more-traffic-than-twitter-stats/) 
+3.   [![unknown_filename.62.jpeg](assets/) 
     						
     
     ## [For Top News Sites, Facebook Drives More Traffic Than Twitter STATS](http://mashable.com/2011/05/09/for-top-news-sites-facebook-drives-more-traffic-than-twitter-stats/) **[28](http://mashable.com/2011/05/09/for-top-news-sites-facebook-drives-more-traffic-than-twitter-stats/#comments)**
@@ -71,13 +71,13 @@ Have an account? [Sign in](http://mashable.com/follow/home)
 
 # [Just How Dangerous Is Sitting All Day? INFOGRAPHIC](http://mashable.com/2011/05/09/sitting-down-infographic/)
 
-[![unknown_filename.55.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.55.jpeg)](http://mashable.com/author/jolie-odell/)
+[![unknown_filename.55.jpeg](assets/)
 21 hours ago
 by [Jolie O'Dell](http://mashable.com/author/jolie-odell/) [99](http://mashable.com/2011/05/09/sitting-down-infographic/#comments)
 
 [Share on Tumblr](http://www.tumblr.com/share/link?url=http%3A%2F%2Fmashable.com%2F2011%2F05%2F09%2Fsitting-down-infographic%2F&name=Just+How+Dangerous+Is+Sitting+All+Day%3F+%5BINFOGRAPHIC%5D&description=%3Cimg+src%3D%22http%3A%2F%2Fmashable.com%2Fwp-content%2Fuploads%2F2011%2F05%2Fsitting-down-kills.jpg%22+alt%3D%22Just+How+Dangerous+Is+Sitting+All+Day%3F+%5BINFOGRAPHIC%5D%22+width%3D%22125%22+%2F%3E%3Cbr+%2F%3ESitting+down%2C+which+most+of+us+do+for+at+least+eight+hours+each+day%2C+might+be+the+worst+thing+we+do+for+our+health+all+day.%0D%0A%0D%0AWe%27ve+been+preaching+the+benefits+of+stand-up+desks+for+a+while+around+here+--+and+no+one+needs+this+good+news+more+than+social+media-obsessed+web+geeks.+A+recent+medical...)
 
-![unknown_filename.82.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__[INFOGRAPHIC].resources/unknown_filename.82.jpeg)Sitting down, which most of us do for at least eight hours each day, might be the worst thing we do for our health all day.
+![unknown_filename.82.jpeg](assets/unknown_filename.82.jpeg)Sitting down, which most of us do for at least eight hours each day, might be the worst thing we do for our health all day.
 
 We’ve been preaching the benefits of [stand-up desks](http://mashable.com/follow/topics/stand-up-desks/) for a while around here — and no one needs this good news more than social media-obsessed web geeks. A recent [medical journal study](http://mashable.com/2011/04/22/standup-desks/) showed that people who sit for most of their day are 54% more likely to die of a heart attack.
 
@@ -86,7 +86,7 @@ And our readers are receptive to the idea, too. In fact, in a [recent poll](http
 So if you need more convincing, check out these graphically organized stats from [Medical Billing and Coding](http://www.medicalbillingandcoding.org). We like it for the information it contains, but we love it for the Saul Bass, _Vertigo_\-esque graphics.
 
 _Click to see full-size image.
-[![unknown_filename.12.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.12.jpeg)](http://www.medicalbillingandcoding.org/sitting-kills/)_
+[![unknown_filename.12.jpeg](assets/)_
 
 _Source: [medicalbillingandcoding.org](http://www.medicalbillingandcoding.org)_
 
@@ -95,22 +95,22 @@ _Source: [medicalbillingandcoding.org](http://www.medicalbillingandcoding.org)_
 
 ###### Topics to follow
 
-*   [![unknown_filename.24.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.24.png)](http://mashable.com/follow/topics/infographics)
+*   [![unknown_filename.24.png](assets/infographics)
     	[Infographics](http://mashable.com/follow/topics/infographics) 342 followers
     [Follow](http://mashable.com/follow/topics/infographics/follow)
-*   [![unknown_filename.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.jpeg)](http://mashable.com/follow/topics/health)
+*   [![unknown_filename.jpeg](assets/health)
     	[Health](http://mashable.com/follow/topics/health) 28 followers
     [Follow](http://mashable.com/follow/topics/health/follow)
-*   [![unknown_filename.2.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.2.png)](http://mashable.com/follow/topics/stand-up-desks)
+*   [![unknown_filename.2.png](assets/stand-up-desks)
     	[Stand-up desks](http://mashable.com/follow/topics/stand-up-desks) 8 followers
     [Follow](http://mashable.com/follow/topics/stand-up-desks/follow)
-*   [![unknown_filename.2.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.2.png)](http://mashable.com/follow/topics/sitting-down)
+*   [![unknown_filename.2.png](assets/sitting-down)
     	[Sitting down](http://mashable.com/follow/topics/sitting-down) 7 followers
     [Follow](http://mashable.com/follow/topics/sitting-down/follow)
-*   [![unknown_filename.2.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.2.png)](http://mashable.com/follow/topics/health-and-environment-related-lists)
+*   [![unknown_filename.2.png](assets/health-and-environment-related-lists)
     	[Health And Environment Related Lists](http://mashable.com/follow/topics/health-and-environment-related-lists) 6 followers
     [Follow](http://mashable.com/follow/topics/health-and-environment-related-lists/follow)
-*   [![unknown_filename.73.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.73.jpeg)](http://mashable.com/follow/topics/news)
+*   [![unknown_filename.73.jpeg](assets/news)
     	[News](http://mashable.com/follow/topics/news) 5846 followers
     [Follow](http://mashable.com/follow/topics/news/follow)
 
@@ -125,12 +125,12 @@ _Source: [medicalbillingandcoding.org](http://www.medicalbillingandcoding.org)_
 
 # **More Stories in Tech & Gadgets**
 
-1.   [![unknown_filename.44.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.44.jpeg)](http://mashable.com/2011/05/10/adobe-photoshop-ipad/) 
+1.   [![unknown_filename.44.jpeg](assets/) 
     						
     
     ## [Adobe Launches Photoshop Companion Apps for iPad](http://mashable.com/2011/05/10/adobe-photoshop-ipad/) **[2](http://mashable.com/2011/05/10/adobe-photoshop-ipad/#comments)**
     
-2.   [![unknown_filename.74.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.74.jpeg)](http://mashable.com/2011/05/10/android-at-home/) 
+2.   [![unknown_filename.74.jpeg](assets/) 
     						
     
     ## [Android@Home Lets You Control Your Lights & Appliances Wirelessly](http://mashable.com/2011/05/10/android-at-home/) **[4](http://mashable.com/2011/05/10/android-at-home/#comments)**
@@ -138,12 +138,12 @@ _Source: [medicalbillingandcoding.org](http://www.medicalbillingandcoding.org)_
 
 # **Top Related Stories**
 
-1.   [![unknown_filename.11.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.11.jpeg)](http://mashable.com/2011/05/09/android-health-fitness-apps/) 
+1.   [![unknown_filename.11.jpeg](assets/) 
     						
     
     ## [10 Android Apps for Health & Fitness](http://mashable.com/2011/05/09/android-health-fitness-apps/) **[23](http://mashable.com/2011/05/09/android-health-fitness-apps/#comments)**
     
-2.   [![unknown_filename.65.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.65.jpeg)](http://mashable.com/2011/05/08/nfl-lockout-infographic/) 
+2.   [![unknown_filename.65.jpeg](assets/) 
     						
     
     ## [NFL Lockout: Social Media Users Weigh In INFOGRAPHIC](http://mashable.com/2011/05/08/nfl-lockout-infographic/) **[11](http://mashable.com/2011/05/08/nfl-lockout-infographic/#comments)**
@@ -155,8 +155,8 @@ _Source: [medicalbillingandcoding.org](http://www.medicalbillingandcoding.org)_
 
 To leave a comment on this story, please log in with [Facebook](http://mashable.com/follow/login/facebook) or [Twitter](http://mashable.com/follow/login/oauth/twitter)
 
-1.  [![unknown_filename.58.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.58.jpeg)](http://mashable.com/follow/people/4db1906d51984004f900019d/)
-    **[KiTTGT](http://mashable.com/follow/people/4db1906d51984004f900019d/)** [Follow](http://mashable.com/follow/people/4db1906d51984004f900019d/follow/) [![unknown_filename.5.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.5.png)](http://mashable.com/follow/people/4db1906d51984004f900019d/badges)
+1.  [![unknown_filename.58.jpeg](assets/)
+    **[KiTTGT](http://mashable.com/follow/people/4db1906d51984004f900019d/)** [Follow](http://mashable.com/follow/people/4db1906d51984004f900019d/follow/) [![unknown_filename.5.png](assets/badges)
     
     Walking rules !
     
@@ -164,7 +164,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     21 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325247#respond) [0](http://mashable.com/follow/comments/4dc8557a5198406e230019dc/vote?v=1)
     
-2.  [![unknown_filename.84.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.84.png)](http://mashable.com/follow/people/4dc855505198404f0f0000b6/)
+2.  [![unknown_filename.84.png](assets/)
     **[cloudhtml](http://mashable.com/follow/people/4dc855505198404f0f0000b6/)** [Follow](http://mashable.com/follow/people/4dc855505198404f0f0000b6/follow/)
     
     By my calculations, I should be dead in…r2/345(3.14m\*24h) = 10 years ago. Really cool infographic :).
@@ -173,7 +173,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     21 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325249#respond) [7](http://mashable.com/follow/comments/4dc856055198406e230019e0/vote?v=1)
     
-3.  [![unknown_filename.63.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.63.png)](http://mashable.com/follow/people/4dc85843b589e44889000e03/)
+3.  [![unknown_filename.63.png](assets/)
     **[antoniojc75](http://mashable.com/follow/people/4dc85843b589e44889000e03/)** [Follow](http://mashable.com/follow/people/4dc85843b589e44889000e03/follow/)
     
     Don’t just do something…Stand There!
@@ -182,7 +182,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     21 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325283#respond) [7](http://mashable.com/follow/comments/4dc858815198406e230019f3/vote?v=1)
     
-4.  [![unknown_filename.41.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.41.jpeg)](http://mashable.com/follow/people/4dc859b55198406327000154/)
+4.  [![unknown_filename.41.jpeg](assets/)
     **[Egzon Bunjaku](http://mashable.com/follow/people/4dc859b55198406327000154/)** [Follow](http://mashable.com/follow/people/4dc859b55198406327000154/follow/)
     
     Great article.
@@ -190,7 +190,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     <http://mashable.com/2011/05/09/sitting-down-infographic/#comment-17325301>
     21 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325301#respond) [0](http://mashable.com/follow/comments/4dc859ed5198406e23001a05/vote?v=1)
-    *   [![unknown_filename.64.gif](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.64.gif)](http://mashable.com/follow/people/4dc935ce31829736d6000268/)
+    *   [![unknown_filename.64.gif](assets/)
         **[pinopr](http://mashable.com/follow/people/4dc935ce31829736d6000268/)** [Follow](http://mashable.com/follow/people/4dc935ce31829736d6000268/follow/)
         
         You can always print it as a pdf, have it edited in photoshop and print it at a local shop :) assuming no copyright violation is made of course.
@@ -199,7 +199,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         4 hours ago
         [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327835#respond) [0](http://mashable.com/follow/comments/4dc9410b51984056160005af/vote?v=1)
         
-5.  [![unknown_filename.29.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.29.jpeg)](http://mashable.com/follow/people/4dc85b095198402d67000307/)
+5.  [![unknown_filename.29.jpeg](assets/)
     **[Jenaé Frick](http://mashable.com/follow/people/4dc85b095198402d67000307/)** [Follow](http://mashable.com/follow/people/4dc85b095198402d67000307/follow/)
     
     being the health conscious person, this is really depressing. I’m only glad my husband has a job where he stands all day. At least HE has these stats on his side.
@@ -208,7 +208,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     20 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325325#respond) [0](http://mashable.com/follow/comments/4dc85b775198406e23001a18/vote?v=1)
     
-6.  [![unknown_filename.36.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.36.jpeg)](http://mashable.com/follow/people/4dc85a535198402d670002d6/)
+6.  [![unknown_filename.36.jpeg](assets/)
     **[nebulon82](http://mashable.com/follow/people/4dc85a535198402d670002d6/)** [Follow](http://mashable.com/follow/people/4dc85a535198402d670002d6/follow/)
     
     You know who else sits for long periods each day and are likely to die within 15 years? Old people. I’m pretty sure you can’t pin that one on sitting down.
@@ -219,7 +219,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     20 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325329#respond) [1](http://mashable.com/follow/comments/4dc85b915198406e23001a1c/vote?v=1)
     
-7.  [![unknown_filename.27.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.27.jpeg)](http://mashable.com/follow/people/4dc801a33182974f230001f1/)
+7.  [![unknown_filename.27.jpeg](assets/)
     **[Jennifer Blanchard](http://mashable.com/follow/people/4dc801a33182974f230001f1/)** [Follow](http://mashable.com/follow/people/4dc801a33182974f230001f1/follow/)
     
     AMEN!!
@@ -230,7 +230,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     
     *   * * *
         
-        [![unknown_filename.45.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.45.jpeg)](http://mashable.com/follow/people/4dc8a216b589e46a8400004a/)
+        [![unknown_filename.45.jpeg](assets/)
         **[CRentmeester](http://mashable.com/follow/people/4dc8a216b589e46a8400004a/)** [Follow](http://mashable.com/follow/people/4dc8a216b589e46a8400004a/follow/)
         
         Check out this article on how to Make Your Own Walking Treadmill.
@@ -242,8 +242,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         [1](http://mashable.com/follow/comments/4dc8a36d519840561600002e/vote?v=1)
         
     
-    *   [![unknown_filename.25.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.25.jpeg)](http://mashable.com/follow/people/yugenro/)
-        **[Keith Rowley](http://mashable.com/follow/people/yugenro/)** [Follow](http://mashable.com/follow/people/yugenro/follow/) [![unknown_filename.5.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.5.png)](http://mashable.com/follow/people/yugenro/badges)
+    *   [![unknown_filename.25.jpeg](assets/)
+        **[Keith Rowley](http://mashable.com/follow/people/yugenro/)** [Follow](http://mashable.com/follow/people/yugenro/follow/) [![unknown_filename.5.png](assets/badges)
         
         Precisely, UntoldEnt!
         
@@ -252,8 +252,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325479#respond) [1](http://mashable.com/follow/comments/4dc864225198406e23001a82/vote?v=1)
         *   * * *
             
-            [![unknown_filename.34.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.34.jpeg)](http://mashable.com/follow/people/jolie/)
-            **[Jolie O'Dell](http://mashable.com/follow/people/jolie/)** [Follow](http://mashable.com/follow/people/jolie/follow/) [![unknown_filename.38.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.38.png)](http://mashable.com/follow/people/jolie/badges)
+            [![unknown_filename.34.jpeg](assets/)
+            **[Jolie O'Dell](http://mashable.com/follow/people/jolie/)** [Follow](http://mashable.com/follow/people/jolie/follow/) [![unknown_filename.38.png](assets/badges)
             
             You know we have upvote buttons now, right? ;)
             
@@ -262,7 +262,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
             [8](http://mashable.com/follow/comments/4dc891cf5198406e23001ba3/vote?v=1)
             
     
-    *   [![unknown_filename.60.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.60.jpeg)](http://mashable.com/follow/people/bschreil/)
+    *   [![unknown_filename.60.jpeg](assets/)
         **[Balazs Schreil](http://mashable.com/follow/people/bschreil/)** [Follow](http://mashable.com/follow/people/bschreil/follow/)
         
         Processed Chicken SUCKS!
@@ -271,8 +271,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         17 hours ago
         [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325895#respond) [1](http://mashable.com/follow/comments/4dc886ca5198406e23001b78/vote?v=1)
         
-    *   [![unknown_filename.33.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.33.jpeg)](http://mashable.com/follow/people/conz/)
-        **[Conz Preti](http://mashable.com/follow/people/conz/)** [Follow](http://mashable.com/follow/people/conz/follow/) [![unknown_filename.38.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.38.png)](http://mashable.com/follow/people/conz/badges)
+    *   [![unknown_filename.33.jpeg](assets/)
+        **[Conz Preti](http://mashable.com/follow/people/conz/)** [Follow](http://mashable.com/follow/people/conz/follow/) [![unknown_filename.38.png](assets/badges)
         
         Interesting questions Keith, would be nice to know.
         
@@ -280,7 +280,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         3 hours ago
         [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17328005#respond) [0](http://mashable.com/follow/comments/4dc94f395198405616000642/vote?v=1)
         
-8.  [![unknown_filename.51.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.51.jpeg)](http://mashable.com/follow/people/4dc863aa519840632700029d/)
+8.  [![unknown_filename.51.jpeg](assets/)
     **[Adam Losier](http://mashable.com/follow/people/4dc863aa519840632700029d/)** [Follow](http://mashable.com/follow/people/4dc863aa519840632700029d/follow/)
     
     So I have a slight pain in my chest and just finished watching an episode of “Body of Proof” that said sitting increases your rate of a heart attack and now I jump on Mashable and see this article that backs up that statement and I realize that I sit at work for 9 hours and then go to school sitting down for a few more hours before I get home.
@@ -291,7 +291,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     20 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325489#respond) [0](http://mashable.com/follow/comments/4dc864c15198406e23001a85/vote?v=1)
     
-9.  [![unknown_filename.39.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.39.jpeg)](http://mashable.com/follow/people/4dc872c2b589e4277500008e/)
+9.  [![unknown_filename.39.jpeg](assets/)
     **[billaddison82](http://mashable.com/follow/people/4dc872c2b589e4277500008e/)** [Follow](http://mashable.com/follow/people/4dc872c2b589e4277500008e/follow/)
     
     This info graphic is misleading and dangerous. Obviously sitting for long periods without moving is not good for you, but standing in a stationary position is much worse.
@@ -302,7 +302,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     19 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325691#respond) [4](http://mashable.com/follow/comments/4dc873e95198406e23001ae7/vote?v=1)
     
-10.  [![unknown_filename.28.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.28.png)](http://mashable.com/follow/people/4dc0d2693182975cd9000099/)
+10.  [![unknown_filename.28.png](assets/)
     **[postimg](http://mashable.com/follow/people/4dc0d2693182975cd9000099/)** [Follow](http://mashable.com/follow/people/4dc0d2693182975cd9000099/follow/)
     
     walking is healthy
@@ -311,7 +311,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     18 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325719#respond) [0](http://mashable.com/follow/comments/4dc876b65198406e23001af6/vote?v=1)
     
-11.  [![unknown_filename.32.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.32.jpeg)](http://mashable.com/follow/people/4dc876f6318297073700017d/)
+11.  [![unknown_filename.32.jpeg](assets/)
     **[ishabluebell](http://mashable.com/follow/people/4dc876f6318297073700017d/)** [Follow](http://mashable.com/follow/people/4dc876f6318297073700017d/follow/)
     
     I’m differently-abled, and don’t do walking, nor standing without support. So now I’m jigging up & down & fidgetting like mad while I’m sitting!
@@ -320,7 +320,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     18 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325729#respond) [1](http://mashable.com/follow/comments/4dc8776a5198406e23001afc/vote?v=1)
     
-12.  [![unknown_filename.32.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.32.jpeg)](http://mashable.com/follow/people/4dc876f6318297073700017d/)
+12.  [![unknown_filename.32.jpeg](assets/)
     **[ishabluebell](http://mashable.com/follow/people/4dc876f6318297073700017d/)** [Follow](http://mashable.com/follow/people/4dc876f6318297073700017d/follow/)
     
     I’m differently-abled, and don’t do walking, nor standing for periods without support. So I jig up & down & fidget like mad while I’m sitting.
@@ -329,7 +329,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     18 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325739#respond) [1](http://mashable.com/follow/comments/4dc877e55198406e23001b02/vote?v=1)
     
-    *   [![unknown_filename.14.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.14.jpeg)](http://mashable.com/follow/people/iquanyin/)
+    *   [![unknown_filename.14.jpeg](assets/)
         **[Iquanyin Moon](http://mashable.com/follow/people/iquanyin/)** [Follow](http://mashable.com/follow/people/iquanyin/follow/)
         
         no. only the “extra” sitting after work is dangerous. lol.
@@ -341,7 +341,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     
     *   * * *
         
-        [![unknown_filename.80.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.80.jpeg)](http://mashable.com/follow/people/4dc95ebb5198402ccd0006ad/)
+        [![unknown_filename.80.jpeg](assets/)
         **[XDorianGrayX](http://mashable.com/follow/people/4dc95ebb5198402ccd0006ad/)** [Follow](http://mashable.com/follow/people/4dc95ebb5198402ccd0006ad/follow/)
         
         There is also at least one major error in yours.
@@ -350,7 +350,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         2 hours ago
         [1](http://mashable.com/follow/comments/4dc9601f519840561600074d/vote?v=1)
         
-13.  [![unknown_filename.35.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.35.jpeg)](http://mashable.com/follow/people/4dc87b0031829748180000c0/)
+13.  [![unknown_filename.35.jpeg](assets/)
     **[Sheila Gunter](http://mashable.com/follow/people/4dc87b0031829748180000c0/)** [Follow](http://mashable.com/follow/people/4dc87b0031829748180000c0/follow/)
     
     DON’T JUST SIT THERE JUST DO NOTHING.
@@ -358,8 +358,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     <http://mashable.com/2011/05/09/sitting-down-infographic/#comment-17325781>
     18 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325781#respond) [0](http://mashable.com/follow/comments/4dc87b555198406e23001b24/vote?v=1)
-    *   [![unknown_filename.33.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.33.jpeg)](http://mashable.com/follow/people/conz/)
-        **[Conz Preti](http://mashable.com/follow/people/conz/)** [Follow](http://mashable.com/follow/people/conz/follow/) [![unknown_filename.38.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.38.png)](http://mashable.com/follow/people/conz/badges)
+    *   [![unknown_filename.33.jpeg](assets/)
+        **[Conz Preti](http://mashable.com/follow/people/conz/)** [Follow](http://mashable.com/follow/people/conz/follow/) [![unknown_filename.38.png](assets/badges)
         
         Glad you liked it Tom! :)
         
@@ -367,7 +367,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
         1 hour ago
         [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17328383#respond) [0](http://mashable.com/follow/comments/4dc965865198405616000783/vote?v=1)
         
-14.  [![unknown_filename.40.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.40.jpeg)](http://mashable.com/follow/people/4dc88493b589e46076000234/)
+14.  [![unknown_filename.40.jpeg](assets/)
     **[OhHiPornTitle](http://mashable.com/follow/people/4dc88493b589e46076000234/)** [Follow](http://mashable.com/follow/people/4dc88493b589e46076000234/follow/)
     
     And this study claims that standing will kill you as well:
@@ -379,7 +379,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     17 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325871#respond) [4](http://mashable.com/follow/comments/4dc884f55198406e23001b65/vote?v=1)
     
-15.  [![unknown_filename.72.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.72.jpeg)](http://mashable.com/follow/people/edse83/)
+15.  [![unknown_filename.72.jpeg](assets/)
     **[Daniel Salazar](http://mashable.com/follow/people/edse83/)** [Follow](http://mashable.com/follow/people/edse83/follow/)
     
     Gotta get myself a standing desk :D and take breaks! Great article.
@@ -388,7 +388,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     17 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325893#respond) [0](http://mashable.com/follow/comments/4dc886a45198406e23001b74/vote?v=1)
     
-16.  [![unknown_filename.23.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.23.png)](http://mashable.com/follow/people/4dc0703231829754fe000066/)
+16.  [![unknown_filename.23.png](assets/)
     **[zombiterrorizer](http://mashable.com/follow/people/4dc0703231829754fe000066/)** [Follow](http://mashable.com/follow/people/4dc0703231829754fe000066/follow/)
     
     wahoooooo! I chew gum!! :D
@@ -397,7 +397,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     16 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17325995#respond) [0](http://mashable.com/follow/comments/4dc892ce5198406e23001baa/vote?v=1)
     
-17.  [![unknown_filename.50.gif](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.50.gif)](http://mashable.com/follow/people/4dc737895198407a71000060/)
+17.  [![unknown_filename.50.gif](assets/)
     **[medcl](http://mashable.com/follow/people/4dc737895198407a71000060/)** [Follow](http://mashable.com/follow/people/4dc737895198407a71000060/follow/)
     
     oh shit~
@@ -406,8 +406,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     16 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326043#respond) [1](http://mashable.com/follow/comments/4dc897875198406e23001bc7/vote?v=1)
     
-18.  [![unknown_filename.17.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.17.jpeg)](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/)
-    **[Mustafa Khundmiri](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/)** [Follow](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/follow/) [![unknown_filename.5.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.5.png)](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/badges)
+18.  [![unknown_filename.17.jpeg](assets/)
+    **[Mustafa Khundmiri](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/)** [Follow](http://mashable.com/follow/people/4dbb5cc2b589e408de0006d1/follow/) [![unknown_filename.5.png](assets/badges)
     
     Err isn’t Stephen Hawking alive and kickin’? Like he’s sitting ALL the time. Just saying’
     
@@ -415,8 +415,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     16 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326071#respond) [0](http://mashable.com/follow/comments/4dc89a2f5198405616000007/vote?v=1)
     
-19.  [![unknown_filename.57.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.57.jpeg)](http://mashable.com/follow/people/joefabian2009/)
-    **[Joseph Fabian](http://mashable.com/follow/people/joefabian2009/)** [Follow](http://mashable.com/follow/people/joefabian2009/follow/) [![unknown_filename.5.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.5.png)](http://mashable.com/follow/people/joefabian2009/badges)
+19.  [![unknown_filename.57.jpeg](assets/)
+    **[Joseph Fabian](http://mashable.com/follow/people/joefabian2009/)** [Follow](http://mashable.com/follow/people/joefabian2009/follow/) [![unknown_filename.5.png](assets/badges)
     
     Great article, some of the best jobs are sitting requirement for long periods of time. I would like to see companies add rules for walking in the office
     
@@ -424,7 +424,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     16 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326089#respond) [0](http://mashable.com/follow/comments/4dc89cb25198405616000019/vote?v=1)
     
-20.  [![unknown_filename.77.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.77.jpeg)](http://mashable.com/follow/people/4d95299a318297583300004f/)
+20.  [![unknown_filename.77.jpeg](assets/)
     **[ShannonAMay](http://mashable.com/follow/people/4d95299a318297583300004f/)** [Follow](http://mashable.com/follow/people/4d95299a318297583300004f/follow/)
     
     That is disturbing.
@@ -433,7 +433,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     15 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326167#respond) [0](http://mashable.com/follow/comments/4dc8a97c5198405616000045/vote?v=1)
     
-21.  [![unknown_filename.14.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.14.jpeg)](http://mashable.com/follow/people/iquanyin/)
+21.  [![unknown_filename.14.jpeg](assets/)
     **[Iquanyin Moon](http://mashable.com/follow/people/iquanyin/)** [Follow](http://mashable.com/follow/people/iquanyin/follow/)
     
     amazing how its that /extra sitting outside work/ thats so deadly. lol,wut? wait, they said earlier that 6 or more hrs was deadly. later, its hr 9?
@@ -442,7 +442,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     14 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326231#respond) [0](http://mashable.com/follow/comments/4dc8afb65198405616000084/vote?v=1)
     
-22.  [![unknown_filename.49.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.49.jpeg)](http://mashable.com/follow/people/mjou812/)
+22.  [![unknown_filename.49.jpeg](assets/)
     **[Michael Jelacic](http://mashable.com/follow/people/mjou812/)** [Follow](http://mashable.com/follow/people/mjou812/follow/)
     
     Ho;y ++++ good post I am gonna die at 36 which is next year then i been sitting 12hours a day minimum what do we do stand up??
@@ -451,7 +451,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     14 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326263#respond) [0](http://mashable.com/follow/comments/4dc8b2cf51984056160000e8/vote?v=1)
     
-23.  [![unknown_filename.26.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.26.png)](http://mashable.com/follow/people/4dc8b9a351984012fc000123/)
+23.  [![unknown_filename.26.png](assets/)
     **[teratotech](http://mashable.com/follow/people/4dc8b9a351984012fc000123/)** [Follow](http://mashable.com/follow/people/4dc8b9a351984012fc000123/follow/)
     
     Please stand up now!
@@ -460,7 +460,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     14 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326343#respond) [0](http://mashable.com/follow/comments/4dc8b9e55198405616000131/vote?v=1)
     
-24.  [![unknown_filename.69.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.69.jpeg)](http://mashable.com/follow/people/4dc8debf3182972abb000252/)
+24.  [![unknown_filename.69.jpeg](assets/)
     **[rberger](http://mashable.com/follow/people/4dc8debf3182972abb000252/)** [Follow](http://mashable.com/follow/people/4dc8debf3182972abb000252/follow/)
     
     I got my 55,000 mile checkup at the beginning of this year and it was clear I was killing myself slowly. I knew I had to do something immediately or I would do nothing. So I just got a used treadmill from craigslist, an jury-rigged it with a board over the handrails for the keyboard, some boxes & books to adjust the hight of the keyboard and magic pad, and put my monitor up on a speaker stand on top of my desk and I’ve been doing 3+ hours per day since of walking while I work. Maybe one day I’ll refine it, but for now I’m not sitting all day.
@@ -469,7 +469,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     11 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326759#respond) [0](http://mashable.com/follow/comments/4dc8dfa551984056160002a0/vote?v=1)
     
-25.  [![unknown_filename.54.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.54.jpeg)](http://mashable.com/follow/people/renton66/)
+25.  [![unknown_filename.54.jpeg](assets/)
     **[Matt Gentile](http://mashable.com/follow/people/renton66/)** [Follow](http://mashable.com/follow/people/renton66/follow/)
     
     great post, jolie. makes me feel much more confident in the stock purchase i made in you last week.
@@ -478,7 +478,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     10 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326919#respond) [0](http://mashable.com/follow/comments/4dc8ec985198405616000308/vote?v=1)
     
-26.  [![unknown_filename.61.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.61.jpeg)](http://mashable.com/follow/people/4dc8f105b589e42e2b0001e2/)
+26.  [![unknown_filename.61.jpeg](assets/)
     **[Anissa Harrell](http://mashable.com/follow/people/4dc8f105b589e42e2b0001e2/)** [Follow](http://mashable.com/follow/people/4dc8f105b589e42e2b0001e2/follow/)
     
     I will take this advice very serious
@@ -487,8 +487,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     10 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326957#respond) [0](http://mashable.com/follow/comments/4dc8f15f519840561600032a/vote?v=1)
     
-27.  [![unknown_filename.21.gif](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.21.gif)](http://mashable.com/follow/people/inoperante/)
-    **[Ben Greenwood](http://mashable.com/follow/people/inoperante/)** [Follow](http://mashable.com/follow/people/inoperante/follow/) [![unknown_filename.70.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.70.png)](http://mashable.com/follow/people/inoperante/badges)
+27.  [![unknown_filename.21.gif](assets/)
+    **[Ben Greenwood](http://mashable.com/follow/people/inoperante/)** [Follow](http://mashable.com/follow/people/inoperante/follow/) [![unknown_filename.70.png](assets/badges)
     
     This is why I take regular smoke breaks…
     
@@ -496,8 +496,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     10 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17326981#respond) [0](http://mashable.com/follow/comments/4dc8f2cd5198405616000340/vote?v=1)
     
-28.  [![unknown_filename.66.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.66.jpeg)](http://mashable.com/follow/people/msarlo/)
-    **[Michael Sarlitt](http://mashable.com/follow/people/msarlo/)** [Follow](http://mashable.com/follow/people/msarlo/follow/) [![unknown_filename.5.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.5.png)](http://mashable.com/follow/people/msarlo/badges)
+28.  [![unknown_filename.66.jpeg](assets/)
+    **[Michael Sarlitt](http://mashable.com/follow/people/msarlo/)** [Follow](http://mashable.com/follow/people/msarlo/follow/) [![unknown_filename.5.png](assets/badges)
     
     This is great. I’d be curious to know more about the effects of sitting on your back (only to confirm the assumption that sitting all day contributed to a painful herniated disc).
     
@@ -505,7 +505,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     9 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327007#respond) [0](http://mashable.com/follow/comments/4dc8f6af519840561600034a/vote?v=1)
     
-29.  [![unknown_filename.59.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.59.jpeg)](http://mashable.com/follow/people/4dc8faa5b589e45bd90001bc/)
+29.  [![unknown_filename.59.jpeg](assets/)
     **[impe83](http://mashable.com/follow/people/4dc8faa5b589e45bd90001bc/)** [Follow](http://mashable.com/follow/people/4dc8faa5b589e45bd90001bc/follow/)
     
     I always knew it the problem was more dangeours than anybody thoughts!
@@ -514,8 +514,8 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     9 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327043#respond) [0](http://mashable.com/follow/comments/4dc8fbb45198405616000364/vote?v=1)
     
-30.  [![unknown_filename.79.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.79.png)](http://mashable.com/follow/people/rogercpeaks/)
-    **[Saabiq Chowdhury](http://mashable.com/follow/people/rogercpeaks/)** [Follow](http://mashable.com/follow/people/rogercpeaks/follow/) [![unknown_filename.1.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.1.png)](http://mashable.com/follow/people/rogercpeaks/badges)
+30.  [![unknown_filename.79.png](assets/)
+    **[Saabiq Chowdhury](http://mashable.com/follow/people/rogercpeaks/)** [Follow](http://mashable.com/follow/people/rogercpeaks/follow/) [![unknown_filename.1.png](assets/badges)
     
     Scary :O
     
@@ -523,7 +523,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     8 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327157#respond) [0](http://mashable.com/follow/comments/4dc9098451984056160003b8/vote?v=1)
     
-31.  [![unknown_filename.85.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.85.jpeg)](http://mashable.com/follow/people/4dc90d7b5198400cb90002eb/)
+31.  [![unknown_filename.85.jpeg](assets/)
     **[Scott Keene](http://mashable.com/follow/people/4dc90d7b5198400cb90002eb/)** [Follow](http://mashable.com/follow/people/4dc90d7b5198400cb90002eb/follow/)
     
     My risk of death is 40% higher??? So now I’m at 140% risk of dying someday?
@@ -532,7 +532,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     8 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327189#respond) [0](http://mashable.com/follow/comments/4dc90dd451984056160003c8/vote?v=1)
     
-32.  [![unknown_filename.81.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.81.jpeg)](http://mashable.com/follow/people/4db237a631829771e900009c/)
+32.  [![unknown_filename.81.jpeg](assets/)
     **[Claire Marshall](http://mashable.com/follow/people/4db237a631829771e900009c/)** [Follow](http://mashable.com/follow/people/4db237a631829771e900009c/follow/)
     
     I have been a big fan of the stand up desk for years, constantly making my own. I hope that with shocking diagrams like this, we might see more work places introduce stand up desks and might make them more prolific to buy.
@@ -541,7 +541,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     8 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327223#respond) [0](http://mashable.com/follow/comments/4dc910e151984056160003d8/vote?v=1)
     
-33.  [![unknown_filename.81.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.81.jpeg)](http://mashable.com/follow/people/4db237a631829771e900009c/)
+33.  [![unknown_filename.81.jpeg](assets/)
     **[Claire Marshall](http://mashable.com/follow/people/4db237a631829771e900009c/)** [Follow](http://mashable.com/follow/people/4db237a631829771e900009c/follow/)
     
     I have been a big fan of the stand up desk for years, constantly making my own. I hope that with shocking diagrams like this, we might see more work places introduce stand up desks and might make them easier to buy.
@@ -550,7 +550,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     7 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327229#respond) [0](http://mashable.com/follow/comments/4dc9111551984056160003dc/vote?v=1)
     
-34.  [![unknown_filename.46.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.46.png)](http://mashable.com/follow/people/4dc9135651984077760000ba/)
+34.  [![unknown_filename.46.png](assets/)
     **[otanix](http://mashable.com/follow/people/4dc9135651984077760000ba/)** [Follow](http://mashable.com/follow/people/4dc9135651984077760000ba/follow/)
     
     this is just an infomercial to sell you something. (maybe stand-up desk)? But seriously, 100 years ago, people are healthier because high fructose sugar and hydrogenerated transfat-rich soya oil has not been invented.
@@ -561,7 +561,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     7 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327259#respond) [0](http://mashable.com/follow/comments/4dc9154251984056160003e6/vote?v=1)
     
-35.  [![unknown_filename.53.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.53.jpeg)](http://mashable.com/follow/people/4db9b196318297549700013f/)
+35.  [![unknown_filename.53.jpeg](assets/)
     **[Jan Omahen](http://mashable.com/follow/people/4db9b196318297549700013f/)** [Follow](http://mashable.com/follow/people/4db9b196318297549700013f/follow/)
     
     i dont know. i saw some pretty crazy compilations of people getting hurt at doing other than sitting. i think im good.
@@ -570,7 +570,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     6 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327357#respond) [0](http://mashable.com/follow/comments/4dc91f765198405616000427/vote?v=1)
     
-36.  [![unknown_filename.22.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.22.jpeg)](http://mashable.com/follow/people/goodspeed/)
+36.  [![unknown_filename.22.jpeg](assets/)
     **[Christian DeYenno](http://mashable.com/follow/people/goodspeed/)** [Follow](http://mashable.com/follow/people/goodspeed/follow/)
     
     I think if we began incorporating lions into our office setting people might move a little more. I guess casualties would be up about 100%, but hey… it’s a start.
@@ -579,7 +579,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     6 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327371#respond) [0](http://mashable.com/follow/comments/4dc921b95198405616000431/vote?v=1)
     
-37.  [![unknown_filename.16.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.16.jpeg)](http://mashable.com/follow/people/bunton/)
+37.  [![unknown_filename.16.jpeg](assets/)
     **[Sean Bunton](http://mashable.com/follow/people/bunton/)** [Follow](http://mashable.com/follow/people/bunton/follow/)
     
     Whoa. Those graphics are popping! Feels 3D.
@@ -588,7 +588,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     6 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327383#respond) [0](http://mashable.com/follow/comments/4dc9231d5198405616000439/vote?v=1)
     
-38.  [![unknown_filename.8.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.8.png)](http://mashable.com/follow/people/4dc92ccdb589e479da000221/)
+38.  [![unknown_filename.8.png](assets/)
     **[jrplane](http://mashable.com/follow/people/4dc92ccdb589e479da000221/)** [Follow](http://mashable.com/follow/people/4dc92ccdb589e479da000221/follow/)
     
     Sitting time increased 8% and obesity double in the same period. This is correlation, not causation. You cannot make any conclusions from this.
@@ -599,7 +599,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     5 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327519#respond) [0](http://mashable.com/follow/comments/4dc9325f51984056160004f5/vote?v=1)
     
-39.  [![unknown_filename.52.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.52.png)](http://mashable.com/follow/people/4dc90837b589e43fbd0001c4/)
+39.  [![unknown_filename.52.png](assets/)
     **[adelsultan1](http://mashable.com/follow/people/4dc90837b589e43fbd0001c4/)** [Follow](http://mashable.com/follow/people/4dc90837b589e43fbd0001c4/follow/)
     
     this is totally right
@@ -616,7 +616,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     5 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327601#respond) [0](http://mashable.com/follow/comments/4dc931a351984056160004e8/vote?v=1)
     
-40.  [![unknown_filename.75.gif](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.75.gif)](http://mashable.com/follow/people/4dc937c95198400bcc000290/)
+40.  [![unknown_filename.75.gif](assets/)
     **[Beermatman](http://mashable.com/follow/people/4dc937c95198400bcc000290/)** [Follow](http://mashable.com/follow/people/4dc937c95198400bcc000290/follow/)
     
     It’s the effect on children that’s most worrying. Sitting all day at school and on their computers all evening.. Sad
@@ -627,7 +627,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     5 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327727#respond) [0](http://mashable.com/follow/comments/4dc938cf519840561600054f/vote?v=1)
     
-41.  [![unknown_filename.83.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.83.jpeg)](http://mashable.com/follow/people/4dc93a1fb589e474c8000196/)
+41.  [![unknown_filename.83.jpeg](assets/)
     **[Howard Forton](http://mashable.com/follow/people/4dc93a1fb589e474c8000196/)** [Follow](http://mashable.com/follow/people/4dc93a1fb589e474c8000196/follow/)
     
     Very good. I’d rather be sat here than working in a mine, or felling trees, or fishing on a trawler in the north atlantic … Seriously, I particularly like the sitting position graphic – 135 degrees is the way to go. That’s why school kinds tip their chairs back and balance. It feels better.
@@ -636,7 +636,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     5 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327741#respond) [0](http://mashable.com/follow/comments/4dc93b14519840561600055e/vote?v=1)
     
-42.  [![unknown_filename.19.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.19.jpeg)](http://mashable.com/follow/people/4dc93c00318297370700000b/)
+42.  [![unknown_filename.19.jpeg](assets/)
     **[jonballard](http://mashable.com/follow/people/4dc93c00318297370700000b/)** [Follow](http://mashable.com/follow/people/4dc93c00318297370700000b/follow/)
     
     We added stand up desks and tall task chairs in our offices several years ago. It’s great to have the option to sit or stand and I feel much better at the end of the day!
@@ -645,7 +645,7 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
     4 hours ago
     [Reply](http://mashable.com/2011/05/09/sitting-down-infographic/?replytocom=17327757#respond) [0](http://mashable.com/follow/comments/4dc93c735198405616000568/vote?v=1)
     
-43.  [![unknown_filename.67.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.67.jpeg)](http://mashable.com/follow/people/aptonuk/)
+43.  [![unknown_filename.67.jpeg](assets/)
     **[Leena Marsh](http://mashable.com/follow/people/aptonuk/)** [Follow](http://mashable.com/follow/people/aptonuk/follow/)
     
     wow that scared the bejeezers out of me. I pretty much have to sit down 8.5 hours a day for work. Then I get home and do some more strenuous sitting down activities. Does this mean if I get fat I can get compensation from the office? lol. Good job there are gyms. They ought to put this information in every gym welcome pack. Think they would retain more members that way!
@@ -674,57 +674,57 @@ To leave a comment on this story, please log in with [Facebook](http://mashable.
 
 # **Trending Topics**
 
-*   [![unknown_filename.71.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.71.png)](http://mashable.com/follow/topics/google)
+*   [![unknown_filename.71.png](assets/google)
     	[Google](http://mashable.com/follow/topics/google) 8919 followers
     
-*   [![unknown_filename.13.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.13.jpeg)](http://mashable.com/follow/topics/twitter)
+*   [![unknown_filename.13.jpeg](assets/twitter)
     	[Twitter](http://mashable.com/follow/topics/twitter) 9401 followers
     
-*   [![unknown_filename.78.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.78.jpeg)](http://mashable.com/follow/topics/gadgets)
+*   [![unknown_filename.78.jpeg](assets/gadgets)
     	[Gadgets](http://mashable.com/follow/topics/gadgets) 1167 followers
     
-*   [![unknown_filename.42.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.42.png)](http://mashable.com/follow/topics/apple)
+*   [![unknown_filename.42.png](assets/apple)
     	[Apple](http://mashable.com/follow/topics/apple) 7627 followers
     
-*   [![unknown_filename.10.png](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.10.png)](http://mashable.com/follow/topics/skype)
+*   [![unknown_filename.10.png](assets/skype)
     	[Skype](http://mashable.com/follow/topics/skype) 578 followers
     
-*   [![unknown_filename.31.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.31.jpeg)](http://mashable.com/follow/topics/youtube)
+*   [![unknown_filename.31.jpeg](assets/youtube)
     	[YouTube](http://mashable.com/follow/topics/youtube) 1497 followers
     
-*   [![unknown_filename.30.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.30.jpeg)](http://mashable.com/follow/topics/microsoft)
+*   [![unknown_filename.30.jpeg](assets/microsoft)
     	[Microsoft](http://mashable.com/follow/topics/microsoft) 644 followers
     
-*   [![unknown_filename.76.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.76.jpeg)](http://mashable.com/follow/topics/osama-bin-laden)
+*   [![unknown_filename.76.jpeg](assets/osama-bin-laden)
     	[Osama Bin Laden](http://mashable.com/follow/topics/osama-bin-laden) 32 followers
     
-*   [![unknown_filename.18.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.18.jpeg)](http://mashable.com/follow/topics/startups)
+*   [![unknown_filename.18.jpeg](assets/startups)
     	[Startups](http://mashable.com/follow/topics/startups) 1426 followers
     
 
 # **Top Stories Today**
 
-1.   [![unknown_filename.82.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.82.jpeg)  1](http://mashable.com/2011/05/09/sitting-down-infographic/)
+1.   [![unknown_filename.82.jpeg](assets/)
     						
     
     ## [Just How Dangerous Is Sitting All Day? INFOGRAPHIC](http://mashable.com/2011/05/09/sitting-down-infographic/) **[96](http://mashable.com/2011/05/09/sitting-down-infographic/#comments)**
     
-2.   [![unknown_filename.20.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.20.jpeg)  2](http://mashable.com/2011/05/06/historic-tweets/)
+2.   [![unknown_filename.20.jpeg](assets/)
     						
     
     ## [10 Historic Tweets That Captivated the World](http://mashable.com/2011/05/06/historic-tweets/) **[46](http://mashable.com/2011/05/06/historic-tweets/#comments)**
     
-3.   [![unknown_filename.11.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.11.jpeg)  3](http://mashable.com/2011/05/09/android-health-fitness-apps/)
+3.   [![unknown_filename.11.jpeg](assets/)
     						
     
     ## [10 Android Apps for Health & Fitness](http://mashable.com/2011/05/09/android-health-fitness-apps/) **[22](http://mashable.com/2011/05/09/android-health-fitness-apps/#comments)**
     
-4.   [![unknown_filename.47.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.47.jpeg)  4](http://mashable.com/2011/03/11/ipad-2-cases/)
+4.   [![unknown_filename.47.jpeg](assets/)
     						
     
     ## [28 Cases For Your New iPad 2 PICS](http://mashable.com/2011/03/11/ipad-2-cases/) **[137](http://mashable.com/2011/03/11/ipad-2-cases/#comments)**
     
-5.   [![unknown_filename.3.jpeg](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__INFOGRAPHIC.resources/unknown_filename.3.jpeg)  5](http://mashable.com/2011/05/08/mothers-day-google-doodles/)
+5.   [![unknown_filename.3.jpeg](assets/)
     						
     
     ## [Happy Mother’s Day: We Celebrate With Google Doodles PICS](http://mashable.com/2011/05/08/mothers-day-google-doodles/) **[17](http://mashable.com/2011/05/08/mothers-day-google-doodles/#comments)**
@@ -797,5 +797,5 @@ Reproduction without explicit permission is prohibited. All Rights Reserved.
 *   [Explore](http://mashable.com/explore/)
 *   [Classifieds](http://jobs.mashable.com/)
 
-![unknown_filename.15.gif](./_resources/Just_How_Dangerous_Is_Sitting_All_Day__[INFOGRAPHIC].resources/unknown_filename.15.gif)
+![unknown_filename.15.gif](assets/unknown_filename.15.gif)
 

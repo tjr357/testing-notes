@@ -26,5 +26,5 @@ game-design
 # Brew Me Up Event Recipe Idea
 
 
-![Brew Me Up Event Recipe Idea.1.jpg](./_resources/Brew_Me_Up_Event_Recipe_Idea.resources/Brew Me Up Event Recipe Idea.1.jpg)![Brew Me Up Event Recipe Idea.jpg](./_resources/Brew_Me_Up_Event_Recipe_Idea.resources/Brew Me Up Event Recipe Idea.jpg)
+![Brew Me Up Event Recipe Idea.1.jpg](assets/Brew Me Up Event Recipe Idea.jpg)
 

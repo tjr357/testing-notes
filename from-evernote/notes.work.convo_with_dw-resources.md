@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Convo with DW.jpg](/assets/convo-with-dw.jpg)
+- ![Convo with DW.jpg](/assets/convo-with-dw.jpg)

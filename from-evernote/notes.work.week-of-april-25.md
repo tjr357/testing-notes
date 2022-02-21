@@ -21,5 +21,5 @@ _Last updated at 2021-04-30._
 # Week of April 25
 
 
-![Week of April 25.jpg](./_resources/Week_of_April_25.resources/Week of April 25.jpg)
+![Week of April 25.jpg](assets/Week of April 25.jpg)
 

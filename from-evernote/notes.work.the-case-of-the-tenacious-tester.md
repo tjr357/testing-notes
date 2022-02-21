@@ -26,5 +26,5 @@ codemash2020
 # The Case of the Tenacious Tester
 
 
-![The Katrina case of the Ohlemacher Tenacious Teste.jpg](./_resources/The_Case_of_the_Tenacious_Tester.resources/The Katrina case of the Ohlemacher Tenacious Teste.jpg)
+![The Katrina case of the Ohlemacher Tenacious Teste.jpg](assets/The Katrina case of the Ohlemacher Tenacious Teste.jpg)
 

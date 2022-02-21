@@ -21,5 +21,5 @@ _Last updated at 2018-05-02._
 # SF Automation p3
 
 
-![SF Automation p3.jpg](./_resources/SF_Automation_p3.resources/SF Automation p3.jpg)
+![SF Automation p3.jpg](assets/SF Automation p3.jpg)
 

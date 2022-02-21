@@ -21,5 +21,5 @@ _Last updated at 2018-04-10._
 # SalesForce Notes - 040618.jpg
 
 
-![SalesForce Notes - 040618.jpg](./_resources/SalesForce_Notes_-_040618.jpg.resources/SalesForce Notes - 040618.jpg)
+![SalesForce Notes - 040618.jpg](assets/SalesForce Notes - 040618.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-02-19._
 # Understanding Rancher Containers etc.
 
 
-![Understanding Rancher Containers etc.jpg](./_resources/Understanding_Rancher_Containers_etc_.resources/Understanding Rancher Containers etc.jpg)
+![Understanding Rancher Containers etc.jpg](assets/Understanding Rancher Containers etc.jpg)
 

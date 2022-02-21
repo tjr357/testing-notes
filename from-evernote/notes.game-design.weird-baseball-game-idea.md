@@ -26,5 +26,5 @@ game-design
 # Weird Baseball Game Idea
 
 
-![Weird Baseball Game Idea.jpg](./_resources/Weird_Baseball_Game_Idea.resources/Weird Baseball Game Idea.jpg)
+![Weird Baseball Game Idea.jpg](assets/Weird Baseball Game Idea.jpg)
 

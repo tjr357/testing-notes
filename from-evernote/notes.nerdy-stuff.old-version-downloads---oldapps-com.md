@@ -22,7 +22,7 @@ _Source URL: [](http://www.oldapps.com/)._
 # Old Version Downloads - OldApps.com
 
 
-[![unknown_filename.1.png](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.1.png)](http://www.oldapps.com/)
+[![unknown_filename.1.png](assets/)
 
 *   [Windows](http://www.oldapps.com/)
 
@@ -33,19 +33,19 @@ _Source URL: [](http://www.oldapps.com/)._
 *   [Updates](http://feeds.feedburner.com/oldapps)
 
 *   [Home](http://www.oldapps.com/)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 *   [Community](http://www.oldapps.com/forum/)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 *   [Search](http://www.oldapps.com/search.htm)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 *   [Contribute](http://www.oldapps.com/contribute.php)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 *   [About](http://www.oldapps.com/about.php)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 *   [Upload Software](http://www.oldapps.com/upload/)
-*   ![unknown_filename.2.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.2.gif)
+*   ![unknown_filename.2.gif](assets/unknown_filename.2.gif)
 
-*   ![unknown_filename.png](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.png)
+*   ![unknown_filename.png](assets/unknown_filename.png)
 
 [Home](http://www.oldapps.com/) > Old Applications for Windows
 
@@ -287,7 +287,7 @@ May 09, 2011 9:25:54 PM
 Share OldApps
 
 *   [Tweet](http://twitter.com/share)
-*   [![unknown_filename.3.gif](./_resources/Old_Version_Downloads_-_OldApps.com.resources/unknown_filename.3.gif)](http://feeds.feedburner.com/oldapps)
+*   [![unknown_filename.3.gif](assets/oldapps)
 *   
 
 [Feedback](http://www.oldapps.com/feedback/)

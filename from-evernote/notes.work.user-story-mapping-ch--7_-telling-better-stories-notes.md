@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # User Story Mapping Ch. 7: Telling Better Stories Notes
 
 
-![RB 2018-02-01 09.jpg](./_resources/User_Story_Mapping_Ch._7__Telling_Better_Stories_Notes.resources/RB 2018-02-01 09.jpg)
+![RB 2018-02-01 09.jpg](assets/RB 2018-02-01 09.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Understanding Rancher Containers etc.jpg](/assets/understanding-rancher-containers-etc.jpg)
+- ![Understanding Rancher Containers etc.jpg](/assets/understanding-rancher-containers-etc.jpg)

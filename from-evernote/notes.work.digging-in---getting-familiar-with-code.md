@@ -26,5 +26,5 @@ codemash2020
 # Digging In - Getting Familiar with Code
 
 
-![RB 2020-01-1308.jpg](./_resources/Digging_In_-_Getting_Familiar_with_Code.resources/RB 2020-01-1308.jpg)
+![RB 2020-01-1308.jpg](assets/RB 2020-01-1308.jpg)
 

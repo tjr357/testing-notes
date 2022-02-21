@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Townhall.jpg](/assets/sf-townhall.jpg)
+- ![SF Townhall.jpg](/assets/sf-townhall.jpg)

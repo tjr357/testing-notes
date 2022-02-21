@@ -21,5 +21,5 @@ _Last updated at 2021-04-25._
 # Ladder Game Mechanic
 
 
-![Ladder Game Mechanic.jpg](./_resources/Ladder_Game_Mechanic.resources/Ladder Game Mechanic.jpg)
+![Ladder Game Mechanic.jpg](assets/Ladder Game Mechanic.jpg)
 

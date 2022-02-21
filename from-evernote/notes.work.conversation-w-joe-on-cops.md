@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Conversation w Joe on CoPs
 
 
-![RB 2019-03-0108.jpg](./_resources/Conversation_w_Joe_on_CoPs.resources/RB 2019-03-0108.jpg)
+![RB 2019-03-0108.jpg](assets/RB 2019-03-0108.jpg)
 

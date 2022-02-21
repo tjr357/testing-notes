@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Effective Gherkin.jpg](/assets/effective-gherkin.jpg)
+- ![Effective Gherkin.jpg](/assets/effective-gherkin.jpg)

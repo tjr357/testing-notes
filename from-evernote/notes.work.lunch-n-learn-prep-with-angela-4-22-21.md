@@ -21,5 +21,5 @@ _Last updated at 2021-04-22._
 # Lunch n Learn Prep with Angela 4-22-21
 
 
-![Lunch n Learn Prep with Angela 4-22-21.jpg](./_resources/Lunch_n_Learn_Prep_with_Angela_4-22-21.resources/Lunch n Learn Prep with Angela 4-22-21.jpg)
+![Lunch n Learn Prep with Angela 4-22-21.jpg](assets/Lunch n Learn Prep with Angela 4-22-21.jpg)
 

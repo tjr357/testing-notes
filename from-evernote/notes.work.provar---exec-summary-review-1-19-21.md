@@ -21,5 +21,5 @@ _Last updated at 2021-01-25._
 # Provar - Exec Summary Review 1-19-21
 
 
-![Provar - Exec Summary Review 1-19-21.jpg](./_resources/Provar_-_Exec_Summary_Review_1-19-21.resources/Provar - Exec Summary Review 1-19-21.jpg)
+![Provar - Exec Summary Review 1-19-21.jpg](assets/Provar - Exec Summary Review 1-19-21.jpg)
 

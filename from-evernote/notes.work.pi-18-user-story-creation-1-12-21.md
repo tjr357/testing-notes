@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # PI 18 User Story Creation 1-12-21
 
 
-![PI 18 User Story Creation 1-12-21.jpg](./_resources/PI_18_User_Story_Creation_1-12-21.resources/PI 18 User Story Creation 1-12-21.jpg)
+![PI 18 User Story Creation 1-12-21.jpg](assets/PI 18 User Story Creation 1-12-21.jpg)
 

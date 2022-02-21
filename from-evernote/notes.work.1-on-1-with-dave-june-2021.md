@@ -26,5 +26,5 @@ personal-development
 # 1-on-1 with Dave June 2021
 
 
-![1-on-1 with Dave June 2021.jpg](./_resources/1-on-1_with_Dave_June_2021.resources/1-on-1 with Dave June 2021.jpg)![1-on-1 with Dave June 2021.1.jpg](./_resources/1-on-1_with_Dave_June_2021.resources/1-on-1 with Dave June 2021.1.jpg)
+![1-on-1 with Dave June 2021.jpg](assets/1-on-1 with Dave June 2021.1.jpg)
 

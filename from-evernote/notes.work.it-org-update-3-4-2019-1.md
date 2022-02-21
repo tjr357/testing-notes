@@ -21,5 +21,5 @@ _Last updated at 2019-03-06._
 # IT Org Update 3-4-2019
 
 
-![IT Org Update 3-4-2019.jpg](./_resources/IT_Org_Update_3-4-2019.1.resources/IT Org Update 3-4-2019.jpg)
+![IT Org Update 3-4-2019.jpg](assets/IT Org Update 3-4-2019.jpg)
 

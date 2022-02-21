@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Transaction Lean Training
 
 
-![RB 2018-09-04 10.jpg](./_resources/Transaction_Lean_Training.3.resources/RB 2018-09-04 10.jpg)
+![RB 2018-09-04 10.jpg](assets/RB 2018-09-04 10.jpg)
 

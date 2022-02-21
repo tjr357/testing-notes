@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Weekly QA Test Automation Discussion.jpg](/assets/weekly-qa-test-automation-discussion.jpg)
+- ![Weekly QA Test Automation Discussion.jpg](/assets/weekly-qa-test-automation-discussion.jpg)

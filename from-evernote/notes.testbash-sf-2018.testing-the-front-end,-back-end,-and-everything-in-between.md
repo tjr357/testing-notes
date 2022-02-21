@@ -26,5 +26,5 @@ Testing Testbash
 # Testing the Front-end, Back-end, and Everything in Between
 
 
-![RB 2018-11-1012.jpg](./_resources/Testing_the_Front-end,_Back-end,_and_Everything_in_Between.resources/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
 

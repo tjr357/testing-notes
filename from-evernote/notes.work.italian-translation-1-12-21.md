@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Italian Translation 1-12-21
 
 
-![Italian Translation 1-12-21.jpg](./_resources/Italian_Translation_1-12-21.resources/Italian Translation 1-12-21.jpg)
+![Italian Translation 1-12-21.jpg](assets/Italian Translation 1-12-21.jpg)
 

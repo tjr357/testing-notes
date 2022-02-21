@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [18 Card RPG Brainstorm 6-22-21.1.jpg](/assets/18-card-rpg-brainstorm-6-22-21.jpg)
-- [18 Card RPG Brainstorm 6-22-21.jpg](/assets/18-card-rpg-brainstorm-6-22-21.jpg)
+- ![18 Card RPG Brainstorm 6-22-21.1.jpg](/assets/18-card-rpg-brainstorm-6-22-21.jpg)
+- ![18 Card RPG Brainstorm 6-22-21.jpg](/assets/18-card-rpg-brainstorm-6-22-21.jpg)

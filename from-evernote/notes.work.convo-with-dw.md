@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # Convo with DW
 
 
-![Convo with DW.jpg](./_resources/Convo_with_DW.resources/Convo with DW.jpg)
+![Convo with DW.jpg](assets/Convo with DW.jpg)
 

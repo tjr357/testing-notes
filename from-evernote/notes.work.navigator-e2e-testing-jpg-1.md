@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Navigator E2E Testing.jpg
 
 
-![Navigator E2E Testing.jpg](./_resources/Navigator_E2E_Testing.jpg.1.resources/Navigator E2E Testing.jpg)
+![Navigator E2E Testing.jpg](assets/Navigator E2E Testing.jpg)
 

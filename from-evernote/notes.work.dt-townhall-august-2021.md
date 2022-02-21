@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # DT Townhall August 2021
 
 
-![DT Townhall August 2021.jpg](./_resources/DT_Townhall_August_2021.resources/DT Townhall August 2021.jpg)
+![DT Townhall August 2021.jpg](assets/DT Townhall August 2021.jpg)
 

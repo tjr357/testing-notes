@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # Hootenanny - 32718.jpg
 
 
-![Hootenanny - 32718.jpg](./_resources/Hootenanny_-_32718.jpg.resources/Hootenanny - 32718.jpg)
+![Hootenanny - 32718.jpg](assets/Hootenanny - 32718.jpg)
 

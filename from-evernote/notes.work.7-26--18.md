@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # 7-26 -18
 
 
-![7-26 - 18.jpg](./_resources/7-26_-18.resources/7-26 - 18.jpg)
+![7-26 - 18.jpg](assets/7-26 - 18.jpg)
 

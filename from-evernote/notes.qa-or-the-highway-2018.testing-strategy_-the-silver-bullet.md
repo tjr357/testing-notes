@@ -26,5 +26,5 @@ qaorth2018
 # Testing Strategy: The Silver Bullet
 
 
-![RB 2018-02-28 16.jpg](./_resources/Testing_Strategy__The_Silver_Bullet.resources/RB 2018-02-28 16.jpg)
+![RB 2018-02-28 16.jpg](assets/RB 2018-02-28 16.jpg)
 

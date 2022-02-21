@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Service Team Agreements.jpg](/assets/service-team-agreements.jpg)
+- ![Service Team Agreements.jpg](/assets/service-team-agreements.jpg)

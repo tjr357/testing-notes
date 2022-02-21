@@ -21,5 +21,5 @@ _Last updated at 2018-04-28._
 # Currency Conversion Conversation 4-27-18
 
 
-![Currency Conversion Conversation 4-27-18.jpg](./_resources/Currency_Conversion_Conversation_4-27-18.resources/Currency Conversion Conversation 4-27-18.jpg)
+![Currency Conversion Conversation 4-27-18.jpg](assets/Currency Conversion Conversation 4-27-18.jpg)
 

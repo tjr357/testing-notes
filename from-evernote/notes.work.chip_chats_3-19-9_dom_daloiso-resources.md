@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Chip Chats 3-19-9 Dom DAloiso.jpg](/assets/chip-chats-3-19-9-dom-daloiso.jpg)
+- ![Chip Chats 3-19-9 Dom DAloiso.jpg](/assets/chip-chats-3-19-9-dom-daloiso.jpg)

@@ -26,5 +26,5 @@ codemash2020
 # Andrew Potozniak Contact Info
 
 
-![Andrew Potozniak Contact Info.jpg](./_resources/Andrew_Potozniak_Contact_Info.resources/Andrew Potozniak Contact Info.jpg)
+![Andrew Potozniak Contact Info.jpg](assets/Andrew Potozniak Contact Info.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Red Squad Stand-Up 7-9-18
 
 
-![Red Squad Stand-Up 7-9-18.jpg](./_resources/Red_Squad_Stand-Up_7-9-18.resources/Red Squad Stand-Up 7-9-18.jpg)
+![Red Squad Stand-Up 7-9-18.jpg](assets/Red Squad Stand-Up 7-9-18.jpg)
 

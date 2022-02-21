@@ -24,7 +24,7 @@ _Source URL: [](http://www.sans.org/mentor/category.php?c=SEC)._
 
 [2 Days Left to Save $400 for SANS Rocky Mountain 2011](http://www.sans.org/info/71574)
 
-[![unknown_filename.3.png](./_resources/SANS_Mentor_Program_-_Security_Courses.resources/unknown_filename.3.png)](http://www.sans.org/)
+[![unknown_filename.3.png](assets/)
 
 *   <http://www.sans.org/mentor/#>
 
@@ -158,11 +158,11 @@ Mon-Fri 9am - 8pm EST/EDT
 "Just amazing content and instruction, it's really a 'must do' for any info sec professional."
 \- Mark Austin, PHH Mortgage
 
-![unknown_filename.1.png](./_resources/SANS_Mentor_Program_-_Security_Courses.resources/unknown_filename.1.png)
+![unknown_filename.1.png](assets/unknown_filename.1.png)
 
 *   <http://www.sans.org/mentor/#>
 
-[![unknown_filename.4.png](./_resources/SANS_Mentor_Program_-_Security_Courses.resources/unknown_filename.4.png)](http://twitter.com/it_audit) [![unknown_filename.2.png](./_resources/SANS_Mentor_Program_-_Security_Courses.resources/unknown_filename.2.png)](http://www.facebook.com/group.php?gid=124107180936461) [![unknown_filename.png](./_resources/SANS_Mentor_Program_-_Security_Courses.resources/unknown_filename.png)](http://it-audit.sans.org/blog/feed/)
+[![unknown_filename.4.png](assets/)
 
 *   [Training](http://www.sans.org/security-training/)
 *   [Certification](http://www.giac.org/)

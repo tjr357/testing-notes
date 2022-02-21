@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # SFDC Problems Brainstorm
 
 
-![RB 2018-07-02 08.jpg](./_resources/SFDC_Problems_Brainstorm.resources/RB 2018-07-02 08.jpg)
+![RB 2018-07-02 08.jpg](assets/RB 2018-07-02 08.jpg)
 

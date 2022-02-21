@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [River Boat Steal Treasure Game Idea.jpg](/assets/river-boat-steal-treasure-game-idea.jpg)
+- ![River Boat Steal Treasure Game Idea.jpg](/assets/river-boat-steal-treasure-game-idea.jpg)

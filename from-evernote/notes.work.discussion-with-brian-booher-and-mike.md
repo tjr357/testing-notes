@@ -21,5 +21,5 @@ _Last updated at 2018-04-28._
 # Discussion with Brian Booher and Mike
 
 
-![Discussion with Brian Booher and Mike.jpg](./_resources/Discussion_with_Brian_Booher_and_Mike.resources/Discussion with Brian Booher and Mike.jpg)
+![Discussion with Brian Booher and Mike.jpg](assets/Discussion with Brian Booher and Mike.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # SFDC PI 4 Retro
 
 
-![RB 2018-07-02 08.jpg](./_resources/SFDC_PI_4_Retro.resources/RB 2018-07-02 08.jpg)
+![RB 2018-07-02 08.jpg](assets/RB 2018-07-02 08.jpg)
 

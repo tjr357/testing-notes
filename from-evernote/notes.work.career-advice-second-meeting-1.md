@@ -21,5 +21,5 @@ _Last updated at 2018-08-10._
 # Career Advice second meeting
 
 
-![Career Advice second meeting.jpg](./_resources/Career_Advice_second_meeting.1.resources/Career Advice second meeting.jpg)
+![Career Advice second meeting.jpg](assets/Career Advice second meeting.jpg)
 

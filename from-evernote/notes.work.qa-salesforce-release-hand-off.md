@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # QA Salesforce Release Hand-off
 
 
-![QA Salesforce Release Hand-off.jpg](./_resources/QA_Salesforce_Release_Hand-off.resources/QA Salesforce Release Hand-off.jpg)
+![QA Salesforce Release Hand-off.jpg](assets/QA Salesforce Release Hand-off.jpg)
 

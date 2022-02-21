@@ -21,5 +21,5 @@ _Last updated at 2019-05-23._
 # SF Process Feedback Discussion
 
 
-![SF Process Feedback Discussion.jpg](./_resources/SF_Process_Feedback_Discussion.1.resources/SF Process Feedback Discussion.jpg)
+![SF Process Feedback Discussion.jpg](assets/SF Process Feedback Discussion.jpg)
 

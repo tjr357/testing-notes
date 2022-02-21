@@ -26,5 +26,5 @@ codemash2020
 # Tests Your Pipline Might be Missing
 
 
-![Tests Your Piodine Might be rising.jpg](./_resources/Tests_Your_Pipline_Might_be_Missing.resources/Tests Your Piodine Might be rising.jpg)
+![Tests Your Piodine Might be rising.jpg](assets/Tests Your Piodine Might be rising.jpg)
 

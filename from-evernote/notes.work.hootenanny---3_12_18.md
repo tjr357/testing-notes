@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Hootenanny - 3/12/18
 
 
-![RB 2018-03-22 08.jpg](./_resources/Hootenanny_-_3_12_18.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

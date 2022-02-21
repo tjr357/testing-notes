@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # COP Coordinators - Jan 31,19
 
 
-![RB 2019-02-0509.jpg](./_resources/COP_Coordinators_-_Jan_31,19.resources/RB 2019-02-0509.jpg)
+![RB 2019-02-0509.jpg](assets/RB 2019-02-0509.jpg)
 

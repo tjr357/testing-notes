@@ -26,5 +26,5 @@ codemash2020
 # Code Mash How to Talk with Someone Who Disagrees
 
 
-![Code Mash How to Talk with Someone Who Disagrees.jpg](./_resources/Code_Mash_How_to_Talk_with_Someone_Who_Disagrees.1.resources/Code Mash How to Talk with Someone Who Disagrees.jpg)
+![Code Mash How to Talk with Someone Who Disagrees.jpg](assets/Code Mash How to Talk with Someone Who Disagrees.jpg)
 

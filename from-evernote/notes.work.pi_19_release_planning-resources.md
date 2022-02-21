@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [PI 19 Release Planning.jpg](/assets/pi-19-release-planning.jpg)
+- ![PI 19 Release Planning.jpg](/assets/pi-19-release-planning.jpg)

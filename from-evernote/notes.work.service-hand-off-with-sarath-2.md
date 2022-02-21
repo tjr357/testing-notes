@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Service Hand-off with Sarath
 
 
-![RB 2018-08-0414.jpg](./_resources/Service_Hand-off_with_Sarath.2.resources/RB 2018-08-0414.jpg)
+![RB 2018-08-0414.jpg](assets/RB 2018-08-0414.jpg)
 

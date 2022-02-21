@@ -21,5 +21,5 @@ _Last updated at 2021-11-28._
 # Provar Into
 
 
-![Provar Into.jpg](./_resources/Provar_Into.resources/Provar Into.jpg)
+![Provar Into.jpg](assets/Provar Into.jpg)
 

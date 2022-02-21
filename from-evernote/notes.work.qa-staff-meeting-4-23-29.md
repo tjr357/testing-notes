@@ -21,5 +21,5 @@ _Last updated at 2019-05-20._
 # QA Staff Meeting 4-23-29
 
 
-![G A Staff Meeting 4-23-29.jpg](./_resources/QA_Staff_Meeting_4-23-29.resources/G A Staff Meeting 4-23-29.jpg)
+![G A Staff Meeting 4-23-29.jpg](assets/G A Staff Meeting 4-23-29.jpg)
 

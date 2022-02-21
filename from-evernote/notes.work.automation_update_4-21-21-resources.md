@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Automation Update 4-21-21.jpg](/assets/automation-update-4-21-21.jpg)
-- [Automation Update 4-21-21.1.jpg](/assets/automation-update-4-21-21.jpg)
+- ![Automation Update 4-21-21.jpg](/assets/automation-update-4-21-21.jpg)
+- ![Automation Update 4-21-21.1.jpg](/assets/automation-update-4-21-21.jpg)

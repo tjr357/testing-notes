@@ -26,5 +26,5 @@ codemash2020
 # Practical Cryptography for Developers
 
 
-![Practical Cryptography for Developers.jpg](./_resources/Practical_Cryptography_for_Developers.2.resources/Practical Cryptography for Developers.jpg)
+![Practical Cryptography for Developers.jpg](assets/Practical Cryptography for Developers.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-11-20._
 # QA CoP Coordinators Discussion
 
 
-![QA CoP Coordinators Discussion.jpg](./_resources/QA_CoP_Coordinators_Discussion.1.resources/QA CoP Coordinators Discussion.jpg)
+![QA CoP Coordinators Discussion.jpg](assets/QA CoP Coordinators Discussion.jpg)
 

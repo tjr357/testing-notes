@@ -21,5 +21,5 @@ _Last updated at 2018-04-23._
 # Salesforce Notes 2018-04-12.jpg
 
 
-![RB 2018-04-12 10.jpg](./_resources/Salesforce_Notes_2018-04-12.jpg.1.resources/RB 2018-04-12 10.jpg)
+![RB 2018-04-12 10.jpg](assets/RB 2018-04-12 10.jpg)
 

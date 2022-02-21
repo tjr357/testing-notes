@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Darwin - SF B2C Regression 3-25-21.jpg](/assets/darwin---sf-b2c-regression-3-25-21.jpg)
+- ![Darwin - SF B2C Regression 3-25-21.jpg](/assets/darwin---sf-b2c-regression-3-25-21.jpg)

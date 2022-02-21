@@ -21,5 +21,5 @@ _Last updated at 2018-01-26._
 # Facilities Site Visit.jpg
 
 
-![Facilities Site Visit.jpg](./_resources/Facilities_Site_Visit.jpg.1.resources/Facilities Site Visit.jpg)
+![Facilities Site Visit.jpg](assets/Facilities Site Visit.jpg)
 

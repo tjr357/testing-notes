@@ -10,6 +10,6 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [2018_11_08 11_25 AM Office Lens.jpg](/assets/2018_11_08-11_25-am-office-lens.jpg)
-- [2018_11_08 11_48 AM Office Lens.jpg](/assets/2018_11_08-11_48-am-office-lens.jpg)
-- [RB 2018-11-0910.jpg](/assets/rb-2018-11-0910.jpg)
+- ![2018_11_08 11_25 AM Office Lens.jpg](/assets/2018_11_08-11_25-am-office-lens.jpg)
+- ![2018_11_08 11_48 AM Office Lens.jpg](/assets/2018_11_08-11_48-am-office-lens.jpg)
+- ![RB 2018-11-0910.jpg](/assets/rb-2018-11-0910.jpg)

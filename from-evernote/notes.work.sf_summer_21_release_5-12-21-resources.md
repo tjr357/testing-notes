@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Summer 21 Release 5-12-21.jpg](/assets/sf-summer-21-release-5-12-21.jpg)
+- ![SF Summer 21 Release 5-12-21.jpg](/assets/sf-summer-21-release-5-12-21.jpg)

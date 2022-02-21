@@ -21,5 +21,5 @@ _Last updated at 2021-06-22._
 # Honey Do List June 2011
 
 
-![Honey Do List June 2011.jpg](./_resources/Honey_Do_List_June_2011.resources/Honey Do List June 2011.jpg)
+![Honey Do List June 2011.jpg](assets/Honey Do List June 2011.jpg)
 

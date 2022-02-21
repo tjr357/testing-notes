@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Walk n Talk w- Samantha Quality Cop.jpg](/assets/walk-n-talk-w--samantha-quality-cop.jpg)
+- ![Walk n Talk w- Samantha Quality Cop.jpg](/assets/walk-n-talk-w--samantha-quality-cop.jpg)

@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Sandbox Refresh 2/22/19
 
 
-![RB 2019-03-0108.jpg](./_resources/Sandbox_Refresh_2_22_19.resources/RB 2019-03-0108.jpg)
+![RB 2019-03-0108.jpg](assets/RB 2019-03-0108.jpg)
 

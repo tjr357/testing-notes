@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Rocket Treasure Game Idea.jpg](/assets/rocket-treasure-game-idea.jpg)
+- ![Rocket Treasure Game Idea.jpg](/assets/rocket-treasure-game-idea.jpg)

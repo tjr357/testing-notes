@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [QA CoP Service Testing Notes.jpg](/assets/qa-cop-service-testing-notes.jpg)
+- ![QA CoP Service Testing Notes.jpg](/assets/qa-cop-service-testing-notes.jpg)

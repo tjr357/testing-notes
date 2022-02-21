@@ -26,5 +26,5 @@ game-design
 # Rocket Treasure Game Idea
 
 
-![Rocket Treasure Game Idea.jpg](./_resources/Rocket_Treasure_Game_Idea.resources/Rocket Treasure Game Idea.jpg)
+![Rocket Treasure Game Idea.jpg](assets/Rocket Treasure Game Idea.jpg)
 

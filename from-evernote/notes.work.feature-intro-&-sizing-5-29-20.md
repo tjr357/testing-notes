@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # Feature Intro & Sizing 5-29-20
 
 
-![Feature Intro & Sizing 5-29-20.jpg](./_resources/Feature_Intro_&_Sizing_5-29-20.resources/Feature Intro & Sizing 5-29-20.jpg)
+![Feature Intro & Sizing 5-29-20.jpg](assets/Feature Intro & Sizing 5-29-20.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Lunch n Learn Brainstorm 1-21
 
 
-![Lunch n Learn Brainstorm 1-21.jpg](./_resources/Lunch_n_Learn_Brainstorm_1-21.resources/Lunch n Learn Brainstorm 1-21.jpg)
+![Lunch n Learn Brainstorm 1-21.jpg](assets/Lunch n Learn Brainstorm 1-21.jpg)
 

@@ -23,6 +23,6 @@ _Last updated at 2019-09-17._
 
 Under 15 minutes 
 Won in 8 turns
-![img_20190811_175021.png](./_resources/Brew_Dice.resources/img_20190811_175021.png)
-![img_20190811_175025.png](./_resources/Brew_Dice.resources/img_20190811_175025.png)
+![img_20190811_175021.png](assets/img_20190811_175021.png)
+![img_20190811_175025.png](assets/img_20190811_175025.png)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-02-19._
 # AAT Deployment 1-26-21
 
 
-![AAT Deployment 1-26-21.jpg](./_resources/AAT_Deployment_1-26-21.resources/AAT Deployment 1-26-21.jpg)
+![AAT Deployment 1-26-21.jpg](assets/AAT Deployment 1-26-21.jpg)
 

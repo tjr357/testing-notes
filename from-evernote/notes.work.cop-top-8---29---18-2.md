@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # CoP Top 8 - 29 - 18
 
 
-![RB 2018-08-30 08.jpg](./_resources/CoP_Top_8_-_29_-_18.2.resources/RB 2018-08-30 08.jpg)
+![RB 2018-08-30 08.jpg](assets/RB 2018-08-30 08.jpg)
 

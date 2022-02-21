@@ -26,5 +26,5 @@ qaorth2018
 # Quality Assurance to Test Engineering – Insights From our Journey
 
 
-![RB 2018-02-28 16.jpg](./_resources/Quality_Assurance_to_Test_Engineering_–_Insights_From_our_Journey.resources/RB 2018-02-28 16.jpg)
+![RB 2018-02-28 16.jpg](assets/RB 2018-02-28 16.jpg)
 

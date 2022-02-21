@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # 1-on-1 with Dave 9-8-21
 
 
-![1-on-1 with Dave 9-8-21.jpg](./_resources/1-on-1_with_Dave_9-8-21.resources/1-on-1 with Dave 9-8-21.jpg)
+![1-on-1 with Dave 9-8-21.jpg](assets/1-on-1 with Dave 9-8-21.jpg)
 

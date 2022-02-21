@@ -21,5 +21,5 @@ _Last updated at 2018-09-05._
 # Chip Chats Dry Run.jpg
 
 
-![Chip Chats Dry Run.jpg](./_resources/Chip_Chats_Dry_Run.jpg.resources/Chip Chats Dry Run.jpg)
+![Chip Chats Dry Run.jpg](assets/Chip Chats Dry Run.jpg)
 

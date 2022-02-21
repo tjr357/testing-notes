@@ -8,6 +8,6 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [unknown_filename.2.png](/assets/unknown_filename-gGnQ0t52KZ20.png)
-- [unknown_filename.1.png](/assets/unknown_filename-yz1nKqX71fBH.png)
-- [unknown_filename.png](/assets/unknown_filename-UbHoeKqkkAUC.png)
+- ![unknown_filename.2.png](/assets/unknown_filename-gGnQ0t52KZ20.png)
+- ![unknown_filename.1.png](/assets/unknown_filename-yz1nKqX71fBH.png)
+- ![unknown_filename.png](/assets/unknown_filename-UbHoeKqkkAUC.png)

@@ -26,5 +26,5 @@ BrewMeUp
 # Brew Me Up bare bones board.jpg
 
 
-![TMP.jpg](./_resources/Brew_Me_Up_bare_bones_board.jpg.resources/TMP.jpg)![PXL_20211223_192104486.jpg](./_resources/Brew_Me_Up_bare_bones_board.jpg.resources/PXL_20211223_192104486.jpg)
+![TMP.jpg](assets/PXL_20211223_192104486.jpg)
 

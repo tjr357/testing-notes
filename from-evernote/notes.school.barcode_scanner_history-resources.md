@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [history-1405517377221.csv](/assets/history-1405517377221-i1hTqBrIHP6R.csv)
+- ![history-1405517377221.csv](/assets/history-1405517377221-i1hTqBrIHP6R.csv)

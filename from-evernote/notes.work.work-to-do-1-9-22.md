@@ -21,5 +21,5 @@ _Last updated at 2022-01-09._
 # work To-do 1-9-22
 
 
-![work To-do 1-9-22.jpg](./_resources/work_To-do_1-9-22.resources/work To-do 1-9-22.jpg)
+![work To-do 1-9-22.jpg](assets/work To-do 1-9-22.jpg)
 

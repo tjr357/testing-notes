@@ -21,5 +21,5 @@ _Last updated at 2019-03-19._
 # Touch point Support Service
 
 
-![Touch point Support Service.jpg](./_resources/Touch_point_Support_Service.resources/Touch point Support Service.jpg)
+![Touch point Support Service.jpg](assets/Touch point Support Service.jpg)
 

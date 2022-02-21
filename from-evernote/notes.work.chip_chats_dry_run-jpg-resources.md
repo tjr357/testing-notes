@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Chip Chats Dry Run.jpg](/assets/chip-chats-dry-run.jpg)
+- ![Chip Chats Dry Run.jpg](/assets/chip-chats-dry-run.jpg)

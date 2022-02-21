@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Smoke Test Reveal to Adam and John - 3/1/18
 
 
-![RB 2018-03-22 08.jpg](./_resources/Smoke_Test_Reveal_to_Adam_and_John_-_3_1_18.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

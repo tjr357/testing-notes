@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Mid-Year Review with Dave 8-4-21.1.jpg](/assets/mid-year-review-with-dave-8-4-21.jpg)
-- [Mid-Year Review with Dave 8-4-21.jpg](/assets/mid-year-review-with-dave-8-4-21.jpg)
+- ![Mid-Year Review with Dave 8-4-21.1.jpg](/assets/mid-year-review-with-dave-8-4-21.jpg)
+- ![Mid-Year Review with Dave 8-4-21.jpg](/assets/mid-year-review-with-dave-8-4-21.jpg)

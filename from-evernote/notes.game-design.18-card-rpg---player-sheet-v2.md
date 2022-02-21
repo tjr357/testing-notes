@@ -26,5 +26,5 @@ contest
 # 18 Card RPG - Player Sheet v2
 
 
-![18 Card RPG - Player Sheet v2.jpg](./_resources/18_Card_RPG_-_Player_Sheet_v2.resources/18 Card RPG - Player Sheet v2.jpg)
+![18 Card RPG - Player Sheet v2.jpg](assets/18 Card RPG - Player Sheet v2.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DTX Awards Discussion with Ivy 8-25-21.jpg](/assets/dtx-awards-discussion-with-ivy-8-25-21.jpg)
+- ![DTX Awards Discussion with Ivy 8-25-21.jpg](/assets/dtx-awards-discussion-with-ivy-8-25-21.jpg)

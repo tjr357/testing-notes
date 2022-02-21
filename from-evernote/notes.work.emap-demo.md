@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # eMap Demo
 
 
-![RB 2018-05-21 13.jpg](./_resources/eMap_Demo.resources/RB 2018-05-21 13.jpg)
+![RB 2018-05-21 13.jpg](assets/RB 2018-05-21 13.jpg)
 

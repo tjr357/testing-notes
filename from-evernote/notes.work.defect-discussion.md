@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Defect Discussion
 
 
-![Defect Discussion.jpg](./_resources/Defect_Discussion.resources/Defect Discussion.jpg)
+![Defect Discussion.jpg](assets/Defect Discussion.jpg)
 

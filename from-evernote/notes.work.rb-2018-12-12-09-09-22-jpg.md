@@ -21,5 +21,5 @@ _Last updated at 2018-12-12._
 # RB 2018-12-12 09.09.22.jpg
 
 
-![RB 2018-12-12 09.jpg](./_resources/RB_2018-12-12_09.09.22.jpg.resources/RB 2018-12-12 09.jpg)
+![RB 2018-12-12 09.jpg](assets/RB 2018-12-12 09.jpg)
 

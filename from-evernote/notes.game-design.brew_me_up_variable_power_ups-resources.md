@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Brew Me Up Variable Power Ups.jpg](/assets/brew-me-up-variable-power-ups.jpg)
+- ![Brew Me Up Variable Power Ups.jpg](/assets/brew-me-up-variable-power-ups.jpg)

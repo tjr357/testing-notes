@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # SF Town Hall 1-13-21
 
 
-![SF Town Hall 1-13-21.jpg](./_resources/SF_Town_Hall_1-13-21.resources/SF Town Hall 1-13-21.jpg)
+![SF Town Hall 1-13-21.jpg](assets/SF Town Hall 1-13-21.jpg)
 

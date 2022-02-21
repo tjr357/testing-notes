@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Self Review Discussion
 
 
-![RB 2019-02-1909.jpg](./_resources/Self_Review_Discussion.resources/RB 2019-02-1909.jpg)
+![RB 2019-02-1909.jpg](assets/RB 2019-02-1909.jpg)
 

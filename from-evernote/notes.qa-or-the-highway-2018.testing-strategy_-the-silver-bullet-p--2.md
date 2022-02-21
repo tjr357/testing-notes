@@ -26,6 +26,6 @@ qaorth2018
 # Testing Strategy: The Silver Bullet p. 2
 
 
-![RB 2018-02-28 16.jpg](./_resources/Testing_Strategy__The_Silver_Bullet_p._2.resources/RB 2018-02-28 16.jpg)
+![RB 2018-02-28 16.jpg](assets/RB 2018-02-28 16.jpg)
 Let them feel a part of the process. Creates buy-in.
 

@@ -21,5 +21,5 @@ _Last updated at 2019-04-02._
 # Chip Chats 3-19-9 Dom DAloiso
 
 
-![Chip Chats 3-19-9 Dom DAloiso.jpg](./_resources/Chip_Chats_3-19-9_Dom_DAloiso.resources/Chip Chats 3-19-9 Dom DAloiso.jpg)
+![Chip Chats 3-19-9 Dom DAloiso.jpg](assets/Chip Chats 3-19-9 Dom DAloiso.jpg)
 

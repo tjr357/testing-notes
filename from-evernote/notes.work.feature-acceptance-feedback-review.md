@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Feature Acceptance Feedback Review
 
 
-![Feature Acceptance Feedback Review.jpg](./_resources/Feature_Acceptance_Feedback_Review.resources/Feature Acceptance Feedback Review.jpg)
+![Feature Acceptance Feedback Review.jpg](assets/Feature Acceptance Feedback Review.jpg)
 

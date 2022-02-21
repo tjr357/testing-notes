@@ -26,11 +26,11 @@ Testing Testbash lunchnlearn
 # Manual Regression Testing Manifesto
 
 
-![RB 2018-11-1012.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/RB 2018-11-1012.jpg)![IMAG1993.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG1993.jpg)
-![IMAG1994.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG1994.jpg)
-![IMAG1995.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG1995.jpg)
-![IMAG1996.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG1996.jpg)
-![IMAG1998.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG1998.jpg)
+![RB 2018-11-1012.jpg](assets/IMAG1993.jpg)
+![IMAG1994.jpg](assets/IMAG1994.jpg)
+![IMAG1995.jpg](assets/IMAG1995.jpg)
+![IMAG1996.jpg](assets/IMAG1996.jpg)
+![IMAG1998.jpg](assets/IMAG1998.jpg)
 
-![IMAG2000.jpg](./_resources/Manual_Regression_Testing_Manifesto.resources/IMAG2000.jpg)
+![IMAG2000.jpg](assets/IMAG2000.jpg)
 

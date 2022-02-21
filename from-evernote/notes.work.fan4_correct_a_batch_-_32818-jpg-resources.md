@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Fan4 Correct a Batch - 32818.jpg](/assets/fan4-correct-a-batch---32818.jpg)
+- ![Fan4 Correct a Batch - 32818.jpg](/assets/fan4-correct-a-batch---32818.jpg)

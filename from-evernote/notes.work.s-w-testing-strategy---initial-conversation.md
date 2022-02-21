@@ -21,5 +21,5 @@ _Last updated at 2019-05-20._
 # S-W Testing Strategy - Initial Conversation
 
 
-![RB 2019-05-17 14.jpg](./_resources/S-W_Testing_Strategy_-_Initial_Conversation.resources/RB 2019-05-17 14.jpg)
+![RB 2019-05-17 14.jpg](assets/RB 2019-05-17 14.jpg)
 

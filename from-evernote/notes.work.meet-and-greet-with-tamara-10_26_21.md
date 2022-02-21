@@ -75,5 +75,5 @@ When having conversations about what I want to do,
 I'm not indecisive, I'm interested in a lot of things
 we need people who are interested in a lot of things and have learning agility
 
-![MicrosoftTeams-image (12).png](./_resources/Meet_and_Greet_with_Tamara_10_26_21.resources/MicrosoftTeams-image (12).png)
+![MicrosoftTeams-image (12).png](assets/MicrosoftTeams-image (12).png)
 

@@ -24,5 +24,5 @@ _Source URL: [](http://lifehacker.com/5809809/swap-desktops-with-each-other-with
 # Swap Desktops with Each Other with These Reader-Submitted Wallpapers - Lifehacker
 
 
-![unknown_filename.jpeg](./_resources/Swap_Desktops_with_Each_Other_with_These_Reader-Submitted_Wallpapers_-_Lifehacker.resources/unknown_filename.jpeg)
+![unknown_filename.jpeg](assets/unknown_filename.jpeg)
 

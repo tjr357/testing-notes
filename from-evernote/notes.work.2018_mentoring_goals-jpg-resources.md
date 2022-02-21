@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [2018 Mentoring Goals.jpg](/assets/2018-mentoring-goals.jpg)
+- ![2018 Mentoring Goals.jpg](/assets/2018-mentoring-goals.jpg)

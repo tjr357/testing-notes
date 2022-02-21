@@ -26,5 +26,5 @@ games
 # Snapshot @ Medina, Ohio
 
 
-![IMG_20160223_064950.png](./_resources/Snapshot_@_Medina,_Ohio.resources/IMG_20160223_064950.png)
+![IMG_20160223_064950.png](assets/IMG_20160223_064950.png)
 

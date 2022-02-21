@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # Advice from Chip 4-30-21
 
 
-![Advice from Chip 4-30-21.jpg](./_resources/Advice_from_Chip_4-30-21.resources/Advice from Chip 4-30-21.jpg)
+![Advice from Chip 4-30-21.jpg](assets/Advice from Chip 4-30-21.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-01-25._
 # PI-18 Release Planning 1-20-21
 
 
-![PI-18 Release Planning 1-20-21.jpg](./_resources/PI-18_Release_Planning_1-20-21.resources/PI-18 Release Planning 1-20-21.jpg)
+![PI-18 Release Planning 1-20-21.jpg](assets/PI-18 Release Planning 1-20-21.jpg)
 

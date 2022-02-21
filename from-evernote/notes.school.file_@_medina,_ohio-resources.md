@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [logs.zip](/assets/logs-5RSCoIom2py9.zip)
+- ![logs.zip](/assets/logs-5RSCoIom2py9.zip)

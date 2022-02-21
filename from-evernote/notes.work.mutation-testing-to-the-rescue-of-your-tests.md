@@ -26,5 +26,5 @@ codemash2020
 # Mutation Testing to the Rescue of your Tests
 
 
-![utation Testing to the Rescue of your Tests.jpg](./_resources/Mutation_Testing_to_the_Rescue_of_your_Tests.resources/utation Testing to the Rescue of your Tests.jpg)
+![utation Testing to the Rescue of your Tests.jpg](assets/utation Testing to the Rescue of your Tests.jpg)
 

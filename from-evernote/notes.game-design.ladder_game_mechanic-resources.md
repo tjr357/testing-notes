@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Ladder Game Mechanic.jpg](/assets/ladder-game-mechanic.jpg)
+- ![Ladder Game Mechanic.jpg](/assets/ladder-game-mechanic.jpg)

@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Vehicle Metadata Discussion - 2/1/18
 
 
-![RB 2018-02-06 14.jpg](./_resources/Vehicle_Metadata_Discussion_-_2_1_18.1.resources/RB 2018-02-06 14.jpg)
+![RB 2018-02-06 14.jpg](assets/RB 2018-02-06 14.jpg)
 

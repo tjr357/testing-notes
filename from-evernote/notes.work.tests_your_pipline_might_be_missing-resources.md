@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Tests Your Piodine Might be rising.jpg](/assets/tests-your-piodine-might-be-rising.jpg)
+- ![Tests Your Piodine Might be rising.jpg](/assets/tests-your-piodine-might-be-rising.jpg)

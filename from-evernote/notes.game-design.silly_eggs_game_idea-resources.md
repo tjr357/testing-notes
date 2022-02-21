@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Silly Eggs Game Idea.jpg](/assets/silly-eggs-game-idea.jpg)
+- ![Silly Eggs Game Idea.jpg](/assets/silly-eggs-game-idea.jpg)

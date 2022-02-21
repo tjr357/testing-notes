@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Voice0001.aac](/assets/voice0001-imUY1DTlTXcz.aac)
+- ![Voice0001.aac](/assets/voice0001-imUY1DTlTXcz.aac)

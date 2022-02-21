@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Leading in a Complex World
 
 
-![Leading in a.jpg](./_resources/Leading_in_a_Complex_World.resources/Leading in a.jpg)
+![Leading in a.jpg](assets/Leading in a.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # SAML Pluralsight Course Notes - 1/19/18
 
 
-![RB 2018-01-24 09.jpg](./_resources/SAML_Pluralsight_Course_Notes_-_1_19_18.1.resources/RB 2018-01-24 09.jpg)
+![RB 2018-01-24 09.jpg](assets/RB 2018-01-24 09.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Discussion with Stacy
 
 
-![RB 2018-03-22 08.jpg](./_resources/Discussion_with_Stacy.1.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

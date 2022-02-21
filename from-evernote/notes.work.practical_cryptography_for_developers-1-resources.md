@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Practical Crypto graphy for Developers.jpg](/assets/practical-crypto-graphy-for-developers.jpg)
+- ![Practical Crypto graphy for Developers.jpg](/assets/practical-crypto-graphy-for-developers.jpg)

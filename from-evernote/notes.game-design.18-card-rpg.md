@@ -21,5 +21,5 @@ _Last updated at 2021-05-21._
 # 18 Card RPG
 
 
-![18 Card RPG.1.jpg](./_resources/18_Card_RPG.resources/18 Card RPG.1.jpg)![18 Card RPG.2.jpg](./_resources/18_Card_RPG.resources/18 Card RPG.2.jpg)![18 Card RPG.jpg](./_resources/18_Card_RPG.resources/18 Card RPG.jpg)![18 Card RPG.3.jpg](./_resources/18_Card_RPG.resources/18 Card RPG.3.jpg)
+![18 Card RPG.1.jpg](assets/18 Card RPG.3.jpg)
 

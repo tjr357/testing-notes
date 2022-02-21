@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Testing Update w Adam 11-10-20
 
 
-![Testing Update w Adam 11-10-20.jpg](./_resources/Testing_Update_w_Adam_11-10-20.resources/Testing Update w Adam 11-10-20.jpg)
+![Testing Update w Adam 11-10-20.jpg](assets/Testing Update w Adam 11-10-20.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Conversation w Luis on CoPs
 
 
-![Conversation w Luis on CoPs.jpg](./_resources/Conversation_w_Luis_on_CoPs.resources/Conversation w Luis on CoPs.jpg)
+![Conversation w Luis on CoPs.jpg](assets/Conversation w Luis on CoPs.jpg)
 

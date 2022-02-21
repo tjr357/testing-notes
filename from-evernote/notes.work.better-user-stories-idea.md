@@ -21,5 +21,5 @@ _Last updated at 2021-11-28._
 # Better User Stories Idea
 
 
-![Better User Stories Idea.jpg](./_resources/Better_User_Stories_Idea.resources/Better User Stories Idea.jpg)
+![Better User Stories Idea.jpg](assets/Better User Stories Idea.jpg)
 

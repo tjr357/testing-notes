@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Salesforce Automation - Handoff with Sarath
 
 
-![RB 2018-08-0414.jpg](./_resources/Salesforce_Automation_-_Handoff_with_Sarath.1.resources/RB 2018-08-0414.jpg)
+![RB 2018-08-0414.jpg](assets/RB 2018-08-0414.jpg)
 

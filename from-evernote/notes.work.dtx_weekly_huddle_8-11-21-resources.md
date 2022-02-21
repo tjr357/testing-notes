@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [DTX Weekly Huddle 8-11-21.1.jpg](/assets/dtx-weekly-huddle-8-11-21.jpg)
-- [DTX Weekly Huddle 8-11-21.jpg](/assets/dtx-weekly-huddle-8-11-21.jpg)
+- ![DTX Weekly Huddle 8-11-21.1.jpg](/assets/dtx-weekly-huddle-8-11-21.jpg)
+- ![DTX Weekly Huddle 8-11-21.jpg](/assets/dtx-weekly-huddle-8-11-21.jpg)

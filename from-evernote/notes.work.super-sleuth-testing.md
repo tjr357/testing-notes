@@ -26,5 +26,5 @@ codemash2020
 # Super Sleuth Testing
 
 
-![RB 2020-01-1308.jpg](./_resources/Super_Sleuth_Testing.resources/RB 2020-01-1308.jpg)
+![RB 2020-01-1308.jpg](assets/RB 2020-01-1308.jpg)
 

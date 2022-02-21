@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # IBSC Recently Imported Panels - 2/5/18
 
 
-![RB 2018-02-06 14.jpg](./_resources/IBSC_Recently_Imported_Panels_-_2_5_18.resources/RB 2018-02-06 14.jpg)
+![RB 2018-02-06 14.jpg](assets/RB 2018-02-06 14.jpg)
 

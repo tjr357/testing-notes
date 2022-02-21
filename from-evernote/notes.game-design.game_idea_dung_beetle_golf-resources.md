@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Game Idea Dung Beetle Golf.jpg](/assets/game-idea-dung-beetle-golf.jpg)
+- ![Game Idea Dung Beetle Golf.jpg](/assets/game-idea-dung-beetle-golf.jpg)

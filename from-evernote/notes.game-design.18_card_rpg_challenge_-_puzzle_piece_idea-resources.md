@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [18 Card RPG Puzzle Piece Idea.pdf](/assets/18-card-rpg-puzzle-piece-idea-YUudmvzB6AKu.pdf)
+- ![18 Card RPG Puzzle Piece Idea.pdf](/assets/18-card-rpg-puzzle-piece-idea-YUudmvzB6AKu.pdf)

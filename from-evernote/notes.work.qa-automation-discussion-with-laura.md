@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # QA Automation Discussion with Laura
 
 
-![QA Automation Discussion with Laura.jpg](./_resources/QA_Automation_Discussion_with_Laura.resources/QA Automation Discussion with Laura.jpg)
+![QA Automation Discussion with Laura.jpg](assets/QA Automation Discussion with Laura.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Psychology Behind Compelling Apps
 
 
-![Psychology Behind Compelling Apps.jpg](./_resources/Psychology_Behind_Compelling_Apps.2.resources/Psychology Behind Compelling Apps.jpg)
+![Psychology Behind Compelling Apps.jpg](assets/Psychology Behind Compelling Apps.jpg)
 

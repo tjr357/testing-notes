@@ -21,5 +21,5 @@ _Last updated at 2018-08-20._
 # Kwik brain Notes
 
 
-![Kwik brain Notes.jpg](./_resources/Kwik_brain_Notes.resources/Kwik brain Notes.jpg)
+![Kwik brain Notes.jpg](assets/Kwik brain Notes.jpg)
 

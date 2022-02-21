@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [QA Automation Stand Up.jpg](/assets/qa-automation-stand-up.jpg)
+- ![QA Automation Stand Up.jpg](/assets/qa-automation-stand-up.jpg)

@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Spelunky Notes 5
 
 
-![1_15_18 8_09 PM Office Lens (1).jpg](./_resources/Spelunky_Notes_5.resources/1_15_18 8_09 PM Office Lens (1).jpg)
+![1_15_18 8_09 PM Office Lens (1).jpg](assets/1_15_18 8_09 PM Office Lens (1).jpg)
 

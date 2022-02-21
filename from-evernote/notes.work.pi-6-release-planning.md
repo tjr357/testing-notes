@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # PI 6 Release Planning
 
 
-![RB 2018-08-30 08.jpg](./_resources/PI_6_Release_Planning.resources/RB 2018-08-30 08.jpg)
+![RB 2018-08-30 08.jpg](assets/RB 2018-08-30 08.jpg)
 

@@ -24,7 +24,7 @@ _Source URL: [](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_
 # Top 20 Best Foods for Your Brain: Ideal Brain Food | EcoSalon | Conscious Culture and Fashion
 
 
-[![unknown_filename.4.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.4.jpeg)](http://ecosalon.com)
+[![unknown_filename.4.jpeg](assets/ecosalon.com)
 
 **Conscious Culture and Fashion**
 
@@ -32,9 +32,9 @@ May 13, 2011
 
 [Have a heart.](http://ecosalon.com/about/)
 
-*   [![unknown_filename.11.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.11.jpeg)](http://ecosalon.com/toxic-clothing/)[Clothing: Enemy #1](http://ecosalon.com/toxic-clothing/)
-*   [![unknown_filename.2.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.2.jpeg)](http://ecosalon.com/men-are-beautiful/)[The Beautiful Man](http://ecosalon.com/men-are-beautiful/)
-*   [![unknown_filename.9.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.9.jpeg)](http://ecosalon.com/essence/)[Essence](http://ecosalon.com/essence/)
+*   [![unknown_filename.11.jpeg](assets/)
+*   [![unknown_filename.2.jpeg](assets/)
+*   [![unknown_filename.9.jpeg](assets/)
 
 ### Browse
 
@@ -106,7 +106,7 @@ Happy. Progress is progress.Irritated. It's self-serving greenwash.Pragmatic. Ma
 
 by [Sara Ost](http://ecosalon.com/author/sara-ost/) on August 19, 2008 in [Food](http://ecosalon.com/category/food/)
 
-![unknown_filename.8.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.8.jpeg)
+![unknown_filename.8.jpeg](assets/unknown_filename.8.jpeg)
 
 Simply put, your brain likes to eat. And it likes powerful fuel: quality fats, antioxidants, and small, steady amounts of the best carbs.
 
@@ -281,10 +281,10 @@ Tags: [guide](http://ecosalon.com/tag/guide/), [health](http://ecosalon.com/tag/
 
 #### RELATED ARTICLES
 
-*   [![unknown_filename.8.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.8.jpeg)](http://ecosalon.com/ignite-your-brainpower-with-the-20-smartest-foods-on-earth/)[Ignite Your Brainpower with the 20 Sma…](http://ecosalon.com/ignite-your-brainpower-with-the-20-smartest-foods-on-earth/)
-*   [![unknown_filename.14.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.14.jpeg)](http://ecosalon.com/high-in-protein-and-omega-3s-test-your-nut-knowledge/)[To Be Nut-Wise](http://ecosalon.com/high-in-protein-and-omega-3s-test-your-nut-knowledge/)
-*   [![unknown_filename.3.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.3.jpeg)](http://ecosalon.com/giving_in_to_carbs_here_s_a_tasty_way_to_reduce_the_blood_sugar_spike/)[Giving in to Carbs? Here's a Tast…](http://ecosalon.com/giving_in_to_carbs_here_s_a_tasty_way_to_reduce_the_blood_sugar_spike/)
-*   [![unknown_filename.16.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.16.jpeg)](http://ecosalon.com/12-cheapest-healthy-eco-friendly-green-foods/)[Cheap, Green ‘n Lean: 12 Tasty, Health…](http://ecosalon.com/12-cheapest-healthy-eco-friendly-green-foods/)
+*   [![unknown_filename.8.jpeg](assets/)
+*   [![unknown_filename.14.jpeg](assets/)
+*   [![unknown_filename.3.jpeg](assets/)
+*   [![unknown_filename.16.jpeg](assets/)
 
 ### DISCUSSION
 
@@ -307,11 +307,11 @@ Image
 
 ### Showing **1-20** of **48** comments
 
-Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.25.png)   [Subscribe by email](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#)   ![unknown_filename.10.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.10.png)  [Subscribe by RSS](http://ecosaloncom.disqus.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/latest.rss) 
+Sort by ![unknown_filename.25.png](assets/latest.rss) 
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/76313332833377720b750fe3592ad6ad/) | **Nw** [3 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-134347012) |
+    | [![unknown_filename.21.png](assets/#comment-134347012) |
     
     How can the same article say that 2-4 cups of coffee a day is fine, and then advise no more than 2-3 cups of tea a day "because it contains caffeine"? There's much more caffeine in coffee than tea, so you should be able to drink more tea than coffee.
     
@@ -320,7 +320,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.1.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.1.jpeg)](http://disqus.com/guest/5b36c75ebd4e6d6f439d8f44e31f21cf/) | **Matt** [5 days ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-199522614) [in reply to Nw](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-134347012) |
+    | [![unknown_filename.1.jpeg](assets/#comment-134347012) |
     
     Actually, tea contains more caffeine than coffee.
     
@@ -329,7 +329,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/google-a46b3c62293d465281b08bff824bbfc1/) | **Graham Ranson** [19 hours ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202144145) [in reply to Matt](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-199522614) |
+    | [![unknown_filename.21.png](assets/#comment-199522614) |
     
     [Matt](http://disqus.com/5b36c75ebd4e6d6f439d8f44e31f21cf) A bag of tea does contain more caffeine then a bag of coffee true, but a cup of coffee contains much more caffeine then a cup of tea.
     
@@ -338,7 +338,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/2ca59af85c6776f1a55ca19517fb97cb/) | **Nigel Vaughan** [4 hours ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202933264) [in reply to Graham Ranson](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202144145) |
+    | [![unknown_filename.21.png](assets/#comment-202144145) |
     
     Absolutely right. Weight for weight, tea leaves contain more caffeine than coffee beans, but when they are brewed, a cup of coffee has significantly more caffeine than tea.
     A typical 225ml cup of tea contains only about 60mg of caffeine, compared to 125mg in a cup of coffee of the same size.
@@ -348,7 +348,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/4d1a80b816e23e3e93fa122f775adf80/) | **Amanda\_bay\_be** [3 weeks ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-189719691) [in reply to Nw](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-134347012) |
+    | [![unknown_filename.21.png](assets/#comment-134347012) |
     
     I think they're saying to drink no more than 2-4 cups of coffee IN ADDITION TO no more than 2-3 cups of tea. The tea and coffee caffeine content combined would be bad for your health.
     
@@ -357,7 +357,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/b56a2d55b72feaf8f5bd57be0b1b4e11/) | **Andi** [6 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507395) |
+    | [![unknown_filename.21.png](assets/#comment-112507395) |
     
     so...20 foods that will supercharge your brain is good idea for improvement your brain... will you are doing that... cause i'm will and shall doing that...
     thanks
@@ -367,7 +367,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/4c06371ec7cc0e6a60c5a15304c4a5d5/) | **Lonnie Sapp** [6 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507394) |
+    | [![unknown_filename.21.png](assets/#comment-112507394) |
     
     Excellent list! I'm a strong believer in healthy eating and excercise to maintain a stong mind and body. However, I was sadened by the information regarding alcohol and brain cell damage. I enjoy and adult beverage or two daily to help releive work-related stress...too bad I'm killing my brain slowly :)
     Great Article! A+
@@ -377,7 +377,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/722af608947d40851017caaefe191df9/) | **odranoel** [15 hours ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202496770) [in reply to Lonnie Sapp](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507394) |
+    | [![unknown_filename.21.png](assets/#comment-112507394) |
     
     It is a myth that alcohol kills brain cells. It may do reversible damage to dendrites. That is it.
     
@@ -386,7 +386,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.24.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.24.jpeg)](http://disqus.com/facebook-16801547/) | [J.T. Mitchum](http://www.facebook.com/profile.php?id=16801547) [6 hours ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202899134) [in reply to odranoel](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202496770) |
+    | [![unknown_filename.24.jpeg](assets/#comment-202496770) |
     
     Thank you thank you thank you!! There are even some health benefits (mainly cardiovascular, which the author highlights several times as also facilitating brain health) to alcohol consumption.
     
@@ -395,7 +395,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/36cb225de0ebcae1698e35ed602f0bb1/) | **sonja kinzer** [8 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507391) |
+    | [![unknown_filename.21.png](assets/#comment-112507391) |
     
     PS The thing about cooked tomatoes...yeah, everyone gets that one wrong. As a raw vegan, I make it a point to know these things...the way the amount of lycopene is extracted is through cooking the tomatoes. If someone had bothered to just puree them, they'd find that the same was true.
     
@@ -404,7 +404,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.23.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.23.jpeg)](http://disqus.com/guest/088e7a79454d56eccf26eb5355c4eb90/) | **Teaaker** [16 hours ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-202400264) |
+    | [![unknown_filename.23.jpeg](assets/#comment-202400264) |
     
     How can garlic be so awesome, but chopped or peeled isn't worth anything nutritionally? When I get a head of garlic, I always chop and peel it... Please help!
     
@@ -413,7 +413,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.27.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.27.jpeg)](http://disqus.com/ElsieFrank028/) | **ElsieFrank028** [2 weeks ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-190611135) |
+    | [![unknown_filename.27.jpeg](assets/#comment-190611135) |
     
     This is such a good list for the brain. I like your article, this is so helpful to open the minds of busy people, because of lifestyle we often eat organic foods that probably makes us strong and to have a powerful mind.
     Elsie Frank,
@@ -425,7 +425,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/ef1ba4e9e232fb38e481bc8d1b5c416c/) | **Blood22796** [1 month ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-181054257) |
+    | [![unknown_filename.21.png](assets/#comment-181054257) |
     
     this list sucks
     
@@ -434,7 +434,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/18c7fdfac06af8e89691c3011d075f04/) | **Heide\_vaught** [3 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-141682345) |
+    | [![unknown_filename.21.png](assets/#comment-141682345) |
     
     I just made my Grocery list awsome !!! THX
     
@@ -443,7 +443,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/830b13ee83e98a79b4d7c82296152c95/) | **Ninja** [7 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507393) |
+    | [![unknown_filename.21.png](assets/#comment-112507393) |
     
     Awesome!! Thanks for that!!! I didn't know chocolate was good for me!!!
     
@@ -452,7 +452,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/8637be5d82d375a274db225f9003f0d4/) | **RONDA** [8 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507390) |
+    | [![unknown_filename.21.png](assets/#comment-112507390) |
     
     I REALLY BELIEVE A LOT OF THIS INFORMATION. I AM A BELIEVER OF ANYTHING IN MODERATION. I LOVE TO ADD SPICES SUCH AS GARLIC POWDER, OREGANO, THYME, ETC., TO BOOST RECIPES AND ADD BENEFITS AND FLAVOR TO EVERY DISH. TUNA HELPER IS ESPECIALLY REALLY GOOD. ADDING VEGETABLES TO DISHES MAKES EVERYTHING TASTE BETTER. COFFEE IS ALSO GREAT FOR FLUSHING OUT THE SYSTEM. COFFEE ALSO CALMS ME DOWN. I DON'T LIKE A LOT OF SUGAR IN MY DIET BECAUSE IT WILL MAKE ME LAZY. GOOD INFO!
     
@@ -461,7 +461,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/795030fa5a5964782a9a077aa7e67c42/) | [sakshi](http://msn.com) [8 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507389) |
+    | [![unknown_filename.21.png](assets/#comment-112507389) |
     
     :) :P :O <3
     
@@ -470,7 +470,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/93dd1735080493120d3a439673eb5850/) | **Mathew** [8 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507387) |
+    | [![unknown_filename.21.png](assets/#comment-112507387) |
     
     Great list, definitely bookmarking for future reference. Thanks for the helpful information :)
     
@@ -479,7 +479,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/f9946aee5fdf83d628861e77fc018738/) | **Denise** [9 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507386) |
+    | [![unknown_filename.21.png](assets/#comment-112507386) |
     
     Thanks a lot for sharing all of this information. It seems that a lot of people are joining the "let's get healthy" tendency and I sure want to start any one of these days. Just reading about it makes me feel healthier. This is excellent work. Thanks.
     
@@ -488,7 +488,7 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |
     | --- | --- |
-    | [![unknown_filename.21.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.21.png)](http://disqus.com/guest/9088af19efd069347dfa35c6b3a7ce8c/) | **Ronny** [10 months ago](http://ecosalon.com/ignite_your_brainpower_with_the_20_smartest_foods_on_earth/#comment-112507385) |
+    | [![unknown_filename.21.png](assets/#comment-112507385) |
     
     I think this is a very good list, but I have also heard that cinnamon can stimulate the brain, and that apples could prevent alzheimers.
     
@@ -501,107 +501,107 @@ Sort by ![unknown_filename.25.png](./_resources/Top_20_Best_Foods_for_Your_Brain
 
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.7.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.7.png)](http://twitter.com/TheChefGuys/) | TheChefGuys 13 hours ago |     |
+    | [![unknown_filename.7.png](assets/) | TheChefGuys 13 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/TheChefGuys/status/68817029582438401) |     |
+    | ![unknown_filename.35.png](assets/68817029582438401) |     |
     
     Top 20 Best Foods for Your Brain http://bit.ly/lw78Ix #food #foodhacker
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.32.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.32.jpeg)](http://twitter.com/sync0mm/) | sync0mm 13 hours ago |     |
+    | [![unknown_filename.32.jpeg](assets/) | sync0mm 13 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/sync0mm/status/68813756498575360) |     |
+    | ![unknown_filename.35.png](assets/68813756498575360) |     |
     
     Ignite Your Brainpower with the 20 Smartest Foods on Earth http://t.co/eJhnX0P via @ecosalon
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.26.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.26.jpeg)](http://twitter.com/sara_heartburn/) | sara\_heartburn 14 hours ago |     |
+    | [![unknown_filename.26.jpeg](assets/) | sara\_heartburn 14 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/sara_heartburn/status/68806378663321602) |     |
+    | ![unknown_filename.35.png](assets/68806378663321602) |     |
     
     Top 20 Best Foods for Your Brain: Ideal Brain Food | EcoSalon | Conscious Culture and Fashion: http://bit.ly/lDkJv3
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.18.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.18.jpeg)](http://twitter.com/iamiq/) | iamiq 14 hours ago |     |
+    | [![unknown_filename.18.jpeg](assets/) | iamiq 14 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/iamiq/status/68806132952604672) |     |
+    | ![unknown_filename.35.png](assets/68806132952604672) |     |
     
     Ignite Your Brainpower with the 20 Smartest Foods on Earth http://t.co/TSuAdXh
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.12.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.12.jpeg)](http://twitter.com/BaritoneUK/) | BaritoneUK 14 hours ago |     |
+    | [![unknown_filename.12.jpeg](assets/) | BaritoneUK 14 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/BaritoneUK/status/68802925719334912) |     |
+    | ![unknown_filename.35.png](assets/68802925719334912) |     |
     
     Top 20 Best Foods for Your Brain: Ideal Brain Food http://bit.ly/jiridO
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.33.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.33.png)](http://twitter.com/onion_soup/) | onion\_soup 14 hours ago |     |
+    | [![unknown_filename.33.png](assets/) | onion\_soup 14 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/onion_soup/status/68798142061096960) |     |
+    | ![unknown_filename.35.png](assets/68798142061096960) |     |
     
     http://tinyurl.com/3ohte4b Top 20 Best Foods for Your Brain: Ideal Brain Food | EcoSalon | Conscious Culture and Fashion
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.22.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.22.png)](http://twitter.com/NSCROSSMAN/) | NSCROSSMAN 15 hours ago |     |
+    | [![unknown_filename.22.png](assets/) | NSCROSSMAN 15 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/NSCROSSMAN/status/68797651356884992) |     |
+    | ![unknown_filename.35.png](assets/68797651356884992) |     |
     
     Top 20 Best Foods for Your Brain http://ow.ly/4Tgsn via @lifehacker
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.13.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.13.jpeg)](http://twitter.com/truetooyou/) | truetooyou 15 hours ago |     |
+    | [![unknown_filename.13.jpeg](assets/) | truetooyou 15 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/truetooyou/status/68794607810510849) |     |
+    | ![unknown_filename.35.png](assets/68794607810510849) |     |
     
     Top 20 Best Foods for Your Brain: Ideal Brain Food | EcoSalon | Conscious Culture and Fashion http://zite.to/ituNmu via @Ziteapp
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.6.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.6.jpeg)](http://twitter.com/Dpuiatti/) | Dpuiatti 15 hours ago |     |
+    | [![unknown_filename.6.jpeg](assets/) | Dpuiatti 15 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/Dpuiatti/status/68785168697131008) |     |
+    | ![unknown_filename.35.png](assets/68785168697131008) |     |
     
     Wanna be smarter? Check this top 20 of brain boosting foods. http://bit.ly/iJ4d0f
     
 *   |     |     |     |
     | --- | --- | --- |
-    | [![unknown_filename.36.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.36.jpeg)](http://twitter.com/burginre/) | burginre 15 hours ago |     |
+    | [![unknown_filename.36.jpeg](assets/) | burginre 15 hours ago |     |
     
     |     |     |
     | --- | --- |
-    | ![unknown_filename.35.png](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.35.png)  From  [twitter](http://twitter.com/burginre/status/68784913872195584) |     |
+    | ![unknown_filename.35.png](assets/68784913872195584) |     |
     
     #nutrition >> Top 20 Best Foods for Your Brain: Ideal Brain Food | EcoSalon >> http://goo.gl/khKVB
     
 *   Show more reactions
 
-[![unknown_filename.34.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.34.jpeg)](http://www.ecosalon.com/subscribe/) [![unknown_filename.30.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.30.jpeg)](http://twitter.com/EcoSalon) [![unknown_filename.15.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.15.jpeg)](http://www.facebook.com/pages/EcoSalon/215522400902) [![unknown_filename.17.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.17.jpeg)](http://www.ecosalon.com/newsletter/)
+[![unknown_filename.34.jpeg](assets/)
 
 [ABOUT](http://ecosalon.com/about/) [CONTACT](http://ecosalon.com/contact/) [ADVERTISE](http://ecosalon.com/advertise/) [SUBSCRIBE](http://www.ecosalon.com/subscribe/)
 
@@ -619,25 +619,25 @@ advertisements
 
 [EPA Lead Certification](http://www.greenedu.com/epa-lead-rrp-overview/)
 
-[![unknown_filename.5.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.5.jpeg)](http://ecosalon.com/exclusive-eco-shopping-offer/)
+[![unknown_filename.5.jpeg](assets/)
 
 [RECENT ARTICLES >](http://ecosalon.com/)
 
-[![unknown_filename.11.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.11.jpeg)Clothing: Enemy #1](http://ecosalon.com/toxic-clothing/)
-[![unknown_filename.2.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.2.jpeg)The Beautiful Man](http://ecosalon.com/men-are-beautiful/)
-[![unknown_filename.9.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.9.jpeg)Essence](http://ecosalon.com/essence/)
-[![unknown_filename.29.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.29.jpeg)Our Big Fat Conscious Reading List: ...](http://ecosalon.com/best-websites-to-read-online/)
-[![unknown_filename.37.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.37.jpeg)The Green Plate: News from The Food ...](http://ecosalon.com/fit-to-eat-news-from-the-food-world/)
-[![unknown_filename.19.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.19.jpeg)Lustables: TODAY I WILL Plates](http://ecosalon.com/lustables-today-i-will-plates/)
-[![unknown_filename.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.jpeg)The Best Graphic, Organic T-Shirts](http://ecosalon.com/the-best-graphic-organic-t-shirts/)
-[![unknown_filename.20.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.20.jpeg)Blondes At Heart](http://ecosalon.com/blondes-at-heart/)
+[![unknown_filename.11.jpeg](assets/)
+[![unknown_filename.2.jpeg](assets/)
+[![unknown_filename.9.jpeg](assets/)
+[![unknown_filename.29.jpeg](assets/)
+[![unknown_filename.37.jpeg](assets/)
+[![unknown_filename.19.jpeg](assets/)
+[![unknown_filename.jpeg](assets/)
+[![unknown_filename.20.jpeg](assets/)
 
-[![unknown_filename.28.jpeg](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.28.jpeg)](http://ecosalon.com)
+[![unknown_filename.28.jpeg](assets/ecosalon.com)
 [HOME](http://ecosalon.com/) [ABOUT](http://ecosalon.com/about/) [CONTACT](http://ecosalon.com/contact/) [ADVERTISE](http://ecosalon.com/advertise/) [SUBSCRIBE](http://ecosalon.com/subscribe/)
 
 EcoSalon is a registered trademark. All rights reserved. Copyright 2011.
 
 Have a heart.
 
-![unknown_filename.31.gif](./_resources/Top_20_Best_Foods_for_Your_Brain__Ideal_Brain_Food___EcoSalon___Conscious_Culture_and_Fashion.resources/unknown_filename.31.gif)
+![unknown_filename.31.gif](assets/unknown_filename.31.gif)
 

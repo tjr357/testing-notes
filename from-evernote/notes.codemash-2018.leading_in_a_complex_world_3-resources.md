@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Leading in a Complex World.jpg](/assets/leading-in-a-complex-world.jpg)
+- ![Leading in a Complex World.jpg](/assets/leading-in-a-complex-world.jpg)

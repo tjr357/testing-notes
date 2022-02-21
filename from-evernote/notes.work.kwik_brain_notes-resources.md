@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Kwik brain Notes.jpg](/assets/kwik-brain-notes.jpg)
+- ![Kwik brain Notes.jpg](/assets/kwik-brain-notes.jpg)

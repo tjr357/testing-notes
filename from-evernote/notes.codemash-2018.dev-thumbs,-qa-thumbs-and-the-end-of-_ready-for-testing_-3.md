@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Dev Thumbs, QA Thumbs and the End of "Ready for Testing" 3
 
 
-![RB 2018-01-11 17.jpg](./_resources/Dev_Thumbs,_QA_Thumbs_and_the_End_of__Ready_for_Testing__3.resources/RB 2018-01-11 17.jpg)
+![RB 2018-01-11 17.jpg](assets/RB 2018-01-11 17.jpg)
 

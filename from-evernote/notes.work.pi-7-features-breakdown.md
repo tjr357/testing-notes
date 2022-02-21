@@ -21,5 +21,5 @@ _Last updated at 2018-11-10._
 # PI 7 Features Breakdown
 
 
-![RB 2018-11-08 14.jpg](./_resources/PI_7_Features_Breakdown.resources/RB 2018-11-08 14.jpg)
+![RB 2018-11-08 14.jpg](assets/RB 2018-11-08 14.jpg)
 

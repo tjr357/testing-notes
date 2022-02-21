@@ -21,5 +21,5 @@ _Last updated at 2018-08-01._
 # PIC Process Email Alerts + Templates
 
 
-![PIC Process Email Alerts - Templates.jpg](./_resources/PIC_Process_Email_Alerts_+_Templates.resources/PIC Process Email Alerts - Templates.jpg)
+![PIC Process Email Alerts - Templates.jpg](assets/PIC Process Email Alerts - Templates.jpg)
 

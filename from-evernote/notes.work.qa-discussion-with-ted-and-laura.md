@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # QA Discussion with Ted and Laura
 
 
-![QA Discussion with Ted and Laura.jpg](./_resources/QA_Discussion_with_Ted_and_Laura.resources/QA Discussion with Ted and Laura.jpg)
+![QA Discussion with Ted and Laura.jpg](assets/QA Discussion with Ted and Laura.jpg)
 

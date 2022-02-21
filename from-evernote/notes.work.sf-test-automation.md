@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # SF Test Automation
 
 
-![SF Test Automation.jpg](./_resources/SF_Test_Automation.resources/SF Test Automation.jpg)
+![SF Test Automation.jpg](assets/SF Test Automation.jpg)
 

@@ -26,5 +26,5 @@ game-design
 # Silly Eggs Game Idea
 
 
-![Silly Eggs Game Idea.jpg](./_resources/Silly_Eggs_Game_Idea.resources/Silly Eggs Game Idea.jpg)
+![Silly Eggs Game Idea.jpg](assets/Silly Eggs Game Idea.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Red Squad Stand Up
 
 
-![Red Squad Stand Up.jpg](./_resources/Red_Squad_Stand_Up.2.resources/Red Squad Stand Up.jpg)
+![Red Squad Stand Up.jpg](assets/Red Squad Stand Up.jpg)
 

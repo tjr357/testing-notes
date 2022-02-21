@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # Prod Issue Discussion 8-28-21
 
 
-![Prod Issue Discussion 8-28-21.jpg](./_resources/Prod_Issue_Discussion_8-28-21.resources/Prod Issue Discussion 8-28-21.jpg)
+![Prod Issue Discussion 8-28-21.jpg](assets/Prod Issue Discussion 8-28-21.jpg)
 

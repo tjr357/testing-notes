@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [IT Contracts Team Discussion Provar 8-9-21.jpg](/assets/it-contracts-team-discussion-provar-8-9-21.jpg)
+- ![IT Contracts Team Discussion Provar 8-9-21.jpg](/assets/it-contracts-team-discussion-provar-8-9-21.jpg)

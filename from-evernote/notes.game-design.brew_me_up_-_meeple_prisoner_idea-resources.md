@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Brew Me Up - Needle Prisoner Idea.jpg](/assets/brew-me-up---needle-prisoner-idea.jpg)
+- ![Brew Me Up - Needle Prisoner Idea.jpg](/assets/brew-me-up---needle-prisoner-idea.jpg)

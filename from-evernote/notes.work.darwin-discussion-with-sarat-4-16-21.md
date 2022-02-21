@@ -21,5 +21,5 @@ _Last updated at 2021-04-22._
 # Darwin Discussion with Sarat 4-16-21
 
 
-![Darwin Discussion with Sarat 4-16-21.jpg](./_resources/Darwin_Discussion_with_Sarat_4-16-21.resources/Darwin Discussion with Sarat 4-16-21.jpg)
+![Darwin Discussion with Sarat 4-16-21.jpg](assets/Darwin Discussion with Sarat 4-16-21.jpg)
 

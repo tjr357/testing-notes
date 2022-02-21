@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Salesforce Fundamentals Training
 
 
-![RB 2018-05-21 13.jpg](./_resources/Salesforce_Fundamentals_Training.3.resources/RB 2018-05-21 13.jpg)
+![RB 2018-05-21 13.jpg](assets/RB 2018-05-21 13.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [AudioNote-2011-11-07_124555.amr](/assets/audionote-2011-11-07_124555-h9CHSZ85NGWv.amr)
+- ![AudioNote-2011-11-07_124555.amr](/assets/audionote-2011-11-07_124555-h9CHSZ85NGWv.amr)

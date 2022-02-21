@@ -21,5 +21,5 @@ _Last updated at 2019-04-02._
 # Lunch Show n Tell
 
 
-![Lunch Show n Tell.jpg](./_resources/Lunch_Show_n_Tell.resources/Lunch Show n Tell.jpg)
+![Lunch Show n Tell.jpg](assets/Lunch Show n Tell.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-08-10._
 # DT Excellence Awards Committee Discussion 8-6-21
 
 
-![DT Excellence Awards Committee Discussion 8-6-21.jpg](./_resources/DT_Excellence_Awards_Committee_Discussion_8-6-21.resources/DT Excellence Awards Committee Discussion 8-6-21.jpg)
+![DT Excellence Awards Committee Discussion 8-6-21.jpg](assets/DT Excellence Awards Committee Discussion 8-6-21.jpg)
 

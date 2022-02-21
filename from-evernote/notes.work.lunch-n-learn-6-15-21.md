@@ -21,5 +21,5 @@ _Last updated at 2021-07-26._
 # Lunch n Learn 6-15-21
 
 
-[Lunch n Learn 6-15-21.pdf](./_resources/Lunch_n_Learn_6-15-21.resources/Lunch n Learn 6-15-21.pdf)
+[Lunch n Learn 6-15-21.pdf](assets/Lunch n Learn 6-15-21.pdf)
 

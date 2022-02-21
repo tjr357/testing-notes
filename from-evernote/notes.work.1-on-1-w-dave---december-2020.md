@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # 1 on 1 w Dave - December 2020
 
 
-![1 on 1 w Dave - December 2020.jpg](./_resources/1_on_1_w_Dave_-_December_2020.resources/1 on 1 w Dave - December 2020.jpg)
+![1 on 1 w Dave - December 2020.jpg](assets/1 on 1 w Dave - December 2020.jpg)
 

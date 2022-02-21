@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Salesforce Testing Strategy
 
 
-![RB 2018-07-02 08.jpg](./_resources/Salesforce_Testing_Strategy.resources/RB 2018-07-02 08.jpg)
+![RB 2018-07-02 08.jpg](assets/RB 2018-07-02 08.jpg)
 

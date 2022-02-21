@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Player Board Rotating Orbs Idea Game Mechanic.1.jpg](/assets/player-board-rotating-orbs-idea-game-mechanic.jpg)
-- [Player Board Rotating Orbs Idea Game Mechanic.jpg](/assets/player-board-rotating-orbs-idea-game-mechanic.jpg)
+- ![Player Board Rotating Orbs Idea Game Mechanic.1.jpg](/assets/player-board-rotating-orbs-idea-game-mechanic.jpg)
+- ![Player Board Rotating Orbs Idea Game Mechanic.jpg](/assets/player-board-rotating-orbs-idea-game-mechanic.jpg)

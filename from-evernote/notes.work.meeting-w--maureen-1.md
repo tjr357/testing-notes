@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Meeting w- Maureen
 
 
-![Meeting w- Maureen.jpg](./_resources/Meeting_w-_Maureen.1.resources/Meeting w- Maureen.jpg)
+![Meeting w- Maureen.jpg](assets/Meeting w- Maureen.jpg)
 

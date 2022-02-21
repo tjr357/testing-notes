@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Service Touchpoint with Stacy.jpg](/assets/service-touchpoint-with-stacy.jpg)
+- ![Service Touchpoint with Stacy.jpg](/assets/service-touchpoint-with-stacy.jpg)

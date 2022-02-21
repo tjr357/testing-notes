@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [MicrosoftTeams-image (12).png](/assets/microsoftteams-image-(12)-bQn2ucbF7Mep.png)
+- ![MicrosoftTeams-image (12).png](/assets/microsoftteams-image-(12)-bQn2ucbF7Mep.png)

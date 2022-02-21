@@ -26,5 +26,5 @@ Testing Testbash
 # Influence Over Authority and Other Principles by Elisabeth Hendrickson
 
 
-![RB 2018-11-0910.jpg](./_resources/Influence_Over_Authority_and_Other_Principles_by_Elisabeth_Hendrickson.resources/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
 

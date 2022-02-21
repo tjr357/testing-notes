@@ -21,5 +21,5 @@ _Last updated at 2021-06-04._
 # 18 Card RPG Story Brainstorm
 
 
-![Attachment.jpg](./_resources/18_Card_RPG_Story_Brainstorm.resources/Attachment.jpg)
+![Attachment.jpg](assets/Attachment.jpg)
 

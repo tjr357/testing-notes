@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Provar Quotes.jpg](/assets/provar-quotes.jpg)
+- ![Provar Quotes.jpg](/assets/provar-quotes.jpg)

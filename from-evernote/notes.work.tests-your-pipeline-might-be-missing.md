@@ -26,5 +26,5 @@ codemash2020
 # Tests Your Pipeline Might Be Missing
 
 
-![RB 2020-01-1308.jpg](./_resources/Tests_Your_Pipeline_Might_Be_Missing.resources/RB 2020-01-1308.jpg)
+![RB 2020-01-1308.jpg](assets/RB 2020-01-1308.jpg)
 

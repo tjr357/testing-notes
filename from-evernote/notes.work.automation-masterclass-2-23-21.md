@@ -21,5 +21,5 @@ _Last updated at 2021-03-08._
 # Automation Masterclass 2-23-21
 
 
-![Automation Masterclass 2-23-21.jpg](./_resources/Automation_Masterclass_2-23-21.resources/Automation Masterclass 2-23-21.jpg)
+![Automation Masterclass 2-23-21.jpg](assets/Automation Masterclass 2-23-21.jpg)
 

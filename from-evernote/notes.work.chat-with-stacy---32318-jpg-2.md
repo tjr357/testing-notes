@@ -21,5 +21,5 @@ _Last updated at 2018-03-27._
 # Chat with Stacy - 32318.jpg
 
 
-![Chat with Stacy - 32318.jpg](./_resources/Chat_with_Stacy_-_32318.jpg.2.resources/Chat with Stacy - 32318.jpg)
+![Chat with Stacy - 32318.jpg](assets/Chat with Stacy - 32318.jpg)
 

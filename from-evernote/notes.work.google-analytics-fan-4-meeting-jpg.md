@@ -21,5 +21,5 @@ _Last updated at 2018-01-16._
 # Google Analytics Fan 4 Meeting.jpg
 
 
-![Google Analytics Fan 4 Meeting.jpg](./_resources/Google_Analytics_Fan_4_Meeting.jpg.resources/Google Analytics Fan 4 Meeting.jpg)
+![Google Analytics Fan 4 Meeting.jpg](assets/Google Analytics Fan 4 Meeting.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # Work - ToDo 9-20-21
 
 
-![Work - ToDo 9-20-21.jpg](./_resources/Work_-_ToDo_9-20-21.resources/Work - ToDo 9-20-21.jpg)
+![Work - ToDo 9-20-21.jpg](assets/Work - ToDo 9-20-21.jpg)
 

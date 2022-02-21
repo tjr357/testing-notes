@@ -26,5 +26,5 @@ game-design
 # Brew Me Up Variable Power Ups
 
 
-![Brew Me Up Variable Power Ups.jpg](./_resources/Brew_Me_Up_Variable_Power_Ups.resources/Brew Me Up Variable Power Ups.jpg)
+![Brew Me Up Variable Power Ups.jpg](assets/Brew Me Up Variable Power Ups.jpg)
 

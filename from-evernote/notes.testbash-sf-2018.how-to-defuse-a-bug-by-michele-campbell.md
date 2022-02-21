@@ -26,5 +26,5 @@ Testing Testbash
 # How to Defuse a Bug by Michele Campbell
 
 
-![RB 2018-11-0910.jpg](./_resources/How_to_Defuse_a_Bug_by_Michele_Campbell.resources/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [KBA Go-Live Discussion.jpg](/assets/kba-go-live-discussion.jpg)
+- ![KBA Go-Live Discussion.jpg](/assets/kba-go-live-discussion.jpg)

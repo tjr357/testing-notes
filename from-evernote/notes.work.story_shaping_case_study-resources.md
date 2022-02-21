@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Story Shaping Case Study.jpg](/assets/story-shaping-case-study.jpg)
+- ![Story Shaping Case Study.jpg](/assets/story-shaping-case-study.jpg)

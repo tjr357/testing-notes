@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Selenium on Azure.jpg](/assets/selenium-on-azure.jpg)
+- ![Selenium on Azure.jpg](/assets/selenium-on-azure.jpg)

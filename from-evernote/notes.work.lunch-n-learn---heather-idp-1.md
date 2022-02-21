@@ -21,5 +21,5 @@ _Last updated at 2019-04-17._
 # Lunch n Learn - Heather IDP
 
 
-![Lunch n Learn - Heather IDP.jpg](./_resources/Lunch_n_Learn_-_Heather_IDP.1.resources/Lunch n Learn - Heather IDP.jpg)
+![Lunch n Learn - Heather IDP.jpg](assets/Lunch n Learn - Heather IDP.jpg)
 

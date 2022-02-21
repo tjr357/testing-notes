@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Deployment Process Development.jpg](/assets/deployment-process-development.jpg)
+- ![Deployment Process Development.jpg](/assets/deployment-process-development.jpg)

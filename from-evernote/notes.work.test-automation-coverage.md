@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # Test Automation Coverage
 
 
-![Test Automation Coverage.jpg](./_resources/Test_Automation_Coverage.resources/Test Automation Coverage.jpg)
+![Test Automation Coverage.jpg](assets/Test Automation Coverage.jpg)
 

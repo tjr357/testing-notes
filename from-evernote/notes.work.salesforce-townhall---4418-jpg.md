@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # SalesForce Townhall - 4418.jpg
 
 
-![SalesForce Townhall - 4418.jpg](./_resources/SalesForce_Townhall_-_4418.jpg.resources/SalesForce Townhall - 4418.jpg)
+![SalesForce Townhall - 4418.jpg](assets/SalesForce Townhall - 4418.jpg)
 

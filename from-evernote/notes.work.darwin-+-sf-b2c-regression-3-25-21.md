@@ -21,5 +21,5 @@ _Last updated at 2021-03-25._
 # Darwin + SF B2C Regression 3-25-21
 
 
-![Darwin - SF B2C Regression 3-25-21.jpg](./_resources/Darwin_+_SF_B2C_Regression_3-25-21.resources/Darwin - SF B2C Regression 3-25-21.jpg)
+![Darwin - SF B2C Regression 3-25-21.jpg](assets/Darwin - SF B2C Regression 3-25-21.jpg)
 

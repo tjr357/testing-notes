@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Tests listect Your Pipeline Might Be Missing again.jpg](/assets/tests-listect-your-pipeline-might-be-missing-again.jpg)
+- ![Tests listect Your Pipeline Might Be Missing again.jpg](/assets/tests-listect-your-pipeline-might-be-missing-again.jpg)

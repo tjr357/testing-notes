@@ -21,5 +21,5 @@ _Last updated at 2019-04-02._
 # Chip Chats 3-19-19
 
 
-![Chip Chats 3-19-19.jpg](./_resources/Chip_Chats_3-19-19.resources/Chip Chats 3-19-19.jpg)
+![Chip Chats 3-19-19.jpg](assets/Chip Chats 3-19-19.jpg)
 

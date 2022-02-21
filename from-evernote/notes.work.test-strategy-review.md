@@ -21,5 +21,5 @@ _Last updated at 2019-10-07._
 # Test Strategy Review
 
 
-![Test Strategy Review.jpg](./_resources/Test_Strategy_Review.resources/Test Strategy Review.jpg)
+![Test Strategy Review.jpg](/assets/Test-Strategy-Review.jpg)
 

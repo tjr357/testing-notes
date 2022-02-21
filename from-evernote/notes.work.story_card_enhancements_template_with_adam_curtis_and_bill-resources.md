@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Story Card Enhancements Template with Adam Curtis .jpg](/assets/story-card-enhancements-template-with-adam-curtis-.jpg)
+- ![Story Card Enhancements Template with Adam Curtis .jpg](/assets/story-card-enhancements-template-with-adam-curtis-.jpg)

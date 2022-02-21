@@ -21,5 +21,5 @@ _Last updated at 2021-11-28._
 # Career Advice Sept 2021
 
 
-![Career Advice Sept 2021.jpg](./_resources/Career_Advice_Sept_2021.resources/Career Advice Sept 2021.jpg)
+![Career Advice Sept 2021.jpg](assets/Career Advice Sept 2021.jpg)
 

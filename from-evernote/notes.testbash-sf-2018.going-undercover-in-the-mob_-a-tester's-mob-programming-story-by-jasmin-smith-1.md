@@ -28,5 +28,5 @@ Testing Testbash lunchnlearn
 # Going Undercover in the Mob: A Tester's Mob Programming Story by Jasmin Smith
 
 
-![RB 2018-11-0910.jpg](./_resources/Going_Undercover_in_the_Mob__A_Tester's_Mob_Programming_Story_by_Jasmin_Smith.1.resources/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
 

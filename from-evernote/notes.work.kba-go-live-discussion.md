@@ -21,5 +21,5 @@ _Last updated at 2019-04-17._
 # KBA Go-Live Discussion
 
 
-![KBA Go-Live Discussion.jpg](./_resources/KBA_Go-Live_Discussion.resources/KBA Go-Live Discussion.jpg)
+![KBA Go-Live Discussion.jpg](assets/KBA Go-Live Discussion.jpg)
 

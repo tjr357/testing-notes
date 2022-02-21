@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # Q&A Business Plans
 
 
-![Q&A Business Plans.jpg](./_resources/Q&A_Business_Plans.resources/Q&A Business Plans.jpg)
+![Q&A Business Plans.jpg](assets/Q&A Business Plans.jpg)
 

@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Valspar Email Testing 5-3-21.jpg](/assets/valspar-email-testing-5-3-21.jpg)
+- ![Valspar Email Testing 5-3-21.jpg](/assets/valspar-email-testing-5-3-21.jpg)

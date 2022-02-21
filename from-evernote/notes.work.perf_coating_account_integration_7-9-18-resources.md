@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Perf Coating Account Integration 7-9-18.jpg](/assets/perf-coating-account-integration-7-9-18.jpg)
+- ![Perf Coating Account Integration 7-9-18.jpg](/assets/perf-coating-account-integration-7-9-18.jpg)

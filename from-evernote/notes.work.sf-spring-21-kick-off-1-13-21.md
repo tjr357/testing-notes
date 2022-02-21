@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # SF Spring 21 Kick off 1-13-21
 
 
-![SF Spring 21 Kick off 1-13-21.jpg](./_resources/SF_Spring_21_Kick_off_1-13-21.resources/SF Spring 21 Kick off 1-13-21.jpg)
+![SF Spring 21 Kick off 1-13-21.jpg](assets/SF Spring 21 Kick off 1-13-21.jpg)
 

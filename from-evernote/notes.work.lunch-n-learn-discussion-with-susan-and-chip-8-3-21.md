@@ -21,5 +21,5 @@ _Last updated at 2021-08-10._
 # Lunch n Learn discussion with Susan and Chip 8-3-21
 
 
-![Lunch n Learn discussion with Susan and Chip 8-3-2.jpg](./_resources/Lunch_n_Learn_discussion_with_Susan_and_Chip_8-3-21.resources/Lunch n Learn discussion with Susan and Chip 8-3-2.jpg)
+![Lunch n Learn discussion with Susan and Chip 8-3-2.jpg](assets/Lunch n Learn discussion with Susan and Chip 8-3-2.jpg)
 

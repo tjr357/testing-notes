@@ -29,7 +29,7 @@ board-game board-game-design
 
 # League of Gamemakers
 
-![unknown_filename.4.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.4.png)
+![unknown_filename.4.png](assets/unknown_filename.4.png)
 This is Part 3 of my series, “ **How to Design a Worker Placement Game**.” Most of this piece is applicable to any type of game design, but it draws specific examples from worker placement games. Regardless of the type of game your working on, you may find this useful.
 I’ve been very pleased with the response to this series. I’ve also appreciated the additions that accomplished designers have made with their comments. Feel free to tell your own stories and add your own thoughts in the comments section below. We all benefit. The League wants to hear from you!
 
@@ -40,8 +40,8 @@ If you’re new here, check out the first two installments of this series:
 You can find a Chinese translation of these posts at boardgame-record.blogspot.tw
 [Part 1](http://boardgame-record.blogspot.tw/2014/04/how-to-design-worker-placement-game.html) and [Part 2](http://boardgame-record.blogspot.tw/2014/04/how-to-design-worker-placement-game_30.html)
 
-![unknown_filename.6.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.6.png)
-![unknown_filename.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.png)
+![unknown_filename.6.png](assets/unknown_filename.6.png)
+![unknown_filename.png](assets/unknown_filename.png)
 
 #### Refining Your Game
 
@@ -59,7 +59,7 @@ Refining a game is a vast topic that could fill volumes, but like a good game, t
 *   Sharing the Load
 *   Designer Spotlight: Bumping Beards and Orange Trobils
 
-![unknown_filename.8.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.8.png)
+![unknown_filename.8.png](assets/unknown_filename.8.png)
 
 #### Trimming and Tinkering
 
@@ -77,11 +77,11 @@ Here’s a trimming and refining example from a current project of mine, **Drill
 
 ###### Drill, Baby, Drill Board: Version 3
 
-![unknown_filename.2.jpeg](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.2.jpeg)
+![unknown_filename.2.jpeg](assets/unknown_filename.2.jpeg)
 
 ###### Drill, Baby, Drill Board: Version 4
 
-![unknown_filename.1.jpeg](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.1.jpeg)
+![unknown_filename.1.jpeg](assets/unknown_filename.1.jpeg)
 
 #### Sharing the Load
 
@@ -99,7 +99,7 @@ One of the best online communities, with daily conversations on a wide range of 
 Attend conventions near and far. If you can, attend a [Protospiel](http://www.protospiel.org/) event: special workshops where designers, play testers, and publishers gather together to play test and refine games. Many games have been picked up by publishers at Unpub and/or Protospiel events. This Geeklist compiled by Peter Vaughan lists some of them: [Published Protospiels](http://www.boardgamegeek.com/geeklist/173032/published-protospiels)
 
 _Some League members will be attending this Unpub/Protospiel in California this week:_ [www.boardgamebuilders.com](http://www.boardgamebuilders.com/)_. Look for posts about this event and League members experiences there._
-![unknown_filename.8.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.8.png)
+![unknown_filename.8.png](assets/unknown_filename.8.png)
 
 #### Designer Spotlight: Bumping Beards and Orange Trobils
 
@@ -108,7 +108,7 @@ Two of my colleagues are currently hard at work refining worker placement games.
 ###### Treasure Mountain
 
 Treasure Mountain is a fantasy-themed worker placement game designed by Dan George in which players control competing clans of dwarves. I asked Dan to talk a bit about his playtesting process after playing Treasure Mountain. I was truly amazed by the high level of quality he put into his prototypes, and his innovative bumping mechanics.
-![unknown_filename.7.jpeg](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.7.jpeg)
+![unknown_filename.7.jpeg](assets/unknown_filename.7.jpeg)
 
 ##### Can you describe your initial prototypes?
 
@@ -136,12 +136,12 @@ _“I have four HUGE bins of game parts that I have collected over the last 20 y
 
 ###### The following are sites recommended by Dan George for buying game parts:
 
-![unknown_filename.8.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.8.png)
+![unknown_filename.8.png](assets/unknown_filename.8.png)
 
 ###### Asking for Trobils
 
 <http://kraken-games.com/upcoming/asking-for-trobils/>[Asking for Trobils](http://kraken-games.com/upcoming/asking-for-trobils/) is coming to Kickstarter on May 21st. It is being published by Kraken Games, and is designed by Christian Strain and Erin McDonald. It is a worker-placement boardgame in which players are trying their best to rid the star system of Trobils. The game is one color: <http://kraken-games.com/upcoming/asking-for-trobils/>[orange](http://kraken-games.com/upcoming/asking-for-trobils/) .
-[![unknown_filename.5.jpeg](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.5.jpeg)](http://kraken-games.com/upcoming/asking-for-trobils/)
+[![unknown_filename.5.jpeg](assets/)
 Christian describes his playtesting process as follows:
 _“We playtest in 3 stages. The first stage is just the two designers playing the game 3 or 4 times a day trying out new methods and ways to play to see if we can break the game, and we do, often. That’s the point of the first stage. This is where the game’s metal is initially purified._
 
@@ -153,9 +153,9 @@ _When do you know you’re ready? Put your money where your mouth is. In our l
 
 ###### [Asking for Trobils](http://kraken-games.com/upcoming/asking-for-trobils/) will be launching on Kickstarter May 21st!
 
-![unknown_filename.8.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.8.png)
+![unknown_filename.8.png](assets/unknown_filename.8.png)
 
-![unknown_filename.3.png](./_resources/Refining_Your_Game___The_Best_Games_Are_Yet_To_Be_Made.resources/unknown_filename.3.png)
+![unknown_filename.3.png](assets/unknown_filename.3.png)
 I hope you found some of the information and resources useful. I look forward to continuing the dialog on these topics. Feel free to post comments below, and spread the word about the League of Gamemakers!
 And now, Part 4 is complete, revealing how this all turned into **Manhattan Project: Energy Empire**
 

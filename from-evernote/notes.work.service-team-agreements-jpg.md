@@ -21,5 +21,5 @@ _Last updated at 2018-09-19._
 # Service Team Agreements.jpg
 
 
-![Service Team Agreements.jpg](./_resources/Service_Team_Agreements.jpg.resources/Service Team Agreements.jpg)
+![Service Team Agreements.jpg](assets/Service Team Agreements.jpg)
 

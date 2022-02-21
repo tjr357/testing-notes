@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Smoke Tests Discussion Pat & Doug
 
 
-![RB 2018-03-22 08.jpg](./_resources/Smoke_Tests_Discussion_Pat_&_Doug.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # AAT SME Discussion
 
 
-![AAT SME Discussion.jpg](./_resources/AAT_SME_Discussion.resources/AAT SME Discussion.jpg)
+![AAT SME Discussion.jpg](assets/AAT SME Discussion.jpg)
 

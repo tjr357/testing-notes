@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # Bar Bingo + Experience 5-3-21
 
 
-![Bar Bingo - Experience 5-3-21.jpg](./_resources/Bar_Bingo_+_Experience_5-3-21.1.resources/Bar Bingo - Experience 5-3-21.jpg)
+![Bar Bingo - Experience 5-3-21.jpg](assets/Bar Bingo - Experience 5-3-21.jpg)
 

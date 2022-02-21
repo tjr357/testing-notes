@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # Valspar Email Testing 5-3-21
 
 
-![Valspar Email Testing 5-3-21.jpg](./_resources/Valspar_Email_Testing_5-3-21.resources/Valspar Email Testing 5-3-21.jpg)
+![Valspar Email Testing 5-3-21.jpg](assets/Valspar Email Testing 5-3-21.jpg)
 

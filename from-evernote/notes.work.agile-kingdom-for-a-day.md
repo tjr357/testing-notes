@@ -21,7 +21,7 @@ _Last updated at 2021-11-29._
 # Agile Kingdom for a Day
 
 
-![Agile Kingdom for a Day.jpg](./_resources/Agile_Kingdom_for_a_Day.resources/Agile Kingdom for a Day.jpg)
+![Agile Kingdom for a Day.jpg](assets/Agile Kingdom for a Day.jpg)
 \- How would I want people to feel? - I want people to feel empathy for our customers and I want them to see people that they respect discuss honestly about an agile transformation
 \- Who would I talk with? - agile coaches, in-house and out of house
 \- What would I do?  - Notes above

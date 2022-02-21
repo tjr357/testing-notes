@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [EMEAI Packaging Go-Live.jpg](/assets/emeai-packaging-go-live.jpg)
+- ![EMEAI Packaging Go-Live.jpg](/assets/emeai-packaging-go-live.jpg)

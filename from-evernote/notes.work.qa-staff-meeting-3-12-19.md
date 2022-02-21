@@ -21,5 +21,5 @@ _Last updated at 2019-03-13._
 # QA Staff Meeting 3-12-19
 
 
-![QA Staff Meeting 3 -12-29.jpg](./_resources/QA_Staff_Meeting_3-12-19.resources/QA Staff Meeting 3 -12-29.jpg)
+![QA Staff Meeting 3 -12-29.jpg](assets/QA Staff Meeting 3 -12-29.jpg)
 

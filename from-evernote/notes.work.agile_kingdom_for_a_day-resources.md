@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Agile Kingdom for a Day.jpg](/assets/agile-kingdom-for-a-day.jpg)
+- ![Agile Kingdom for a Day.jpg](/assets/agile-kingdom-for-a-day.jpg)

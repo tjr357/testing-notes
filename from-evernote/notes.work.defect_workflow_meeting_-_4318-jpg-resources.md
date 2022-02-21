@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Defect Workflow Meeting - 4318.jpg](/assets/defect-workflow-meeting---4318.jpg)
+- ![Defect Workflow Meeting - 4318.jpg](/assets/defect-workflow-meeting---4318.jpg)

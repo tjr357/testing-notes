@@ -26,6 +26,6 @@ games
 # Post-it® Note @ Medina, Ohio
 
 
-![IMG_20160223_064558.png](./_resources/Post-it®_Note_@_Medina,_Ohio.resources/IMG_20160223_064558.png)
-![Picture.png](./_resources/Post-it®_Note_@_Medina,_Ohio.resources/Picture.png)
+![IMG_20160223_064558.png](assets/IMG_20160223_064558.png)
+![Picture.png](assets/Picture.png)
 

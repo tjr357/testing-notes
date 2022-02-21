@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Perf Coating Account Integration 7-9-18
 
 
-![Perf Coating Account Integration 7-9-18.jpg](./_resources/Perf_Coating_Account_Integration_7-9-18.resources/Perf Coating Account Integration 7-9-18.jpg)
+![Perf Coating Account Integration 7-9-18.jpg](assets/Perf Coating Account Integration 7-9-18.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # Lunch n Learn - Angela- 5-11-21
 
 
-![Lunch n Learn - Angela- 5-11-21.jpg](./_resources/Lunch_n_Learn_-_Angela-_5-11-21.resources/Lunch n Learn - Angela- 5-11-21.jpg)![Lunch n Learn - Angela- 5-11-21.1.jpg](./_resources/Lunch_n_Learn_-_Angela-_5-11-21.resources/Lunch n Learn - Angela- 5-11-21.1.jpg)
+![Lunch n Learn - Angela- 5-11-21.jpg](assets/Lunch n Learn - Angela- 5-11-21.1.jpg)
 

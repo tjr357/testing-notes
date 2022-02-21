@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Skip Level 7-17-19
 
 
-![Skip Level 7-17-19.jpg](./_resources/Skip_Level_7-17-19.resources/Skip Level 7-17-19.jpg)
+![Skip Level 7-17-19.jpg](assets/Skip Level 7-17-19.jpg)
 

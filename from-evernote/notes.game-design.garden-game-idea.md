@@ -21,5 +21,5 @@ _Last updated at 2021-03-29._
 # Garden Game Idea
 
 
-![image.png](./_resources/Garden_Game_Idea.resources/image.png)
+![image.png](assets/image.png)
 

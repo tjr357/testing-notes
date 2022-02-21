@@ -21,5 +21,5 @@ _Last updated at 2021-03-25._
 # Lunch n Learn 3-17-21
 
 
-![Lunch n Learn 3-17-21.jpg](./_resources/Lunch_n_Learn_3-17-21.resources/Lunch n Learn 3-17-21.jpg)
+![Lunch n Learn 3-17-21.jpg](assets/Lunch n Learn 3-17-21.jpg)
 

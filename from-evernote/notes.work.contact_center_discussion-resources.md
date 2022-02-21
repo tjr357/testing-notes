@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Contact Center Discussion.jpg](/assets/contact-center-discussion.jpg)
+- ![Contact Center Discussion.jpg](/assets/contact-center-discussion.jpg)

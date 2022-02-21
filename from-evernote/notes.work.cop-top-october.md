@@ -21,5 +21,5 @@ _Last updated at 2018-11-10._
 # CoP Top October
 
 
-![RB 2018-11-08 14.jpg](./_resources/CoP_Top_October.resources/RB 2018-11-08 14.jpg)
+![RB 2018-11-08 14.jpg](assets/RB 2018-11-08 14.jpg)
 

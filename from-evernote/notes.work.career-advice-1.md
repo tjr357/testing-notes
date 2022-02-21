@@ -21,5 +21,5 @@ _Last updated at 2018-07-10._
 # Career Advice
 
 
-![Career Advice.jpg](./_resources/Career_Advice.1.resources/Career Advice.jpg)
+![Career Advice.jpg](assets/Career Advice.jpg)
 

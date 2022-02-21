@@ -21,5 +21,5 @@ _Last updated at 2021-08-10._
 # IT Contracts Team Discussion Provar 8-9-21
 
 
-![IT Contracts Team Discussion Provar 8-9-21.jpg](./_resources/IT_Contracts_Team_Discussion_Provar_8-9-21.resources/IT Contracts Team Discussion Provar 8-9-21.jpg)
+![IT Contracts Team Discussion Provar 8-9-21.jpg](assets/IT Contracts Team Discussion Provar 8-9-21.jpg)
 

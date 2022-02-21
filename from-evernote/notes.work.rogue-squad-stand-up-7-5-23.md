@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Rogue Squad Stand-Up 7-5-23
 
 
-![Rogue Squad Stand-Up 7-5-23.jpg](./_resources/Rogue_Squad_Stand-Up_7-5-23.resources/Rogue Squad Stand-Up 7-5-23.jpg)
+![Rogue Squad Stand-Up 7-5-23.jpg](assets/Rogue Squad Stand-Up 7-5-23.jpg)
 

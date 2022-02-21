@@ -26,5 +26,5 @@ game-design
 # Frogs and Turtles Game Idea
 
 
-![Frogs and Turtles Game Idea.jpg](./_resources/Frogs_and_Turtles_Game_Idea.resources/Frogs and Turtles Game Idea.jpg)
+![Frogs and Turtles Game Idea.jpg](assets/Frogs and Turtles Game Idea.jpg)
 

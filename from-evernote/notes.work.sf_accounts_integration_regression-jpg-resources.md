@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [SF Accounts Integration Regression.jpg](/assets/sf-accounts-integration-regression.jpg)
+- ![SF Accounts Integration Regression.jpg](/assets/sf-accounts-integration-regression.jpg)

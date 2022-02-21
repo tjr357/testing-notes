@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # QA Velocity Discussion
 
 
-![RB 2018-08-30 08.jpg](./_resources/QA_Velocity_Discussion.resources/RB 2018-08-30 08.jpg)
+![RB 2018-08-30 08.jpg](assets/RB 2018-08-30 08.jpg)
 

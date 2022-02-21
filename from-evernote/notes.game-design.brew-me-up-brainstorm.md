@@ -26,7 +26,7 @@ board-game-design BrewMeUp
 # Brew Me Up Brainstorm
 
 
-![Attachment.jpg](./_resources/Brew_Me_Up_Brainstorm.resources/Attachment.jpg)![Attachment.1.jpg](./_resources/Brew_Me_Up_Brainstorm.resources/Attachment.1.jpg)![Attachment.2.jpg](./_resources/Brew_Me_Up_Brainstorm.resources/Attachment.2.jpg)![Attachment.3.jpg](./_resources/Brew_Me_Up_Brainstorm.resources/Attachment.3.jpg)
+![Attachment.jpg](assets/Attachment.3.jpg)
 
 When workers are returned, players can choose a couple slots to place them on the player board and if there's a machine there, it can be operated.
 Make it more similar to Cryo. Players choose which ingredients go into the machine and their output.

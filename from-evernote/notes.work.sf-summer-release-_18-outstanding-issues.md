@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # SF Summer Release _18 Outstanding Issues
 
 
-![SF Summer Release _18 Outstanding Issues.jpg](./_resources/SF_Summer_Release__18_Outstanding_Issues.resources/SF Summer Release _18 Outstanding Issues.jpg)
+![SF Summer Release _18 Outstanding Issues.jpg](assets/SF Summer Release _18 Outstanding Issues.jpg)
 

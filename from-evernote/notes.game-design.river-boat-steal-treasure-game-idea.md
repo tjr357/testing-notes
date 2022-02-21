@@ -26,5 +26,5 @@ game-design
 # River Boat Steal Treasure Game Idea
 
 
-![River Boat Steal Treasure Game Idea.jpg](./_resources/River_Boat_Steal_Treasure_Game_Idea.resources/River Boat Steal Treasure Game Idea.jpg)
+![River Boat Steal Treasure Game Idea.jpg](assets/River Boat Steal Treasure Game Idea.jpg)
 

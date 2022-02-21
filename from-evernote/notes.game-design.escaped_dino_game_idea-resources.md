@@ -8,6 +8,6 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Escaped Dino Game Idea.1.jpg](/assets/escaped-dino-game-idea.jpg)
-- [Escaped Dino Game Idea.2.jpg](/assets/escaped-dino-game-idea.jpg)
-- [Escaped Dino Game Idea.jpg](/assets/escaped-dino-game-idea.jpg)
+- ![Escaped Dino Game Idea.1.jpg](/assets/escaped-dino-game-idea.jpg)
+- ![Escaped Dino Game Idea.2.jpg](/assets/escaped-dino-game-idea.jpg)
+- ![Escaped Dino Game Idea.jpg](/assets/escaped-dino-game-idea.jpg)

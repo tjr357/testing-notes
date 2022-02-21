@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Docker Rancher Chip Chats Deep Dive - 32618.jpg](/assets/docker-rancher-chip-chats-deep-dive---32618.jpg)
+- ![Docker Rancher Chip Chats Deep Dive - 32618.jpg](/assets/docker-rancher-chip-chats-deep-dive---32618.jpg)

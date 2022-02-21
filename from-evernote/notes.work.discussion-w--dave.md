@@ -21,5 +21,5 @@ _Last updated at 2021-02-19._
 # Discussion w- Dave
 
 
-![Discussion w- Dave.jpg](./_resources/Discussion_w-_Dave.resources/Discussion w- Dave.jpg)
+![Discussion w- Dave.jpg](assets/Discussion w- Dave.jpg)
 

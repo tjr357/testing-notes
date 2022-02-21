@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Machine Learning for Gamers 2
 
 
-![RB 2018-01-11 17.jpg](./_resources/Machine_Learning_for_Gamers_2.resources/RB 2018-01-11 17.jpg)
+![RB 2018-01-11 17.jpg](assets/RB 2018-01-11 17.jpg)
 

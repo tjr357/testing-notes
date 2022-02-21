@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Production Deployments the Easiest Part of your Day 3
 
 
-![RB 2018-01-11 17.jpg](./_resources/Production_Deployments_the_Easiest_Part_of_your_Day_3.resources/RB 2018-01-11 17.jpg)
+![RB 2018-01-11 17.jpg](assets/RB 2018-01-11 17.jpg)
 

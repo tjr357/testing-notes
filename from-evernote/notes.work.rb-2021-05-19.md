@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # RB 2021-05-19
 
 
-![RB 2021-05-19.jpg](./_resources/RB_2021-05-19.resources/RB 2021-05-19.jpg)
+![RB 2021-05-19.jpg](assets/RB 2021-05-19.jpg)
 

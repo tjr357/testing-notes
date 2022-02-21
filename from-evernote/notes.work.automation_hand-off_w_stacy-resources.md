@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Automation Hand-off w Stacy.jpg](/assets/automation-hand-off-w-stacy.jpg)
+- ![Automation Hand-off w Stacy.jpg](/assets/automation-hand-off-w-stacy.jpg)

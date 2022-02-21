@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # Automaton Hand-off with Sarath
 
 
-![7 -30-28.jpg](./_resources/Automaton_Hand-off_with_Sarath.resources/7 -30-28.jpg)
+![7 -30-28.jpg](assets/7 -30-28.jpg)
 

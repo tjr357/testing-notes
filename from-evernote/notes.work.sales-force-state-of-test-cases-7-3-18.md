@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Sales force State of Test Cases 7-3-18
 
 
-![Sales force State of Test Cases 7-3-18.jpg](./_resources/Sales_force_State_of_Test_Cases_7-3-18.resources/Sales force State of Test Cases 7-3-18.jpg)
+![Sales force State of Test Cases 7-3-18.jpg](assets/Sales force State of Test Cases 7-3-18.jpg)
 

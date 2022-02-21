@@ -21,5 +21,5 @@ _Last updated at 2018-01-16._
 # Google Analytics Goals.jpg
 
 
-![Google Analytics Goals.jpg](./_resources/Google_Analytics_Goals.jpg.resources/Google Analytics Goals.jpg)
+![Google Analytics Goals.jpg](assets/Google Analytics Goals.jpg)
 

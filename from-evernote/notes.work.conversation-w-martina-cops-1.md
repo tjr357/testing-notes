@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Conversation w Martina CoPs
 
 
-![Conversation w Martina CoPs.jpg](./_resources/Conversation_w_Martina_CoPs.1.resources/Conversation w Martina CoPs.jpg)
+![Conversation w Martina CoPs.jpg](assets/Conversation w Martina CoPs.jpg)
 

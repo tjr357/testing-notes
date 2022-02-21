@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Blender Notes
 
 
-![RB 2018-03-09 11.jpg](./_resources/Blender_Notes.resources/RB 2018-03-09 11.jpg)
+![RB 2018-03-09 11.jpg](assets/RB 2018-03-09 11.jpg)
 

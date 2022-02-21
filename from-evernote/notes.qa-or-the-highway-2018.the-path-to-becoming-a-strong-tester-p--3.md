@@ -21,5 +21,5 @@ _Last updated at 2018-02-28._
 # The Path to Becoming a Strong Tester p. 3
 
 
-![RB 2018-02-28 16.jpg](./_resources/The_Path_to_Becoming_a_Strong_Tester_p._3.resources/RB 2018-02-28 16.jpg)
+![RB 2018-02-28 16.jpg](assets/RB 2018-02-28 16.jpg)
 

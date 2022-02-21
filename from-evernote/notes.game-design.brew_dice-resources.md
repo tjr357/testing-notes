@@ -8,5 +8,5 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [img_20190811_175021.png](/assets/img_20190811_175021-yZLw8OCfQNM9.png)
-- [img_20190811_175025.png](/assets/img_20190811_175025-KC8orR1mOsTh.png)
+- ![img_20190811_175021.png](/assets/img_20190811_175021-yZLw8OCfQNM9.png)
+- ![img_20190811_175025.png](/assets/img_20190811_175025-KC8orR1mOsTh.png)

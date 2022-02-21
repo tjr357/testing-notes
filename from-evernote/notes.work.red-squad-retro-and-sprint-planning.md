@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # Red Squad Retro and Sprint Planning
 
 
-![indo, Rajesh.jpg](./_resources/Red_Squad_Retro_and_Sprint_Planning.resources/indo, Rajesh.jpg)
+![indo, Rajesh.jpg](assets/indo, Rajesh.jpg)
 

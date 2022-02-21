@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Provar -Trial Kick off 12-1-20
 
 
-![Provar -Trial Kick off 12-1-20.jpg](./_resources/Provar_-Trial_Kick_off_12-1-20.resources/Provar -Trial Kick off 12-1-20.jpg)
+![Provar -Trial Kick off 12-1-20.jpg](assets/Provar -Trial Kick off 12-1-20.jpg)
 

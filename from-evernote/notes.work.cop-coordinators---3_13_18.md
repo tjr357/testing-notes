@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # CoP Coordinators - 3/13/18
 
 
-![RB 2018-03-22 08.jpg](./_resources/CoP_Coordinators_-_3_13_18.resources/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
 

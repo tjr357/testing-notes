@@ -22,5 +22,5 @@ _Last updated at 2011-08-06._
 
 
 Check this it if it's any good
-![ENIMAGE1312658688867.jpg](./_resources/Check_this_it_if_it's_any_good.resources/ENIMAGE1312658688867.jpg)
+![ENIMAGE1312658688867.jpg](assets/ENIMAGE1312658688867.jpg)
 

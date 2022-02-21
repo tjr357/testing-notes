@@ -21,5 +21,5 @@ _Last updated at 2021-04-25._
 # Secret Box Game Mechanic
 
 
-![Secret Box Game Mechanic.jpg](./_resources/Secret_Box_Game_Mechanic.resources/Secret Box Game Mechanic.jpg)
+![Secret Box Game Mechanic.jpg](assets/Secret Box Game Mechanic.jpg)
 

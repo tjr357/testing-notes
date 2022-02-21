@@ -23,5 +23,5 @@ _Last updated at 2021-03-29._
 
 Co-op Drafting cooking No-talking the group needs to complete recipes for customers who may have certain dietary restrictions only 1 person in the group knows what the customer's diet want is Overcooked in a card game
 
-![image.png](./_resources/Co-op_drafting_cooking_card_game.resources/image.png)
+![image.png](assets/image.png)
 

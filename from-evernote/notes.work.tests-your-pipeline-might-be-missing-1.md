@@ -26,5 +26,5 @@ codemash2020
 # Tests Your Pipeline Might Be Missing
 
 
-![Tests listect Your Pipeline Might Be Missing again.jpg](./_resources/Tests_Your_Pipeline_Might_Be_Missing.1.resources/Tests listect Your Pipeline Might Be Missing again.jpg)
+![Tests listect Your Pipeline Might Be Missing again.jpg](assets/Tests listect Your Pipeline Might Be Missing again.jpg)
 

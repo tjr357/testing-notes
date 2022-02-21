@@ -21,5 +21,5 @@ _Last updated at 2022-01-09._
 # Re-skilling Meeting Dec-21
 
 
-![Re-skilling Meeting Dec-21.jpg](./_resources/Re-skilling_Meeting_Dec-21.resources/Re-skilling Meeting Dec-21.jpg)
+![Re-skilling Meeting Dec-21.jpg](assets/Re-skilling Meeting Dec-21.jpg)
 

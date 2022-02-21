@@ -10,4 +10,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [unknown_filename.jpeg](/assets/unknown_filename-NvPRQKiif1Y5.jpeg)
+- ![unknown_filename.jpeg](/assets/unknown_filename-NvPRQKiif1Y5.jpeg)

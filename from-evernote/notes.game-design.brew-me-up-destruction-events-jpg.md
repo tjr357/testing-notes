@@ -26,6 +26,6 @@ BrewMeUp
 # Brew Me Up Destruction Events.jpg
 
 
-![PXL_20210503_165713457.jpg](./_resources/Brew_Me_Up_Destruction_Events.jpg.resources/PXL_20210503_165713457.jpg)
+![PXL_20210503_165713457.jpg](assets/PXL_20210503_165713457.jpg)
 create a card that's similar to the Splinter Strike in Cosmic Frog, that gets shuffled in after the first 2 seasons or 1 year
 

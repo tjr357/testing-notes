@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Code Mash How to Talk with Someone Who Disagrees.jpg](/assets/code-mash-how-to-talk-with-someone-who-disagrees.jpg)
+- ![Code Mash How to Talk with Someone Who Disagrees.jpg](/assets/code-mash-how-to-talk-with-someone-who-disagrees.jpg)

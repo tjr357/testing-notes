@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [utation Testing to the Rescue of your Tests.jpg](/assets/utation-testing-to-the-rescue-of-your-tests.jpg)
+- ![utation Testing to the Rescue of your Tests.jpg](/assets/utation-testing-to-the-rescue-of-your-tests.jpg)

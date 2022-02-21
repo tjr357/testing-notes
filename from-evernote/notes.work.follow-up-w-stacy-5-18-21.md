@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # Follow-Up w Stacy 5-18-21
 
 
-![Follow-Up w Stacy 5-18-21.jpg](./_resources/Follow-Up_w_Stacy_5-18-21.resources/Follow-Up w Stacy 5-18-21.jpg)
+![Follow-Up w Stacy 5-18-21.jpg](assets/Follow-Up w Stacy 5-18-21.jpg)
 

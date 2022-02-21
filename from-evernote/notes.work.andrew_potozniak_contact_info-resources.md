@@ -8,4 +8,4 @@ stub: false
 isDir: true
 ---
 ## Imported Assets
-- [Andrew Potozniak Contact Info.jpg](/assets/andrew-potozniak-contact-info.jpg)
+- ![Andrew Potozniak Contact Info.jpg](/assets/andrew-potozniak-contact-info.jpg)
