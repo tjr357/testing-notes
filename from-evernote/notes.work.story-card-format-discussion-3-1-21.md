@@ -21,5 +21,5 @@ _Last updated at 2021-03-08._
 # Story Card Format Discussion 3-1-21
 
 
-![Story Card Format Discussion 3-1-21.jpg](assets/Story Card Format Discussion 3-1-21.jpg)
+![Story Card Format Discussion 3-1-21.jpg](assets/Story-Card Format Discussion 3-1-21.jpg)
 

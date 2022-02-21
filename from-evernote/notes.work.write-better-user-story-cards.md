@@ -21,5 +21,5 @@ _Last updated at 2018-11-10._
 # Write Better User Story Cards
 
 
-![RB 2018-11-08 11.jpg](assets/RB 2018-11-08 11.jpg)
+![RB 2018-11-08 11.jpg](assets/RB-2018-11-08 11.jpg)
 

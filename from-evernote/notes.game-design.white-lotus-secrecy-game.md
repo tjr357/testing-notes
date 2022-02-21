@@ -26,5 +26,5 @@ game-design
 # White Lotus Secrecy Game
 
 
-![White Lotus Secrecy Game.jpg](assets/White Lotus Secrecy Game.jpg)
+![White Lotus Secrecy Game.jpg](assets/White-Lotus Secrecy Game.jpg)
 

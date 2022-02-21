@@ -28,5 +28,5 @@ Testing Testbash
 # Getting Under the Skin of a React Application - An Intro to Subcutaneous Testing
 
 
-![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB-2018-11-1012.jpg)
 

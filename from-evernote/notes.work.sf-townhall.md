@@ -21,5 +21,5 @@ _Last updated at 2018-06-07._
 # SF Townhall
 
 
-![SF Townhall.jpg](assets/SF Townhall.jpg)
+![SF Townhall.jpg](assets/SF-Townhall.jpg)
 

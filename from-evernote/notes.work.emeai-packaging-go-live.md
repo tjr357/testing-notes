@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # EMEAI Packaging Go-Live
 
 
-![EMEAI Packaging Go-Live.jpg](assets/EMEAI Packaging Go-Live.jpg)
+![EMEAI Packaging Go-Live.jpg](assets/EMEAI-Packaging Go-Live.jpg)
 

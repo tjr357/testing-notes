@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # QA staff Meeting 10-24-19
 
 
-![QA staff Meeting 10-24-19.jpg](assets/QA staff Meeting 10-24-19.jpg)
+![QA staff Meeting 10-24-19.jpg](assets/QA-staff Meeting 10-24-19.jpg)
 

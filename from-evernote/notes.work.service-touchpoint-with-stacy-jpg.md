@@ -21,5 +21,5 @@ _Last updated at 2018-09-19._
 # Service Touchpoint with Stacy.jpg
 
 
-![Service Touchpoint with Stacy.jpg](assets/Service Touchpoint with Stacy.jpg)
+![Service Touchpoint with Stacy.jpg](assets/Service-Touchpoint with Stacy.jpg)
 

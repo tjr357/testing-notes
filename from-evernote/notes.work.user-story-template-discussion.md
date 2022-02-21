@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # User Story Template Discussion
 
 
-![User Story Template Discussion 7-19 -15.jpg](assets/User Story Template Discussion 7-19 -15.jpg)
+![User Story Template Discussion 7-19 -15.jpg](assets/User-Story Template Discussion 7-19 -15.jpg)
 

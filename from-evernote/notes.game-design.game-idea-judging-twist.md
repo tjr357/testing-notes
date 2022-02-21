@@ -26,5 +26,5 @@ game-design
 # Game Idea Judging Twist
 
 
-![Game Idea Judging Twist.jpg](assets/Game Idea Judging Twist.jpg)
+![Game Idea Judging Twist.jpg](assets/Game-Idea Judging Twist.jpg)
 

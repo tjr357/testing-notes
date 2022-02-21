@@ -21,5 +21,5 @@ _Last updated at 2019-03-01._
 # Walk n Talk w- Samantha Quality Cop
 
 
-![Walk n Talk w- Samantha Quality Cop.jpg](assets/Walk n Talk w- Samantha Quality Cop.jpg)
+![Walk n Talk w- Samantha Quality Cop.jpg](assets/Walk-n Talk w- Samantha Quality Cop.jpg)
 

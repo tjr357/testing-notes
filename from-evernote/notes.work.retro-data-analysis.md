@@ -21,5 +21,5 @@ _Last updated at 2018-11-10._
 # Retro Data Analysis
 
 
-![RB 2018-11-08 14.jpg](assets/RB 2018-11-08 14.jpg)
+![RB 2018-11-08 14.jpg](assets/RB-2018-11-08 14.jpg)
 

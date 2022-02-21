@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Sprint Planning
 
 
-![Sprint Planning.jpg](assets/Sprint Planning.jpg)
+![Sprint Planning.jpg](assets/Sprint-Planning.jpg)
 

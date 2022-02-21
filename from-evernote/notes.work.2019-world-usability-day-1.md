@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # 2019 World Usability Day
 
 
-![2019 World Usability Day.jpg](assets/2019 World Usability Day.jpg)
+![2019 World Usability Day.jpg](assets/2019-World Usability Day.jpg)
 

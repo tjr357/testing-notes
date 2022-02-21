@@ -21,5 +21,5 @@ _Last updated at 2018-03-23._
 # CoP Check-in Doodle.jpg
 
 
-![CoP Check-in Doodle.jpg](assets/CoP Check-in Doodle.jpg)
+![CoP Check-in Doodle.jpg](assets/CoP-Check-in Doodle.jpg)
 

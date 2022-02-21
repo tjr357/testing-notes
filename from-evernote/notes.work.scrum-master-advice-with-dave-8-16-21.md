@@ -21,5 +21,5 @@ _Last updated at 2021-08-20._
 # Scrum Master Advice with Dave 8-16-21
 
 
-![Scrum Master Advice with Dave 8-16-21.jpg](assets/Scrum Master Advice with Dave 8-16-21.1.jpg)
+![Scrum Master Advice with Dave 8-16-21.jpg](assets/Scrum-Master Advice with Dave 8-16-21.1.jpg)
 

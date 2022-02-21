@@ -21,5 +21,5 @@ _Last updated at 2021-08-10._
 # PI 21 - AAT Discussion 8-4-21
 
 
-![PI 21 - AAT Discussion 8-4-21.jpg](assets/PI 21 - AAT Discussion 8-4-21.jpg)
+![PI 21 - AAT Discussion 8-4-21.jpg](assets/PI-21 - AAT Discussion 8-4-21.jpg)
 

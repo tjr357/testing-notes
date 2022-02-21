@@ -21,5 +21,5 @@ _Last updated at 2022-01-09._
 # Provar Jumpstart Discussion
 
 
-![Provar Jumpstart Discussion.jpg](assets/Provar Jumpstart Discussion.2.jpg)
+![Provar Jumpstart Discussion.jpg](assets/Provar-Jumpstart Discussion.2.jpg)
 

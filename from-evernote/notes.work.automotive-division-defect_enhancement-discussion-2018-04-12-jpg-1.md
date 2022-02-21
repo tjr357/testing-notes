@@ -21,5 +21,5 @@ _Last updated at 2018-04-23._
 # Automotive Division Defect/Enhancement Discussion 2018-04-12.jpg
 
 
-![RB 2018-04-12 10.jpg](assets/RB 2018-04-12 10.jpg)
+![RB 2018-04-12 10.jpg](assets/RB-2018-04-12 10.jpg)
 

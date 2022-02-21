@@ -21,5 +21,5 @@ _Last updated at 2019-02-19._
 # scrum of scrums
 
 
-![scrum of scrums.jpg](assets/scrum of scrums.jpg)
+![scrum of scrums.jpg](assets/scrum-of scrums.jpg)
 

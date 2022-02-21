@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # PIC Process
 
 
-![PIC Process.jpg](assets/PIC Process.jpg)
+![PIC Process.jpg](assets/PIC-Process.jpg)
 

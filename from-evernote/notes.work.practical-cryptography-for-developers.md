@@ -26,5 +26,5 @@ codemash2020
 # Practical Cryptography for Developers
 
 
-![Practical tryptography for Developers.jpg](assets/Practical tryptography for Developers.jpg)
+![Practical tryptography for Developers.jpg](assets/Practical-tryptography for Developers.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Provar Quotes
 
 
-![Provar Quotes.jpg](assets/Provar Quotes.jpg)
+![Provar Quotes.jpg](assets/Provar-Quotes.jpg)
 

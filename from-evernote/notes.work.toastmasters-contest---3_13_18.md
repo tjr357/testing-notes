@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # Toastmasters Contest - 3/13/18
 
 
-![RB 2018-03-22 08.jpg](assets/RB 2018-03-22 08.jpg)
+![RB 2018-03-22 08.jpg](assets/RB-2018-03-22 08.jpg)
 

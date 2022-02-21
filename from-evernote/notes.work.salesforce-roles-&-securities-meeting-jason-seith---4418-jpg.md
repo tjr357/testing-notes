@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # SalesForce Roles & Securities Meeting Jason Seith - 4418.jpg
 
 
-![SalesForce Roles & Securities Meeting Jason Seith .jpg](assets/SalesForce Roles & Securities Meeting Jason Seith .jpg)
+![SalesForce Roles & Securities Meeting Jason Seith .jpg](assets/SalesForce-Roles & Securities Meeting Jason Seith .jpg)
 

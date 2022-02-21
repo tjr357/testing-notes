@@ -21,5 +21,5 @@ _Last updated at 2021-03-08._
 # Worker Placement Game Mechanic
 
 
-![Worker Placement Game Mechanic.jpg](assets/Worker Placement Game Mechanic.jpg)
+![Worker Placement Game Mechanic.jpg](assets/Worker-Placement Game Mechanic.jpg)
 

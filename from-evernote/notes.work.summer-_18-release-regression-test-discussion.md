@@ -21,5 +21,5 @@ _Last updated at 2018-05-28._
 # Summer _18 Release Regression Test Discussion
 
 
-![Summer _18 Release Regression Test Discussion.jpg](assets/Summer _18 Release Regression Test Discussion.jpg)
+![Summer _18 Release Regression Test Discussion.jpg](assets/Summer-_18 Release Regression Test Discussion.jpg)
 

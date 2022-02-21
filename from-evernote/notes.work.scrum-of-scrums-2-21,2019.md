@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Scrum of Scrums 2-21,2019
 
 
-![Scrum of Scrums 2-21,2019.jpg](assets/Scrum of Scrums 2-21,2019.jpg)
+![Scrum of Scrums 2-21,2019.jpg](assets/Scrum-of Scrums 2-21,2019.jpg)
 

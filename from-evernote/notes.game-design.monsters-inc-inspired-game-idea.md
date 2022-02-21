@@ -26,5 +26,5 @@ game-design
 # Monsters Inc Inspired Game Idea
 
 
-![Monsters Inc Inspired Game Idea.jpg](assets/Monsters Inc Inspired Game Idea.jpg)
+![Monsters Inc Inspired Game Idea.jpg](assets/Monsters-Inc Inspired Game Idea.jpg)
 

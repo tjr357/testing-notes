@@ -21,5 +21,5 @@ _Last updated at 2021-05-24._
 # CPQ Billing Touch Point 5-21-21
 
 
-![CPQ Billing Touch Point 5-21-21.jpg](assets/CPQ Billing Touch Point 5-21-21.jpg)
+![CPQ Billing Touch Point 5-21-21.jpg](assets/CPQ-Billing Touch Point 5-21-21.jpg)
 

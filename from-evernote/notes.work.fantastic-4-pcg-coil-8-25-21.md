@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # Fantastic 4 PCG Coil 8-25-21
 
 
-![Fantastic 4 PCG Coil 8-25-21.jpg](assets/Fantastic 4 PCG Coil 8-25-21.jpg)
+![Fantastic 4 PCG Coil 8-25-21.jpg](assets/Fantastic-4 PCG Coil 8-25-21.jpg)
 

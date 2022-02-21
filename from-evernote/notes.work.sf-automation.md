@@ -21,5 +21,5 @@ _Last updated at 2018-07-06._
 # SF Automation
 
 
-![RB 2018-05-0308.jpg](assets/RB 2018-05-0308.jpg)
+![RB 2018-05-0308.jpg](assets/RB-2018-05-0308.jpg)
 

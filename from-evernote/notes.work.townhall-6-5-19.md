@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Townhall 6-5-19
 
 
-![Townhall 6-5-19.jpg](assets/Townhall 6-5-19.jpg)
+![Townhall 6-5-19.jpg](assets/Townhall-6-5-19.jpg)
 

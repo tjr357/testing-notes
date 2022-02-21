@@ -26,7 +26,7 @@ Testing Testbash lunchnlearn
 # The Tester at the Table! (And the Tester in my Head) by Adrian P. Dunston
 
 
-![RB 2018-11-0910.jpg](assets/2018_11_08 11_25 AM Office Lens.jpg)
+![RB 2018-11-0910.jpg](assets/2018_11_08-11_25 AM Office Lens.jpg)
 
-![2018_11_08 11_48 AM Office Lens.jpg](assets/2018_11_08 11_48 AM Office Lens.jpg)
+![2018_11_08 11_48 AM Office Lens.jpg](assets/2018_11_08-11_48 AM Office Lens.jpg)
 

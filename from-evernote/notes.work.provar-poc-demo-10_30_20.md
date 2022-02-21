@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Provar PoC Demo 10_30_20
 
 
-![Provar PoC Demo 10_30_20.jpg](assets/Provar PoC Demo 10_30_20.jpg)
+![Provar PoC Demo 10_30_20.jpg](assets/Provar-PoC Demo 10_30_20.jpg)
 

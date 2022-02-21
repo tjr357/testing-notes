@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # SalesForce Day 1 - 4218.jpg
 
 
-![SalesForce Day 1 - 4218.jpg](assets/SalesForce Day 1 - 4218.jpg)
+![SalesForce Day 1 - 4218.jpg](assets/SalesForce-Day 1 - 4218.jpg)
 

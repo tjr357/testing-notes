@@ -26,5 +26,5 @@ dtx-2021
 # DTX Weekly Huddle 8-11-21
 
 
-![DTX Weekly Huddle 8-11-21.jpg](assets/DTX Weekly Huddle 8-11-21.1.jpg)
+![DTX Weekly Huddle 8-11-21.jpg](assets/DTX-Weekly Huddle 8-11-21.1.jpg)
 

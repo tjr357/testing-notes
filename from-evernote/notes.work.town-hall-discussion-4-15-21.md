@@ -21,5 +21,5 @@ _Last updated at 2021-04-22._
 # Town Hall Discussion 4-15-21
 
 
-![Town Hall Discussion 4-15-21.jpg](assets/Town Hall Discussion 4-15-21.jpg)
+![Town Hall Discussion 4-15-21.jpg](assets/Town-Hall Discussion 4-15-21.jpg)
 

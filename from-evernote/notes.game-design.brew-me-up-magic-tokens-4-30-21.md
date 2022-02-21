@@ -26,5 +26,5 @@ BrewMeUp
 # Brew Me Up Magic Tokens 4-30-21
 
 
-![Brew Me Up Magic Tokens 4-30-21.jpg](assets/Brew Me Up Magic Tokens 4-30-21.jpg)
+![Brew Me Up Magic Tokens 4-30-21.jpg](assets/Brew-Me Up Magic Tokens 4-30-21.jpg)
 

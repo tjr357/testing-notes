@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Machine Learning for Gamers
 
 
-![RB 2018-01-11 17.jpg](assets/RB 2018-01-11 17.jpg)
+![RB 2018-01-11 17.jpg](assets/RB-2018-01-11 17.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # Better User Stories Discussion
 
 
-![Better User Stories Discussion.jpg](assets/Better User Stories Discussion.jpg)
+![Better User Stories Discussion.jpg](assets/Better-User Stories Discussion.jpg)
 

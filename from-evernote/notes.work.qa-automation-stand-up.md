@@ -21,5 +21,5 @@ _Last updated at 2019-03-19._
 # QA Automation Stand Up
 
 
-![QA Automation Stand Up.jpg](assets/QA Automation Stand Up.jpg)
+![QA Automation Stand Up.jpg](assets/QA-Automation Stand Up.jpg)
 

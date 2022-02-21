@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # SalesForce Notes Day 2 - 4318.jpg
 
 
-![SalesForce Notes Day 2 - 4318.jpg](assets/SalesForce Notes Day 2 - 4318.jpg)
+![SalesForce Notes Day 2 - 4318.jpg](assets/SalesForce-Notes Day 2 - 4318.jpg)
 

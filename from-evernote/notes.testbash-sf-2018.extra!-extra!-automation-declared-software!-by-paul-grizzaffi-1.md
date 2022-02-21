@@ -26,5 +26,5 @@ Testing Testbash
 # Extra! Extra! Automation Declared Software! by Paul Grizzaffi
 
 
-![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB-2018-11-0910.jpg)
 

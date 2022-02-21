@@ -21,5 +21,5 @@ _Last updated at 2021-09-20._
 # AAT Discussion with Red Team
 
 
-![AAT Discussion with Red Team.jpg](assets/AAT Discussion with Red Team.jpg)
+![AAT Discussion with Red Team.jpg](assets/AAT-Discussion with Red Team.jpg)
 

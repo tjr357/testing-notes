@@ -26,5 +26,5 @@ contest
 # 18 Card RPG Quest Cards
 
 
-![18 Card RPG Quest Cards.5.jpg](assets/18 Card RPG Quest Cards.jpg)
+![18 Card RPG Quest Cards.5.jpg](assets/18-Card RPG Quest Cards.jpg)
 

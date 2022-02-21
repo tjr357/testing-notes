@@ -21,5 +21,5 @@ _Last updated at 2021-03-25._
 # March 1-on-1 with Dave
 
 
-![March 1-on-1 with Dave.1.jpg](assets/March 1-on-1 with Dave.jpg)
+![March 1-on-1 with Dave.1.jpg](assets/March-1-on-1 with Dave.jpg)
 

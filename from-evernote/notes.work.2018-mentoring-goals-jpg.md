@@ -21,5 +21,5 @@ _Last updated at 2018-01-16._
 # 2018 Mentoring Goals.jpg
 
 
-![2018 Mentoring Goals.jpg](assets/2018 Mentoring Goals.jpg)
+![2018 Mentoring Goals.jpg](assets/2018-Mentoring Goals.jpg)
 

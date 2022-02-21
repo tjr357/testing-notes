@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Services Team - PI 6 Story Refinement
 
 
-![RB 2018-08-30 08.jpg](assets/RB 2018-08-30 08.jpg)
+![RB 2018-08-30 08.jpg](assets/RB-2018-08-30 08.jpg)
 

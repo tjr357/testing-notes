@@ -21,5 +21,5 @@ _Last updated at 2018-05-16._
 # Salesforce Training
 
 
-![Salesforce Training.jpg](assets/Salesforce Training.jpg)
+![Salesforce Training.jpg](assets/Salesforce-Training.jpg)
 

@@ -26,5 +26,5 @@ Testing Testbash
 # Quality Assurance in an AB-Test driven company by Antonia Landi
 
 
-![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB-2018-11-1012.jpg)
 

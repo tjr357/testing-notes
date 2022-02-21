@@ -21,5 +21,5 @@ _Last updated at 2019-10-22._
 # SF Town Hall October 2019
 
 
-![SF Town Hall October 2019.jpg](assets/SF Town Hall October 2019.jpg)
+![SF Town Hall October 2019.jpg](assets/SF-Town Hall October 2019.jpg)
 

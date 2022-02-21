@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # Effective Gherkin
 
 
-![Effective Gherkin.jpg](assets/Effective Gherkin.jpg)
+![Effective Gherkin.jpg](assets/Effective-Gherkin.jpg)
 

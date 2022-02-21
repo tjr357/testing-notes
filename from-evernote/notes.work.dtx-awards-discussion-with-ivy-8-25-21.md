@@ -26,5 +26,5 @@ dtx-2021
 # DTX Awards Discussion with Ivy 8-25-21
 
 
-![DTX Awards Discussion with Ivy 8-25-21.jpg](assets/DTX Awards Discussion with Ivy 8-25-21.jpg)
+![DTX Awards Discussion with Ivy 8-25-21.jpg](assets/DTX-Awards Discussion with Ivy 8-25-21.jpg)
 

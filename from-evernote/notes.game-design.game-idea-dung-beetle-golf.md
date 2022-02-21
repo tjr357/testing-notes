@@ -26,5 +26,5 @@ game-design
 # Game Idea Dung Beetle Golf
 
 
-![Game Idea Dung Beetle Golf.jpg](assets/Game Idea Dung Beetle Golf.jpg)
+![Game Idea Dung Beetle Golf.jpg](assets/Game-Idea Dung Beetle Golf.jpg)
 

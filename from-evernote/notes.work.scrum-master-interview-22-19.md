@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Scrum Master Interview 22-19
 
 
-![scrum Master Interview 22-19.jpg](assets/scrum Master Interview 22-19.jpg)
+![scrum Master Interview 22-19.jpg](assets/scrum-Master Interview 22-19.jpg)
 

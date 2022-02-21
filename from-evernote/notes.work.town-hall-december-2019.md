@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # Town hall December 2019
 
 
-![Town hall December 2019.jpg](assets/Town hall December 2019.jpg)
+![Town hall December 2019.jpg](assets/Town-hall December 2019.jpg)
 

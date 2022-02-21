@@ -26,5 +26,5 @@ Testing Testbash
 # Climbing to the Top of the Mobile Testing Pyramid by Rick Clymer
 
 
-![RB 2018-11-0910.jpg](assets/RB 2018-11-0910.jpg)
+![RB 2018-11-0910.jpg](assets/RB-2018-11-0910.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Deployments with Chris Kovacs
 
 
-![RB 2018-05-0308.jpg](assets/RB 2018-05-0308.jpg)
+![RB 2018-05-0308.jpg](assets/RB-2018-05-0308.jpg)
 

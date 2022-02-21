@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Exec Summary Discussion 1-15-21
 
 
-![Exec Summary Discussion 1-15-21.jpg](assets/Exec Summary Discussion 1-15-21.jpg)
+![Exec Summary Discussion 1-15-21.jpg](assets/Exec-Summary Discussion 1-15-21.jpg)
 

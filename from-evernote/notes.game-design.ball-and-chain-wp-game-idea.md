@@ -33,5 +33,5 @@ Frogs on lilly pads using their tongues to reach
 Octopuses - spin arms around to different spots
 
 Astronauts - tethered space walk
-![Ball and Chain WP Game Idea.jpg](assets/Ball and Chain WP Game Idea.jpg)
+![Ball and Chain WP Game Idea.jpg](assets/Ball-and Chain WP Game Idea.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # QA Team Staff Meeting - 4318.jpg
 
 
-![QA Team Staff Meeting - 4318.jpg](assets/QA Team Staff Meeting - 4318.jpg)
+![QA Team Staff Meeting - 4318.jpg](assets/QA-Team Staff Meeting - 4318.jpg)
 

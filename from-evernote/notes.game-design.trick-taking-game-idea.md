@@ -26,5 +26,5 @@ game-design
 # Trick Taking Game Idea
 
 
-![Trick Taking Game Idea.jpg](assets/Trick Taking Game Idea.jpg)
+![Trick Taking Game Idea.jpg](assets/Trick-Taking Game Idea.jpg)
 

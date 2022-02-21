@@ -21,5 +21,5 @@ _Last updated at 2019-03-06._
 # AT PS Q&A
 
 
-![AT PS Q&A.jpg](assets/AT PS Q&A.jpg)
+![AT PS Q&A.jpg](assets/AT-PS Q&A.jpg)
 

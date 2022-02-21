@@ -26,5 +26,5 @@ codemash2020
 # Cypress Part 2
 
 
-![Cypress Part 2.jpg](assets/Cypress Part 2.jpg)
+![Cypress Part 2.jpg](assets/Cypress-Part 2.jpg)
 

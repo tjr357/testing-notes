@@ -21,5 +21,5 @@ _Last updated at 2018-07-11._
 # Salesforce State of Test Cases 7-9-18
 
 
-![Salesforce State of Test Cases 7-9-18.jpg](assets/Salesforce State of Test Cases 7-9-18.jpg)
+![Salesforce State of Test Cases 7-9-18.jpg](assets/Salesforce-State of Test Cases 7-9-18.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2019-05-17._
 # CTI Testing
 
 
-![CTI Testing.jpg](assets/CTI Testing.jpg)
+![CTI Testing.jpg](assets/CTI-Testing.jpg)
 

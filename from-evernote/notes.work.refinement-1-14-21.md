@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Refinement 1-14-21
 
 
-![Refinement 1-14-21.jpg](assets/Refinement 1-14-21.jpg)
+![Refinement 1-14-21.jpg](assets/Refinement-1-14-21.jpg)
 

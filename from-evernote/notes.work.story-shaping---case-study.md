@@ -21,5 +21,5 @@ _Last updated at 2019-08-08._
 # Story shaping - Case Study
 
 
-![Story shaping - Case Study.jpg](assets/Story shaping - Case Study.jpg)
+![Story shaping - Case Study.jpg](assets/Story-shaping - Case Study.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2021-06-04._
 # Discussion with Dave - Kudos and Advice
 
 
-![Discussion with Dave - Kudos and Advice.jpg](assets/Discussion with Dave - Kudos and Advice.jpg)
+![Discussion with Dave - Kudos and Advice.jpg](assets/Discussion-with Dave - Kudos and Advice.jpg)
 

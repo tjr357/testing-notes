@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # Services - Testing Expectations of Me Discussion with Stacy
 
 
-![RB 2018-08-0414.jpg](assets/RB 2018-08-0414.jpg)
+![RB 2018-08-0414.jpg](assets/RB-2018-08-0414.jpg)
 

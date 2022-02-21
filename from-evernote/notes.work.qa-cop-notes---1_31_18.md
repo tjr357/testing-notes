@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # QA CoP Notes - 1/31/18
 
 
-![RB 2018-02-01 09.jpg](assets/RB 2018-02-01 09.jpg)
+![RB 2018-02-01 09.jpg](assets/RB-2018-02-01 09.jpg)
 

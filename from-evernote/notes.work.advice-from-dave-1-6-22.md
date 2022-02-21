@@ -21,5 +21,5 @@ _Last updated at 2022-01-09._
 # Advice from Dave 1-6-22
 
 
-![Advice from Dave 1-6-22.jpg](assets/Advice from Dave 1-6-22.jpg)
+![Advice from Dave 1-6-22.jpg](assets/Advice-from Dave 1-6-22.jpg)
 

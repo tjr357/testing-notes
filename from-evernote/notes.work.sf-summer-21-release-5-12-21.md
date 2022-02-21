@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # SF Summer 21 Release 5-12-21
 
 
-![SF Summer 21 Release 5-12-21.jpg](assets/SF Summer 21 Release 5-12-21.jpg)
+![SF Summer 21 Release 5-12-21.jpg](assets/SF-Summer 21 Release 5-12-21.jpg)
 

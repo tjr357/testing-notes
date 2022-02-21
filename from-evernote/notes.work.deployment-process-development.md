@@ -21,5 +21,5 @@ _Last updated at 2019-04-02._
 # Deployment Process Development
 
 
-![Deployment Process Development.jpg](assets/Deployment Process Development.jpg)
+![Deployment Process Development.jpg](assets/Deployment-Process Development.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-04-28._
 # Story Card Discussion
 
 
-![Story Card Discussion.jpg](assets/Story Card Discussion.jpg)
+![Story Card Discussion.jpg](assets/Story-Card Discussion.jpg)
 

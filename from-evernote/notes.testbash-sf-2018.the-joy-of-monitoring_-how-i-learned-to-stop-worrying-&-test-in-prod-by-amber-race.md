@@ -28,5 +28,5 @@ Testing Testbash
 # The Joy of Monitoring: How I learned to Stop Worrying & Test in Prod by Amber Race
 
 
-![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB-2018-11-1012.jpg)
 

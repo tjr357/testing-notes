@@ -21,5 +21,5 @@ _Last updated at 2021-06-04._
 # 18 Card RPG Challenge - Puzzle Piece Idea
 
 
-[18 Card RPG Puzzle Piece Idea.pdf](assets/18 Card RPG Puzzle Piece Idea.pdf)
+[18 Card RPG Puzzle Piece Idea.pdf](assets/18-Card RPG Puzzle Piece Idea.pdf)
 

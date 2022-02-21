@@ -21,5 +21,5 @@ _Last updated at 2019-05-20._
 # Metrics discussion w- Joe
 
 
-![Metrics discussion w- Joe.jpg](assets/Metrics discussion w- Joe.jpg)
+![Metrics discussion w- Joe.jpg](assets/Metrics-discussion w- Joe.jpg)
 

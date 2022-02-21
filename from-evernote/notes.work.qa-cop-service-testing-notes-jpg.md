@@ -21,5 +21,5 @@ _Last updated at 2018-01-15._
 # QA CoP Service Testing Notes.jpg
 
 
-![QA CoP Service Testing Notes.jpg](assets/QA CoP Service Testing Notes.jpg)
+![QA CoP Service Testing Notes.jpg](assets/QA-CoP Service Testing Notes.jpg)
 

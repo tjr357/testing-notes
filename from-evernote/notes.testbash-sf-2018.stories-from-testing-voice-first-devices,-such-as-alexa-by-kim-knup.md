@@ -26,5 +26,5 @@ Testing Testbash
 # Stories from Testing Voice First Devices, Such as Alexa by Kim Knup
 
 
-![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB-2018-11-1012.jpg)
 

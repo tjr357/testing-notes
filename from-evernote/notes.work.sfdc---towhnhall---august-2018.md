@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # SFDC - Towhnhall - August 2018
 
 
-![RB 2018-08-0414.jpg](assets/RB 2018-08-0414.jpg)
+![RB 2018-08-0414.jpg](assets/RB-2018-08-0414.jpg)
 

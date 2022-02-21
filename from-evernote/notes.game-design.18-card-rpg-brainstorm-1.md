@@ -26,5 +26,5 @@ game-design
 # 18 Card RPG Brainstorm
 
 
-![18 Card RPG Brainstorm.jpg](assets/18 Card RPG Brainstorm.jpg)
+![18 Card RPG Brainstorm.jpg](assets/18-Card RPG Brainstorm.jpg)
 

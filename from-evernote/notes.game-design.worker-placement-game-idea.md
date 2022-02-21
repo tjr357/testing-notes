@@ -26,5 +26,5 @@ game-design
 # Worker Placement Game Idea
 
 
-![Worker Placement Game Idea.jpg](assets/Worker Placement Game Idea.jpg)
+![Worker Placement Game Idea.jpg](assets/Worker-Placement Game Idea.jpg)
 

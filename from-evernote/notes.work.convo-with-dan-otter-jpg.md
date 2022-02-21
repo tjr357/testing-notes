@@ -21,5 +21,5 @@ _Last updated at 2018-03-09._
 # Convo with Dan Otter.jpg
 
 
-![Convo with Dan Otter.jpg](assets/Convo with Dan Otter.jpg)
+![Convo with Dan Otter.jpg](assets/Convo-with Dan Otter.jpg)
 

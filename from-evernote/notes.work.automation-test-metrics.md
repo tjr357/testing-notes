@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # Automation Test Metrics
 
 
-![Automation Test Metrics.jpg](assets/Automation Test Metrics.jpg)
+![Automation Test Metrics.jpg](assets/Automation-Test Metrics.jpg)
 

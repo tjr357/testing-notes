@@ -21,5 +21,5 @@ _Last updated at 2019-04-17._
 # Discussion 1 on 1
 
 
-![Discussion 1 on 1.jpg](assets/Discussion 1 on 1.jpg)
+![Discussion 1 on 1.jpg](assets/Discussion-1 on 1.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # Contact Center Discussion
 
 
-![Contact Center Discussion.jpg](assets/Contact Center Discussion.jpg)
+![Contact Center Discussion.jpg](assets/Contact-Center Discussion.jpg)
 

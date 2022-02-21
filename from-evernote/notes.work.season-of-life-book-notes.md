@@ -21,5 +21,5 @@ _Last updated at 2021-11-28._
 # Season of Life Book Notes
 
 
-![Season of Life Book Notes.jpg](assets/Season of Life Book Notes.jpg)
+![Season of Life Book Notes.jpg](assets/Season-of Life Book Notes.jpg)
 

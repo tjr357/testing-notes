@@ -26,5 +26,5 @@ Testing Testbash
 # Techniques for Generating and Managing Test Data by Omose Ogala
 
 
-![RB 2018-11-1012.jpg](assets/RB 2018-11-1012.jpg)
+![RB 2018-11-1012.jpg](assets/RB-2018-11-1012.jpg)
 

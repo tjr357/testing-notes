@@ -21,5 +21,5 @@ _Last updated at 2021-06-22._
 # Automation Touchpoint 6-8-21
 
 
-![Automation Touchpoint 6-8-21.jpg](assets/Automation Touchpoint 6-8-21.jpg)
+![Automation Touchpoint 6-8-21.jpg](assets/Automation-Touchpoint 6-8-21.jpg)
 

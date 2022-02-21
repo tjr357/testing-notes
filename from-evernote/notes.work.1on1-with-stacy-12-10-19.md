@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # 1on1 with Stacy 12-10-19
 
 
-![1on1 with Stacy 12-10-19.jpg](assets/1on1 with Stacy 12-10-19.jpg)
+![1on1 with Stacy 12-10-19.jpg](assets/1on1-with Stacy 12-10-19.jpg)
 

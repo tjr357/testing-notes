@@ -21,5 +21,5 @@ _Last updated at 2019-04-02._
 # Touch point Service - Dave & Stacy
 
 
-![Touch point Service - Dave & Stacy.jpg](assets/Touch point Service - Dave & Stacy.jpg)
+![Touch point Service - Dave & Stacy.jpg](assets/Touch-point Service - Dave & Stacy.jpg)
 

@@ -23,5 +23,5 @@ _Last updated at 2021-06-04._
 
 Puzzle piece, top right corner, players fill in their puzzle piece and bring them all together to form an incomplete puzzle. Gap is filled in by 1 card. The question cards have a puzzle piece?
 
-![18 Card RPG Challenge.jpg](assets/18 Card RPG Challenge.1.jpg)
+![18 Card RPG Challenge.jpg](assets/18-Card RPG Challenge.1.jpg)
 

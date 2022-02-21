@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # Test Automation Session Discussion- 4518.jpg
 
 
-![Test Automation Session Discussion- 4518.jpg](assets/Test Automation Session Discussion- 4518.jpg)
+![Test Automation Session Discussion- 4518.jpg](assets/Test-Automation Session Discussion- 4518.jpg)
 

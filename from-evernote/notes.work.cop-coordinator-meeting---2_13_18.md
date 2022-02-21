@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # CoP Coordinator Meeting - 2/13/18
 
 
-![RB 2018-02-18 21.jpg](assets/RB 2018-02-18 21.jpg)
+![RB 2018-02-18 21.jpg](assets/RB-2018-02-18 21.jpg)
 

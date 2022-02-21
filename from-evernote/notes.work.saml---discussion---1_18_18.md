@@ -21,5 +21,5 @@ _Last updated at 2018-03-26._
 # SAML - Discussion - 1/18/18
 
 
-![RB 2018-01-24 09.jpg](assets/RB 2018-01-24 09.jpg)
+![RB 2018-01-24 09.jpg](assets/RB-2018-01-24 09.jpg)
 

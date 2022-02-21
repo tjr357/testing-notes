@@ -21,5 +21,5 @@ _Last updated at 2021-08-10._
 # Provar Discussion with Vendor 8-6-21
 
 
-![Provar Discussion with Vendor 8-6-21.1.jpg](assets/Provar Discussion with Vendor 8-6-21.jpg)
+![Provar Discussion with Vendor 8-6-21.1.jpg](assets/Provar-Discussion with Vendor 8-6-21.jpg)
 

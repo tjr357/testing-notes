@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # SFDC Townhall - May
 
 
-![RB 2018-05-0308.jpg](assets/RB 2018-05-0308.jpg)
+![RB 2018-05-0308.jpg](assets/RB-2018-05-0308.jpg)
 

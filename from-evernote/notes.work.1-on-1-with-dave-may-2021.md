@@ -21,5 +21,5 @@ _Last updated at 2021-05-19._
 # 1 on 1 with Dave May 2021
 
 
-![1 on 1 with Dave May 2021.jpg](assets/1 on 1 with Dave May 2021.jpg)
+![1 on 1 with Dave May 2021.jpg](assets/1-on-1 with Dave May 2021.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2019-05-20._
 # Sprint Planning - Service
 
 
-![Sprint Planning - Service.jpg](assets/Sprint Planning - Service.jpg)
+![Sprint Planning - Service.jpg](assets/Sprint-Planning - Service.jpg)
 

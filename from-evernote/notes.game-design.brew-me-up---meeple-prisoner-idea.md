@@ -26,5 +26,5 @@ BrewMeUp
 # Brew Me Up - Meeple Prisoner Idea
 
 
-![Brew Me Up - Needle Prisoner Idea.jpg](assets/Brew Me Up - Needle Prisoner Idea.jpg)
+![Brew Me Up - Needle Prisoner Idea.jpg](assets/Brew-Me Up - Needle Prisoner Idea.jpg)
 

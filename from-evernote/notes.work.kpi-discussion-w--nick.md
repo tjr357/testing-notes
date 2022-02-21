@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # KPI Discussion w- Nick
 
 
-![KPI Discussion w- Nick.jpg](assets/KPI Discussion w- Nick.jpg)
+![KPI Discussion w- Nick.jpg](assets/KPI-Discussion w- Nick.jpg)
 

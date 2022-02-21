@@ -21,5 +21,5 @@ _Last updated at 2018-04-28._
 # Rogue Rally Card Review 4-27-18
 
 
-![Rogue Rally Card Review 4-27-18.jpg](assets/Rogue Rally Card Review 4-27-18.jpg)
+![Rogue Rally Card Review 4-27-18.jpg](assets/Rogue-Rally Card Review 4-27-18.jpg)
 

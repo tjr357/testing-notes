@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # Release Planning 5-3-21
 
 
-![Release Planning 5-3-21.jpg](assets/Release Planning 5-3-21.jpg)
+![Release Planning 5-3-21.jpg](assets/Release-Planning 5-3-21.jpg)
 

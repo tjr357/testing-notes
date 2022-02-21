@@ -21,5 +21,5 @@ _Last updated at 2021-11-28._
 # Business Value Workshop Discussion 3
 
 
-![Business Value Workshop Discussion 3.jpg](assets/Business Value Workshop Discussion 3.jpg)
+![Business Value Workshop Discussion 3.jpg](assets/Business-Value Workshop Discussion 3.jpg)
 

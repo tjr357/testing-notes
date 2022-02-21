@@ -21,5 +21,5 @@ _Last updated at 2018-02-01._
 # Vehicle Metadata.jpg
 
 
-![Vehicle Metadata.jpg](assets/Vehicle Metadata.jpg)
+![Vehicle Metadata.jpg](assets/Vehicle-Metadata.jpg)
 

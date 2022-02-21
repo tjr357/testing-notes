@@ -21,5 +21,5 @@ _Last updated at 2018-09-04._
 # SF Accounts Integration Regression.jpg
 
 
-![SF Accounts Integration Regression.jpg](assets/SF Accounts Integration Regression.jpg)
+![SF Accounts Integration Regression.jpg](assets/SF-Accounts Integration Regression.jpg)
 

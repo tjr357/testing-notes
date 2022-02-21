@@ -21,5 +21,5 @@ _Last updated at 2021-02-19._
 # Lunch n Learn - Topic Ideas 2-1-2021
 
 
-![Lunch n Learn - Topic Ideas 2-1-2021.jpg](assets/Lunch n Learn - Topic Ideas 2-1-2021.jpg)
+![Lunch n Learn - Topic Ideas 2-1-2021.jpg](assets/Lunch-n Learn - Topic Ideas 2-1-2021.jpg)
 

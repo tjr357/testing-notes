@@ -21,5 +21,5 @@ _Last updated at 2018-12-12._
 # RB 2018-12-12 14.40.08.jpg
 
 
-![RB 2018-12-12 14.jpg](assets/RB 2018-12-12 14.jpg)
+![RB 2018-12-12 14.jpg](assets/RB-2018-12-12 14.jpg)
 

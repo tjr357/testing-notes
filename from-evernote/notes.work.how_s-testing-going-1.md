@@ -21,5 +21,5 @@ _Last updated at 2019-10-22._
 # How_s Testing Going
 
 
-![How_s Testing Going.jpg](assets/How_s Testing Going.jpg)
+![How_s Testing Going.jpg](assets/How_s-Testing Going.jpg)
 

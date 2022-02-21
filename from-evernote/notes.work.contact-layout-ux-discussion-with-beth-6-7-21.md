@@ -21,5 +21,5 @@ _Last updated at 2021-06-22._
 # Contact Layout UX discussion with Beth 6-7-21
 
 
-![Contact Layout UX discussion with Beth 6-7-21.jpg](assets/Contact Layout UX discussion with Beth 6-7-21.1.jpg)
+![Contact Layout UX discussion with Beth 6-7-21.jpg](assets/Contact-Layout UX discussion with Beth 6-7-21.1.jpg)
 

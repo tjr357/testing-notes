@@ -21,5 +21,5 @@ _Last updated at 2021-04-22._
 # Automation Update 4-21-21
 
 
-![Automation Update 4-21-21.1.jpg](assets/Automation Update 4-21-21.jpg)
+![Automation Update 4-21-21.1.jpg](assets/Automation-Update 4-21-21.jpg)
 

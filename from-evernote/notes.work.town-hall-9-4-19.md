@@ -21,5 +21,5 @@ _Last updated at 2019-10-07._
 # Town hall 9-4-19
 
 
-![Town hall 9-4-19.jpg](assets/Town hall 9-4-19.jpg)
+![Town hall 9-4-19.jpg](assets/Town-hall 9-4-19.jpg)
 

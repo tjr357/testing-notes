@@ -21,5 +21,5 @@ _Last updated at 2019-03-04._
 # Lunch 'n Learns Discussion
 
 
-![Lunch in Joe - Ashley Learns Discussion.jpg](assets/Lunch in Joe - Ashley Learns Discussion.jpg)
+![Lunch in Joe - Ashley Learns Discussion.jpg](assets/Lunch-in Joe - Ashley Learns Discussion.jpg)
 

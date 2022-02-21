@@ -21,5 +21,5 @@ _Last updated at 2018-08-02._
 # Red Squad Sprint Planning
 
 
-![trésorts Dashboards.jpg](assets/trésorts Dashboards.jpg)
+![trésorts Dashboards.jpg](assets/trésorts-Dashboards.jpg)
 

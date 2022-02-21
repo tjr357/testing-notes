@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # Quick Meeting w Ashley
 
 
-![Quick Meeting w Ashley.jpg](assets/Quick Meeting w Ashley.jpg)
+![Quick Meeting w Ashley.jpg](assets/Quick-Meeting w Ashley.jpg)
 

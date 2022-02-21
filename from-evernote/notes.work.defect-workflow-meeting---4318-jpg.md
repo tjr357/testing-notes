@@ -21,5 +21,5 @@ _Last updated at 2019-05-16._
 # Defect Workflow Meeting - 4318.jpg
 
 
-![Defect Workflow Meeting - 4318.jpg](assets/Defect Workflow Meeting - 4318.jpg)
+![Defect Workflow Meeting - 4318.jpg](assets/Defect-Workflow Meeting - 4318.jpg)
 

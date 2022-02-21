@@ -21,5 +21,5 @@ _Last updated at 2021-04-22._
 # Discuss S60817 4-20-21
 
 
-![Discuss S60817 4-20-21.jpg](assets/Discuss S60817 4-20-21.jpg)
+![Discuss S60817 4-20-21.jpg](assets/Discuss-S60817 4-20-21.jpg)
 

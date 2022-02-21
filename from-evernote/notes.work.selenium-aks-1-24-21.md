@@ -21,5 +21,5 @@ _Last updated at 2021-01-15._
 # Selenium AKS 1-24-21
 
 
-![Selenium AKS 1-24-21.jpg](assets/Selenium AKS 1-24-21.jpg)
+![Selenium AKS 1-24-21.jpg](assets/Selenium-AKS 1-24-21.jpg)
 

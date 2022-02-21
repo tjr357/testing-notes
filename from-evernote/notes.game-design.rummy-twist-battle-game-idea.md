@@ -25,5 +25,5 @@ Each player gets token colors corresponding to players
 The river can hold up to 5 cards but when it gets to 6 all cards are discarded
 
 So many blockers given to each player represented by cards
-![Rummy Twist Battle Game Idea.jpg](assets/Rummy Twist Battle Game Idea.jpg)
+![Rummy Twist Battle Game Idea.jpg](assets/Rummy-Twist Battle Game Idea.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2019-02-19._
 # Career Counseling
 
 
-![Career Counseling.jpg](assets/Career Counseling.jpg)
+![Career Counseling.jpg](assets/Career-Counseling.jpg)
 

@@ -21,5 +21,5 @@ _Last updated at 2018-04-05._
 # Meeting with Mike Kane - 4218.jpg
 
 
-![Meeting with Mike Kane - 4218.jpg](assets/Meeting with Mike Kane - 4218.jpg)
+![Meeting with Mike Kane - 4218.jpg](assets/Meeting-with Mike Kane - 4218.jpg)
 

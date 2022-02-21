@@ -21,5 +21,5 @@ _Last updated at 2021-03-08._
 # Story Card Enhancements Template with Adam Curtis and Bill
 
 
-![Story Card Enhancements Template with Adam Curtis .jpg](assets/Story Card Enhancements Template with Adam Curtis .jpg)
+![Story Card Enhancements Template with Adam Curtis .jpg](assets/Story-Card Enhancements Template with Adam Curtis .jpg)
 

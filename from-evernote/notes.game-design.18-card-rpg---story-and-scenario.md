@@ -26,5 +26,5 @@ contest
 # 18 Card RPG - Story and scenario
 
 
-![18 Card RPG - Story and scenario.jpg](assets/18 Card RPG - Story and scenario.jpg)
+![18 Card RPG - Story and scenario.jpg](assets/18-Card RPG - Story and scenario.jpg)
 

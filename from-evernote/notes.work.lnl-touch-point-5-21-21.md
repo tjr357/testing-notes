@@ -21,5 +21,5 @@ _Last updated at 2021-05-24._
 # LnL Touch Point 5-21-21
 
 
-![LnL Touch Point 5-21-21.jpg](assets/LnL Touch Point 5-21-21.jpg)
+![LnL Touch Point 5-21-21.jpg](assets/LnL-Touch-Point 5-21-21.jpg)
 

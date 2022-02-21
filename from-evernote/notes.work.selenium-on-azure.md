@@ -21,5 +21,5 @@ _Last updated at 2021-01-08._
 # Selenium on Azure
 
 
-![Selenium on Azure.jpg](assets/Selenium on Azure.jpg)
+![Selenium on Azure.jpg](assets/Selenium-on Azure.jpg)
 

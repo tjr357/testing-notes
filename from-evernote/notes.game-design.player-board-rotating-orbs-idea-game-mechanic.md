@@ -21,5 +21,5 @@ _Last updated at 2021-07-19._
 # Player Board Rotating Orbs Idea Game Mechanic
 
 
-![Player Board Rotating Orbs Idea Game Mechanic.jpg](assets/Player Board Rotating Orbs Idea Game Mechanic.1.jpg)
+![Player Board Rotating Orbs Idea Game Mechanic.jpg](assets/Player-Board Rotating Orbs Idea Game Mechanic.1.jpg)
 

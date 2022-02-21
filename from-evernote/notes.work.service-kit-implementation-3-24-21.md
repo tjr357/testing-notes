@@ -21,5 +21,5 @@ _Last updated at 2021-03-25._
 # service kit implementation 3-24-21
 
 
-![service kit implementation 3-24-21.jpg](assets/service kit implementation 3-24-21.jpg)
+![service kit implementation 3-24-21.jpg](assets/service-kit implementation 3-24-21.jpg)
 

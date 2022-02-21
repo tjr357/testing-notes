@@ -21,5 +21,5 @@ _Last updated at 2021-06-22._
 # QA Automation Touchpoint 6-22-21
 
 
-![QA Automation Touchpoint 6-22-21.jpg](assets/QA Automation Touchpoint 6-22-21.jpg)
+![QA Automation Touchpoint 6-22-21.jpg](assets/QA-Automation Touchpoint 6-22-21.jpg)
 

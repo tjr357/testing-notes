@@ -21,5 +21,5 @@ _Last updated at 2021-07-15._
 # Card Game Mechanic - Based off Scripture
 
 
-![Card Game Mechanic.jpg](assets/Card Game Mechanic.jpg)
+![Card Game Mechanic.jpg](assets/Card-Game Mechanic.jpg)
 

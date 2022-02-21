@@ -21,5 +21,5 @@ _Last updated at 2021-05-07._
 # CPQ Trailhead
 
 
-![CPQ Trailhead.1.jpg](assets/CPQ Trailhead.jpg)
+![CPQ Trailhead.1.jpg](assets/CPQ-Trailhead.jpg)
 

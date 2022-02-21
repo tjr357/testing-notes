@@ -21,5 +21,5 @@ _Last updated at 2019-10-07._
 # QA Data Discussion
 
 
-![QA Data Discussion.jpg](assets/QA Data Discussion.jpg)
+![QA Data Discussion.jpg](assets/QA-Data Discussion.jpg)
 

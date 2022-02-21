@@ -21,5 +21,5 @@ _Last updated at 2020-01-07._
 # Release Planning PI 12
 
 
-![Release Planning PI 12.jpg](assets/Release Planning PI 12.jpg)
+![Release Planning PI 12.jpg](assets/Release-Planning PI 12.jpg)
 

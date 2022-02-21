@@ -21,5 +21,5 @@ _Last updated at 2020-06-16._
 # UX Personas Reveal
 
 
-![UX Personas Reveal.jpg](assets/UX Personas Reveal.jpg)
+![UX Personas Reveal.jpg](assets/UX-Personas Reveal.jpg)
 
