@@ -2,7 +2,7 @@
 id: iw9gFlAQROflJbNgxzCbo
 title: Security Journey
 desc: ''
-updated: 1645547934817
+updated: 1645652309854
 created: 1645541776502
 ---
 
@@ -205,3 +205,109 @@ Pen testing or scanning solves all woes | Testing is necessary, but you cannot h
 - People, process AND tools need to **work together**
 - When problems are IDd they need to be fixed
 - How are we approaching security as people and our culture
+
+# Module 9: Threat Landscape
+### Why Care?
+- There are new threats, people and products every day and it's expanding all the time
+
+### Internet of Things
+- These don't have the best security because they're newer
+
+### Cloud
+- Who *owns* the data, the company, you???
+
+### Mobile
+- Because there are soooo many people that have them, they are not as tech savy
+
+### Newer Internet security threats
+- Crypto jacking
+- Supply chain attacks
+    - Modify new libraries, people can get into the system and place malware
+- Hardware attacks; meltdown and spectre
+
+### Weak or poorly crypotography
+- Weak
+    - Data can be copied and then decrypted
+- Unencrypted
+
+### Week authentication
+- No enforcements of password length or strength
+- Failure to enforce account lockouts
+- Lack of cryptography in transit protecting auth data
+- Weak password hash storage
+    - Keeping in DB, could be in plain text
+
+### Data breach
+- Accidental disclosure
+    - Accidentally sending an email 
+- Improper access control
+- Web app attacks
+
+### APIs
+![](/assets/images/2022-02-23-15-06-11.png)
+
+### Threats to IoT
+![](/assets/images/2022-02-23-15-08-26.png)
+
+### Threats to Cloud
+![](/assets/images/2022-02-23-15-10-21.png)
+
+### Threats to Mobile
+![](/assets/images/2022-02-23-15-11-39.png)
+
+### Defender's Dilemma
+- Attacker only needs to be right 1 time
+- Defenders need to be better than the attacker
+
+
+# Module 10: Software Supply Chain
+
+### Why care?
+- Open source and third-party software can contain known security vulnerabilities
+![](/assets/images/2022-02-23-15-21-26.png)
+![](/assets/images/2022-02-23-15-27-15.png)
+![](/assets/images/2022-02-23-15-27-38.png)
+
+![](/assets/images/2022-02-23-15-30-41.png)
+![](/assets/images/2022-02-23-15-31-07.png)
+
+# Module 11: Security Culture and Mindset
+### Why care?
+- There is a direct correlation between the strength of your security culture and the security of your apps and products
+- It impacts everyone
+    - Everyone needs to think like a Security Person and applies knowledge of security to their daily work
+### Security Plan
+![](/assets/images/2022-02-23-15-57-08.png)
+- A good starting point
+
+### Security Mindset
+![](/assets/images/2022-02-23-15-58-38.png)
+![](/assets/images/2022-02-23-16-01-46.png)
+![](/assets/images/2022-02-23-16-02-45.png)
+
+### Security Champion
+![](/assets/images/2022-02-23-16-04-47.png)
+
+# Module 12: Prioritizing Security
+### Why care?
+- Everyone needs to protect data!
+- Customers **demand** security!!!
+- Vulnerabilities continue to rise
+- Competitive advantage
+
+### Role Behaviors
+![](/assets/images/2022-02-23-16-13-24.png)
+- Threat modeling: figure out all potential problems that could happen. In the design phase
+![](/assets/images/2022-02-23-16-16-30.png)
+- All testers should have a basic understand of pen testing skills
+![](/assets/images/2022-02-23-16-19-19.png)
+![](/assets/images/2022-02-23-16-21-40.png)
+![](/assets/images/2022-02-23-16-23-01.png)
+
+# Module 13: Translating Security
+### Why care?
+- Business and security teams appear to have different priorities and don't always speak the same language 
+### Languages
+![](/assets/images/2022-02-23-16-29-49.png)
+![](/assets/images/2022-02-23-16-31-49.png)
+![](/assets/images/2022-02-23-16-34-47.png)
