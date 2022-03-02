@@ -1,0 +1,50 @@
+---
+id: 0silryxidiew6d0aelc8va0
+title: >-
+  How_to_make_your_own_chrome_os_chromebook_
+  _os,_software_&_networking_by_extremetech Resources
+desc: ''
+updated: 1645718444008
+created: 1645718444008
+stub: false
+isDir: true
+---
+## Imported Assets
+- ![unknown_filename.1.jpeg](/assets/unknown_filename-g4n9zxmznsiv.jpeg)
+- ![unknown_filename.10.gif](/assets/unknown_filename-pk5vwb5q1da5.gif)
+- ![unknown_filename.11.gif](/assets/unknown_filename-ny086g4gppy8.gif)
+- ![unknown_filename.12.gif](/assets/unknown_filename-tnlwhzdht0ri.gif)
+- ![unknown_filename.14.gif](/assets/unknown_filename-4yqu7k6bbigo.gif)
+- ![unknown_filename.13.png](/assets/unknown_filename-wy946cvmi3nj.png)
+- ![unknown_filename.15.jpeg](/assets/unknown_filename-jzqhx56qrtnp.jpeg)
+- ![unknown_filename.16.jpeg](/assets/unknown_filename-3zgkw7x0sjxw.jpeg)
+- ![unknown_filename.17.png](/assets/unknown_filename-nk2imo09krge.png)
+- ![unknown_filename.18.gif](/assets/unknown_filename-o1e4z89srv19.gif)
+- ![unknown_filename.19.jpeg](/assets/unknown_filename-qf2adhljf2xk.jpeg)
+- ![unknown_filename.2.png](/assets/unknown_filename-xfb2u3z4iv0b.png)
+- ![unknown_filename.20.png](/assets/unknown_filename-q48z6q65z1k3.png)
+- ![unknown_filename.21.gif](/assets/unknown_filename-jusz5gvq4fp1.gif)
+- ![unknown_filename.22.gif](/assets/unknown_filename-ex1wumfmhsvu.gif)
+- ![unknown_filename.23.gif](/assets/unknown_filename-a4jhf00nbmy4.gif)
+- ![unknown_filename.24.png](/assets/unknown_filename-msdn71hyu23f.png)
+- ![unknown_filename.25.png](/assets/unknown_filename-dojnsq776bri.png)
+- ![unknown_filename.26.gif](/assets/unknown_filename-t3z90xyhok32.gif)
+- ![unknown_filename.28.jpeg](/assets/unknown_filename-1m2e9yc3pqzg.jpeg)
+- ![unknown_filename.27.jpeg](/assets/unknown_filename-qr5mvtoziz1d.jpeg)
+- ![unknown_filename.30.gif](/assets/unknown_filename-d20yie1g4kbu.gif)
+- ![unknown_filename.3.jpeg](/assets/unknown_filename-raog5vdumoe3.jpeg)
+- ![unknown_filename.31.jpeg](/assets/unknown_filename-pxju3qyoors9.jpeg)
+- ![unknown_filename.29.jpeg](/assets/unknown_filename-a7jbm3s8ij1a.jpeg)
+- ![unknown_filename.32.gif](/assets/unknown_filename-mwjgut0scnrb.gif)
+- ![unknown_filename.33.jpeg](/assets/unknown_filename-f7e93944ws1w.jpeg)
+- ![unknown_filename.34.jpeg](/assets/unknown_filename-l8m1awb4lkft.jpeg)
+- ![unknown_filename.35.gif](/assets/unknown_filename-73u1p0prtlbh.gif)
+- ![unknown_filename.36.gif](/assets/unknown_filename-2abbaib90y1p.gif)
+- ![unknown_filename.37.gif](/assets/unknown_filename-37jdatj5hqdf.gif)
+- ![unknown_filename.4.gif](/assets/unknown_filename-j6l25qglkufv.gif)
+- ![unknown_filename.5.gif](/assets/unknown_filename-bv2dxdceja9r.gif)
+- ![unknown_filename.8.jpeg](/assets/unknown_filename-e4yanns9o6g7.jpeg)
+- ![unknown_filename.9.png](/assets/unknown_filename-cmw4rys6jhzu.png)
+- ![unknown_filename.7.gif](/assets/unknown_filename-zx32s6k0q16s.gif)
+- ![unknown_filename.6.gif](/assets/unknown_filename-5uwt7vzoxdx2.gif)
+- ![unknown_filename.jpeg](/assets/unknown_filename-kvb0o6iqq487.jpeg)
