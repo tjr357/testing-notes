@@ -1,0 +1,11 @@
+---
+id: tkba6o3amu4pqph2yse00oa
+title: Solid_approach_to_automation_testing_2 Resources
+desc: ''
+updated: 1645718444003
+created: 1645718444003
+stub: false
+isDir: true
+---
+## Imported Assets
+- ![RB-2018-01-11-17.jpg](/assets/rb-2018-01-11-17-orpol4uq2jzn.jpg)
