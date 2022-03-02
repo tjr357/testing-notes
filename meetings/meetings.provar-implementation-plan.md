@@ -2,7 +2,7 @@
 id: xlgEpd88sxxsJe3buWxAl
 title: Provar Implementation Plan
 desc: ''
-updated: 1645194499049
+updated: 1645569999133
 created: 1645194282967
 ---
 
@@ -32,3 +32,5 @@ created: 1645194282967
 - ![x] get release planning readout info, 11:30
 - ![ ] Work with Ashley on demand intake process
 - ![ ] start thinking about marketing and getting the word out to the program, think of Townhall's
+
+foo
