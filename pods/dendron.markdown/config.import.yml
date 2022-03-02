@@ -1,12 +1,12 @@
 # description: Where to import from
 # type: string
 # required: true
-src: /Users/tjr357/Documents/evernotes-converted-markdown
+src: /Users/tjr357/Documents/evernote-notes-converted/notes
 
 # description: name of vault to import into
 # type: string
 # required: true
-vaultName: from-evernote
+vaultName: evernote
 
 # description: whether to concatenate everything into one note
 # type: boolean
