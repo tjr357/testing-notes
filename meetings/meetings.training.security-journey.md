@@ -2,7 +2,7 @@
 id: iw9gFlAQROflJbNgxzCbo
 title: Security Journey
 desc: ''
-updated: 1646151974766
+updated: 1646247622008
 created: 1645541776502
 ---
 
@@ -529,3 +529,16 @@ Pen testing or scanning solves all woes | Testing is necessary, but you cannot h
 ![](/assets/images/2022-03-01-11-25-53.png)
 
 ### Trends
+![](/assets/images/2022-03-02-13-40-48.png)
+![](/assets/images/2022-03-02-13-40-57.png)
+![](/assets/images/2022-03-02-13-41-05.png)
+![](/assets/images/2022-03-02-13-41-15.png)
+- Linddun is a threat modeling methodology, focuses on privacy
+![](/assets/images/2022-03-02-13-41-39.png)
+
+### New tools or projects
+![](/assets/images/2022-03-02-13-57-34.png)
+- Semgrep - faster static code analysis than ever
+- OWASP pytm - threat modeling as code
+- API Security project - 
+- OWASP SEDATED - source code repository scanner, finds passwords, API or keys
