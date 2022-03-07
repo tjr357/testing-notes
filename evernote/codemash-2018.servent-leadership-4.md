@@ -56,7 +56,7 @@
 id: km6gsutertcni88tre11wo6
 title: Servent Leadership 4
 desc: ''
-updated: 1645718443987
+updated: 1646333854253
 created: 1645718443987
 stub: false
 isDir: false
@@ -65,5 +65,5 @@ isDir: false
 # Servent Leadership 4
 
 
-![RB-2018-01-11-17.jpg](./_resources/Servent_Leadership_4.resources/RB-2018-01-11-17.jpg)
+![RB-2018-01-11-17.jpg](assets/RB-2018-01-11-17.jpg)
 
