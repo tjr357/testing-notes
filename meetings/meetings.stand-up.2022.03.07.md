@@ -2,7 +2,7 @@
 id: puo4ccrvhf13v4suekepy4x
 title: '07'
 desc: ''
-updated: 1646665375394
+updated: 1646749899053
 created: 1646663327640
 ---
 
@@ -46,3 +46,4 @@ created: 1646663327640
 - PPM enhancement
 
 [[meetings.refinement-2022.03.07]]
+[[meetings.stand-up.2022.03.08]]
