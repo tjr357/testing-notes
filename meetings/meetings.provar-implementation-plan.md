@@ -2,7 +2,7 @@
 id: xlgEpd88sxxsJe3buWxAl
 title: Provar Implementation Plan
 desc: ''
-updated: 1645569999133
+updated: 1646855342920
 created: 1645194282967
 ---
 
@@ -30,7 +30,6 @@ created: 1645194282967
 - https://rally1.rallydev.com/#/125886362128d/portfolioitemstreegrid?view=a9244a6e-51f4-4b51-8f7d-7e3447da0781
 ![](/assets/images/2022-02-18-09-26-44.png)
 - ![x] get release planning readout info, 11:30
-- ![ ] Work with Ashley on demand intake process
+- ![x] Work with Ashley on demand intake process
 - ![ ] start thinking about marketing and getting the word out to the program, think of Townhall's
 
-foo
