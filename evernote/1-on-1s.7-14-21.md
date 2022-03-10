@@ -17,9 +17,9 @@
 '15': '1'
 '16': '-'
 '17': '0'
-'18': '9'
+'18': '8'
 '19': '-'
-'20': '2'
+'20': '1'
 '21': '0'
 '22': .
 '23': _
@@ -47,23 +47,23 @@
 '45': '1'
 '46': '-'
 '47': '0'
-'48': '9'
+'48': '8'
 '49': '-'
-'50': '2'
+'50': '1'
 '51': '0'
 '52': .
 '53': _
-id: zw7pljizt33fqvrqj2d3koi
-title: 08
+id: d5j2moin8dh3fvverizx1l0
+title: 7 14 21
 desc: ''
-updated: 1645573670442
-created: 1645573670442
+updated: 1645573670441
+created: 1645573670441
 stub: false
 isDir: false
 ---
 
-# 1-on-1 with Dave 9-8-21
+# 1 on 1 w Dave 7-14-21
 
 
-![1-on-1-with-Dave-9-8-21.jpg](/assets/1-on-1-with-dave-9-8-21-g5jhmwzv8rsg.jpg)
+![1-on-1-w-Dave-7-14-21.jpg](/assets/1-on-1-w-dave-7-14-21-kisn9v3e4lv6.jpg)
 
