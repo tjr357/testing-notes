@@ -6,7 +6,7 @@ updated: 1646324244267
 created: 1646323371482
 ---
 
-[[meetings.stand-up.2022.03.03]]
+[[stand-up.2022.03.03]]
 
 ### Card Number
 - S67279
