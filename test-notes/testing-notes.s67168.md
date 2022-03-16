@@ -2,7 +2,7 @@
 id: djSFBZrtsCgaW5kQl8s4F
 title: S67168
 desc: ''
-updated: 1645033735863
+updated: 1647284914798
 created: 1645032732947
 stub: false
 isDir: false
@@ -52,3 +52,10 @@ created_imported: 1644260693843
 4. Clicked the create Case button
 5. Received an error
    ![](/assets/2022-02-14-14-26-34.png)
+
+
+### Regression Atos with Kim
+- Kim does not have Salesforce access in Prod, so after every refresh she won't be there
+
+- Have an agent help us that does not take calls and Kim will set them up in FULL
+- Maybe have Kim set up in FULL?

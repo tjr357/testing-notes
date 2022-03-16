@@ -1,8 +1,8 @@
 ---
 id: 0odrw16sppeokvhltt3heh5
-title: Implementation Touchpoint
+title: 09
 desc: ''
-updated: 1646855967819
+updated: 1647372064173
 created: 1646855349800
 ---
 
@@ -34,7 +34,7 @@ created: 1646855349800
 
 - Add fields that are only visible on the UI and some other select few 
 - Choice editor 
-- [ ] Inform Ashley we're ready next Sprint to get started with piloting
-- [ ] Inform Dave
-- [ ] Create Callable test for Case, switch Case
-- [ ] Write thank you email to Andy HR
+- [x] Inform Ashley we're ready next Sprint to get started with piloting
+- [x] Inform Dave
+- [x] Create Callable test for Case, switch Case
+- [x] Write thank you email to Andy HR
