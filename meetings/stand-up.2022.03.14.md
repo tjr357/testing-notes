@@ -2,12 +2,12 @@
 id: dknlorj3fdruw5fi66kix1z
 title: '14'
 desc: ''
-updated: 1647440044126
+updated: 1647531988785
 created: 1647263921603
 ---
 
 ### Previous Stand up
-![[stand-up.2022.03.11]]
+[[stand-up.2022.03.11]]
 
 ### Cards Discussed
 #### Card Number

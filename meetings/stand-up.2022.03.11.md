@@ -2,12 +2,12 @@
 id: vi4bfaamgqt3zkfwpqzsplg
 title: '11'
 desc: ''
-updated: 1647009376989
+updated: 1647531988846
 created: 1647009171624
 ---
 
 ### Previous Stand up
-![[stand-up.2022.03.10]]
+[[stand-up.2022.03.10]]
 
 ### Cards Discussed
 #### Card Number

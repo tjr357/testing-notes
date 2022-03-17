@@ -2,12 +2,12 @@
 id: s4rxt4j06zrx5vu16oszh8m
 title: '15'
 desc: ''
-updated: 1647458730181
+updated: 1647531929003
 created: 1647266827677
 ---
 
 ### Previous Stand up
-![[stand-up.2022.03.14]]
+[[stand-up.2022.03.14]]
 
 ### Cards Discussed 
 #### Card Number
