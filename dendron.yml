@@ -27,8 +27,6 @@ workspace:
             name: evernote
         -
             fsPath: meetings
-        -
-            fsPath: test-notes
     journal:
         dailyDomain: daily
         name: journal
@@ -78,6 +76,8 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -90,14 +90,13 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://tjr357.github.io'
+    siteUrl: https://tjr357.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
     duplicateNoteBehavior:
         action: useVault
         payload:
-            - test-notes
             - meetings
             - evernote
     writeStubs: false
