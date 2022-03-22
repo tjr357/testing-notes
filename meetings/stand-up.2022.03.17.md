@@ -2,7 +2,7 @@
 id: vhwhstxgkqjebvowcixl7zl
 title: '17'
 desc: ''
-updated: 1647529388943
+updated: 1647876018348
 created: 1647523269786
 ---
 
@@ -58,5 +58,7 @@ created: 1647523269786
 - Dave will be OoO next week, text him if something is urgent 
 - Virtual consultation project is moving forward, Steve will need lower env. access
 
-[[refinement.2022.03.17]]
+[[refinement.2022.03.17]]  
 [[sprint-planning.2022.03.17]]
+
+[[stand-up.2022.03.18]]

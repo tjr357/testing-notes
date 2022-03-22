@@ -5,7 +5,7 @@ desc: ''
 updated: 1647350588685
 created: 1647269313767
 ---
-@AdamOliver, @SherrySanders
+@AdamOliver, @SheriSanders
 
 ### Questions
 - What will the project be like?
