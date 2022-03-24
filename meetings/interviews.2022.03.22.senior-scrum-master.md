@@ -2,9 +2,11 @@
 id: xwtzq0zrt1e9fh90kpx07qt
 title: Senior Scrum Master
 desc: ''
-updated: 1647954297441
+updated: 1647958312090
 created: 1647952135095
 ---
+### People
+- @Tamara
 
 ### Questions to ask
 - Can you share a little more about the team
@@ -33,7 +35,7 @@ created: 1647952135095
 - Need to inspire others, continue to build PR
 - Confidence, energy and inquisitiveness
 - Learning and doing something new is a positive
-- Interviewing Tamara 
+- Interviewing Tamara
 
 - Check with Dennis on the Pod wfh situation
 - Lean in, be confident with the knowledge I have and don't worry too much about the humble aspect, that will come later

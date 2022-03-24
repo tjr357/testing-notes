@@ -6,14 +6,14 @@ updated: 1645204168491
 created: 1645201862999
 ---
 
-- Guarav hiring QA folks, would be embedded in Product teams
+- Gaurav hiring QA folks, would be embedded in Product teams
     - There would be manual testing involved
     - Adam helping with the hiring process
     - Moses' team is getting a reskilling person as their Scrum Master
     - Will be hiring a QAE not on Adam's team, not a senior
     - Sr. and lead, delivery automation, devops position, APM
-    - Be honest with Guarav about what I would want
-- Guarav
+    - Be honest with Gaurav about what I would want
+- Gaurav
     - PCG Blending, Integrated Order Management (Dennis S.)
     - 1 agile Product team per product 
         - Scrum Master

@@ -1,35 +1,35 @@
 ---
-id: 8ll130xp3rj7afhme16mlvu
-title: '22'
+id: p7kp4kqn6pn9rptkg7mf34k
+title: '23'
 desc: ''
-updated: 1647967173785
-created: 1647896267129
+updated: 1647967448615
+created: 1647966979007
 ---
 
 ### Previous Stand up
-[[stand-up.2022.03.21]]
+[[stand-up.2022.03.22]]
 
 ### Cards Discussed
 #### Card Number
-- S67
+- S
 #### Owner
-- @Tao 
-#### Notes
-- Ready for testing 
----
-#### Card Number
-- S67497
-#### Owner
-- @Tao 
+- 
 #### Notes
 - 
 ---
 #### Card Number
-- DE16711 
+- S
 #### Owner
-- @Sarat 
+- @ 
 #### Notes
-- We have a meeting with Austin to get this Approved 
+- 
+---
+#### Card Number
+- S
+#### Owner
+- @ 
+#### Notes
+- 
 ---
 #### Card Number
 - S
@@ -46,6 +46,4 @@ created: 1647896267129
 -
 ---
 ## Miscellaneous
-- Retro will be moved out til next week
-
-[[refinement.2022.03.22]]
+- 
