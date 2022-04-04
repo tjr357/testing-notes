@@ -29,7 +29,11 @@ created: 1648128896398
 - The translations are already completed, we're just not using them
 - May need to meet with Kara Z., the business, or the website owner
 - @Chip will get a meeting scheduled
+  - @AubreyL will send an email instead
 - If the Contact Us page is in English, do we want a box that says something like "Reply to me in this language ____ "
+- Love Your Color guarantee is gone?
+- Could we just turn off the acknowledgements?
+  - Might have to because of the legalities 
 ---
 
 ### Card Number

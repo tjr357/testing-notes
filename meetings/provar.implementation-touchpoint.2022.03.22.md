@@ -19,4 +19,6 @@ created: 1647975941097
 - We don't want others to be writing tests all day
 - If it's a total number of tests that are being asked for, then we just show them how many tests we have
 - "Information is power and with great power comes great responsibility"
-- [ ] ask @Sarat and @Tao what goal(s) they would like to see
+- [x] ask @Sarat and @Tao what goal(s) they would like to see
+
+[[provar.implementation-touchpoint.2022.03.29]]
