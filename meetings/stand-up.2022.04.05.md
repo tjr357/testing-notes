@@ -2,7 +2,7 @@
 id: 3qhn57hadnqzctj9gtod2lf
 title: '05'
 desc: ''
-updated: 1649165401508
+updated: 1649270634556
 created: 1649165401508
 ---
 
@@ -11,7 +11,7 @@ created: 1649165401508
 
 ### Cards Discussed
 #### Card Number
-- S67327
+- 
 #### Owner
 - @Sarat 
 #### Notes

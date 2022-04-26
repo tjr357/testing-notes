@@ -2,7 +2,7 @@
 id: r4fb3w26bxuo5qs67k1tvek
 title: 1554
 desc: ''
-updated: 1646865151982
+updated: 1649955451774
 created: 1646859537191
 ---
 
@@ -10,7 +10,7 @@ created: 1646859537191
 [[1-on-1s.2022.01.13]]
 
 ### Topics
-- Provar
+- 
     - @Sarat's time will be limited
     - Platform limit problem, working with Vasanth
     - @Kate will be working on presentation for Rajesh, high level overview of Service by beginning of April

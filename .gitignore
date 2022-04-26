@@ -6,3 +6,5 @@ build
 docs.next
 
 .next
+.backup
+.DS_Store

@@ -69,6 +69,7 @@ workspace:
     enableHashTags: true
     dendronVersion: 0.83.0
     enableEditorDecorations: true
+    enableFullHierarchyNoteTitle: true
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true

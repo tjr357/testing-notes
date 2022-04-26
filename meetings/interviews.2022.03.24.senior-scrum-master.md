@@ -7,7 +7,7 @@ created: 1648133632886
 ---
 
 ### People 
-- @Chirayu
+- @ChirayuPoundarik
 
 ### Questions
 - Who do you see doing well in this role?
