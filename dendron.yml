@@ -23,9 +23,6 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: evernote
-            name: evernote
-        -
             fsPath: meetings
     journal:
         dailyDomain: daily
