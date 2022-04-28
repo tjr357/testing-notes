@@ -2,9 +2,11 @@
 id: ddefi61pbpjwtgvoopk0ffr
 title: Touch Point with Dan
 desc: ''
-updated: 1650896823772
+updated: 1651154995489
 created: 1649880697921
 ---
+
+@DanRaczka
 
 ### Notes
 - How often do we want to meet?

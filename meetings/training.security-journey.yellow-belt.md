@@ -2,7 +2,7 @@
 id: u8y1cfg1uny4p06iddb11yq
 title: Training Security Journey Yellow Belt
 desc: ''
-updated: 1650921012220
+updated: 1651151420434
 created: 1650909577252
 ---
 
@@ -256,3 +256,211 @@ created: 1650909577252
 
 --- 
 
+## Module 9: Cryptography
+- ![](/assets/images/2022-04-26-17-46-26.png)
+- Why care?
+  - To protect data in transit and at rest
+- Key
+  - ![](/assets/images/2022-04-26-17-48-33.png)
+  - Locks or unlocks data that is encrypted or decrypted
+- Cipher
+  - ![](/assets/images/2022-04-26-17-49-00.png)
+  - An algorithm that performs encryption or decryption
+- Symmetric Encryption & Decryption
+  - Same key used for encryption and decryption
+  - Shared key
+  - Examples: VPN
+- Asymmetric Encryption
+  - Public/private key
+  - Keys can be different
+  - Examples: PGP or GPG email encryption
+- Certificate
+  - ![](/assets/images/2022-04-26-17-54-34.png)
+  - Prvoes that a the webserver is bound to a particular domain name because it is signed by a trusted third party the browser has a trust relationship with cryptographically
+- Hashing
+  - Hashed value, smaller representation of the original value
+- Digital Signature
+  - ![](/assets/images/2022-04-26-17-57-24.png)
+  - Asymmetric
+  - Proves the authenticity
+- Symmetric and asymmetric ciphers
+  - ![](/assets/images/2022-04-26-17-59-24.png)
+- Cryptographic guidance
+  > Another resource comes from the National Institute of Standards and Technology (NIST) that's part of the United States government. It is called the Approved Security Functions for FIPS 140-2, Security Requirements for Cryptographic Modules. FIPS 140-2 is the US government and some other government standards for testing cryptography. They do have a set of best possible things that you should be using today. They update it frequently.
+
+- Key Takeaways
+  1. Basic cryptographic terms include key, cipher, certificate, plaintext, ciphertext, and hashing.
+  2. Encryption uses a key to transform plaintext into ciphertext, while decryption uses a key to transform ciphertext into plaintext.
+  3. Symmetric uses the same key, and asymmetric uses a public and private key pair.
+  4. Digital signatures prove authenticity.
+  5. Rolling your own crypto is a terrible idea because you too can create an algorithm that you yourself cannot break.​
+
+---
+
+## Module 10: Risk Management for AppSec
+- ![](/assets/images/2022-04-26-18-15-16.png)
+- Why care?
+  - ![](/assets/images/2022-04-26-18-15-28.png)
+- Risk Management Process
+  - ![](/assets/images/2022-04-26-18-20-29.png)
+- Risk Management Principles
+  - ![](/assets/images/2022-04-26-18-21-52.png)
+  1. ![](/assets/images/2022-04-26-18-22-22.png)
+  2. ![](/assets/images/2022-04-26-18-22-37.png)
+  3. ![](/assets/images/2022-04-26-18-22-47.png)
+  4. ![](/assets/images/2022-04-26-18-22-56.png)
+  5. ![](/assets/images/2022-04-26-18-23-05.png)
+  6. ![](/assets/images/2022-04-26-18-23-12.png)
+  7. ![](/assets/images/2022-04-26-18-23-21.png)
+  8. ![](/assets/images/2022-04-26-18-23-32.png)
+  9. ![](/assets/images/2022-04-26-18-23-41.png)
+  10. ![](/assets/images/2022-04-26-18-23-48.png)
+
+- Key Takeaways
+  1. Risk management is the program and supporting processes to manage information security risk to operations, assets, individuals, and other organizations
+  2. The risk management process includes identify the risk, analyze the risk, evaluate or rank the risk, treat the risk, and monitor and review the risk
+  3. Apply the principles of effective cybersecurity risk management to minimize the unknown risk in your application security program.
+
+---
+
+## Module 11: The Hacker Mindset
+- ![](/assets/images/2022-04-27-16-47-24.png)
+- Thacker attitude
+  - ![](/assets/images/2022-04-27-16-51-35.png)
+- Hacker view
+  - No such thing as 100% secure
+  - Least resistance
+  - Outside box thinking
+- Applying hacker mindset
+  - ![](/assets/images/2022-04-27-16-55-12.png)
+- Key Takeaways
+  1. A “hacker” is any skilled computer expert that uses their technical knowledge to overcome a problem.
+  2. The word “hacker” does not imply any criminal intent.
+  3. The hacker mindset includes recognizing that the world is full of fascinating problems waiting to be solved, avoiding solving the same issues and boredom, embracing freedom and competence.
+  4. Apply the hacker mindset to your job role by extending competence, using threat modeling/vuln scanning/pen testing, and utilize a white-hat hacking approach.
+
+---
+
+## Module 12: OWASP Top 10 Part 1
+![](/assets/images/2022-04-27-17-00-44.png)
+- A01 Broken Access Control
+  - ![](/assets/images/2022-04-27-17-11-24.png)
+  - Includes privileges
+  - Risks
+    - Unauthorized info disclosure
+    - Modification/destruction of data
+    - Elevation of privilege
+  - Mitigations
+    - ![](/assets/images/2022-04-27-17-19-22.png)
+    - JWT token, the server must invalidate it after logging out to prevent replay attacks
+- A02 Cryptographic failures
+  - ![](/assets/images/2022-04-27-17-22-23.png)
+  - Risks
+    - ![](/assets/images/2022-04-27-17-22-44.png)
+  - Mitigations
+    - ![](/assets/images/2022-04-27-17-23-02.png)
+    - If we don't need the data, we should get rid of it
+    - MAC - message authentication code
+- A03 Injection
+  - ![](/assets/images/2022-04-27-17-24-43.png)
+  - The attacker is trying to get their data to execute as a command on your system and then return some result
+  - Risks
+    - ![](/assets/images/2022-04-27-17-26-04.png)
+    - Exfiltration leads to a breach
+  - Mitigations
+    - ![](/assets/images/2022-04-27-17-26-52.png)
+    - ORM's are not necessarily 100% safe
+- Key Takeaways
+  1. The OWASP Top 10 list is best used as an awareness tool for securing web applications.
+  2. Implement access control using a deny by default approach.
+  3. Classify data by sensitivity and implement appropriate cryptographic controls.
+  4. Use an ORM (Object Relational Mapper), input validation, and escape characters to mitigate injection attacks.
+
+## Module 13: OWASP Top 10 Part 2
+- A04 Insecure Design
+  - ![](/assets/images/2022-04-27-17-47-01.png)
+  - Need to start planning for security upfront!!!
+  - Risks
+    - Leads to exploitation of all other OWASP Top 10 issues
+  - Mitigations
+    - ![](/assets/images/2022-04-27-17-50-30.png)
+    - Secure Development Lifecycle
+    - Embrace Threat Modeling
+- A05 Security Misconfigurations
+  - ![](/assets/images/2022-04-27-17-53-12.png)
+  - Someone makes a mistake
+  - Risks
+    - Data exposure
+  - Mitigations
+    - Harden builds
+    - Consistent
+    - Minimal
+      - Only install what's absolutely needed, minimize attack surface area
+    - Automated
+      - Implement an automated process to verify the configuration and settings
+- A06 Vulnerable and Outdated Components
+  - ![](/assets/images/2022-04-27-17-56-59.png)
+  - Risks
+    - ![](/assets/images/2022-04-27-17-57-47.png)
+  - Mitigations
+    - ![](/assets/images/2022-04-27-17-58-46.png)
+- A07 Identification and Authentication Failures
+  - ![](/assets/images/2022-04-27-17-59-53.png)
+  - Identification = telling information
+  - Authentication = proving the info is correct
+  - Risks
+    - System access
+    - Admin access
+  - Mitigations
+    - ![](/assets/images/2022-04-27-18-03-26.png)
+- Key Takeaways
+  1. Establish and use a secure development lifecycle and embrace Threat Modeling.
+  2. Implement an automated process to verify the configuration and settings.
+  3. Use Software Composition Analysis, continuously inventory, and monitor libraries and components.
+  4. Utilize Multi-Factor Authentication, replace default credentials, and implement weak password checks.
+
+---
+
+## Module 14: OWASP Top 10 Part 3
+- A08 Software and Data Integrity Failures
+  - ![](/assets/images/2022-04-28-08-39-31.png)
+  - Not protecting our infrastructure or code from integrity violations
+  - Risks
+    - Unauthorized accessed
+    - Malicious code inclusion
+    - RCE (remote code execution) from insecure deserialization
+  - Mitigations
+    - Digital signatures
+      - Ensures updates into our packages haven't been modified and are coming from a trusted, verified source
+    - SCA (Software composition analysis)
+      - A tool to scan our dependencies and package to make sure vulnerabilities were not introduced
+    - Peer code review
+    - Data integrity checks
+      - Make sure serialized objects when deserialized come in just like the way it was sent and hasn't been manipulated
+- A09 Security Logging and Monitoring Failures
+  - ![](/assets/images/2022-04-28-08-48-17.png)
+  - Could be insufficient logging
+  - Risks
+    - Successful attacks start with vulnerability probing. Remaining undetected raises chances of success
+  - Mitigations
+    - ![](/assets/images/2022-04-28-08-58-47.png)
+- A10 Server-side Request Forgery
+  - ![](/assets/images/2022-04-28-09-00-35.png)
+  - Newer
+  - Has caused several big breaches 
+  - Attacker can manipulate some URLs the app is taking in as input, to fetch some resource
+  - ![](/assets/images/2022-04-28-09-03-18.png)
+  - ![](/assets/images/2022-04-28-09-05-05.png)
+    - Attack web server itself
+    - Attack internal system
+      - Points towards another server within our trusted network
+    - Attack to point towards a third-party system
+  - Risks
+    - ![](/assets/images/2022-04-28-09-07-53.png)
+      - Attacker can view a map of the network
+  - Mitigations
+    - ![](/assets/images/2022-04-28-09-09-07.png)
+- Key Takeaways
+  1. Use digital signatures, Software Composition Analysis, code reviews, and data integrity checks to prevent software and data integrity failures.
+  2. Ensure to log all login, access control, and server-side input validation failures and generate an audit trail for high-value transactions.
+  3. Prevent Server-Side Request Forgery (SSRF) with a zero-trust architecture and do not accept untrusted input to fetch resources.
