@@ -2,7 +2,7 @@
 id: u8y1cfg1uny4p06iddb11yq
 title: Training Security Journey Yellow Belt
 desc: ''
-updated: 1651151420434
+updated: 1651434733318
 created: 1650909577252
 ---
 
@@ -464,3 +464,207 @@ created: 1650909577252
   1. Use digital signatures, Software Composition Analysis, code reviews, and data integrity checks to prevent software and data integrity failures.
   2. Ensure to log all login, access control, and server-side input validation failures and generate an audit trail for high-value transactions.
   3. Prevent Server-Side Request Forgery (SSRF) with a zero-trust architecture and do not accept untrusted input to fetch resources.
+
+---
+
+## Module 15: Buffer Overflows & Remote Code Execution
+- Occurs when a program attempts to put more data into a buffer than that buffer can hold
+- If the attacker can drop to a shell, they can run commands on the server
+- Why Care?
+  - ![](/assets/images/2022-04-30-14-27-09.png)
+- Classic buffer overflow
+  - ![](/assets/images/2022-04-30-14-29-16.png)
+- Buffer overflow Threats
+  - ![](/assets/images/2022-04-30-14-29-32.png)
+- Types of buffer overflow
+  - ![](/assets/images/2022-04-30-14-32-54.png)
+- Mitigations
+  - ![](/assets/images/2022-04-30-14-35-36.png)
+  - ![](/assets/images/2022-04-30-14-36-09.png)
+- Key Takeaways
+  1. A buffer overflow occurs when a program attempts to put more data in a buffer than the buffer is setup to hold.
+  2. Remote code execution is when an attacker executes any command on a target machine or in a target process across the Internet.
+  3. A stack based overflow changes an instruction on the stack, a heap based overflow changes a buffer stored in the heap, and an integer overflow increments larger than what an integer can hold, causing unexpected results.
+  4. Mitigate buffer overflows through language choice, safe C libraries, ASLR, NX, and least privilege. 
+
+--- 
+## Module 16: Denial of Service
+- Denial of Service: An attempt to make a machine or network resource unavailable to its intended users
+- Distrubuted DoS: coming from multiple sources, multiple compromised systems are used to target a single system
+- 
+- Why care?
+  - ![](/assets/images/2022-04-30-14-41-24.png)
+- Threats
+  - ![](/assets/images/2022-04-30-14-43-48.png)
+- Types
+  - ![](/assets/images/2022-04-30-14-45-20.png)
+  - ![](/assets/images/2022-04-30-14-45-49.png)
+  - ![](/assets/images/2022-04-30-14-46-09.png)
+  - ![](/assets/images/2022-04-30-14-48-08.png)
+  - ![](/assets/images/2022-04-30-14-50-09.png)
+  - ![](/assets/images/2022-04-30-14-50-19.png)
+  - ![](/assets/images/2022-04-30-14-50-56.png)
+    - ![](/assets/images/2022-04-30-14-51-52.png)
+
+## Module 17: XXS Part 1
+- What is Cross-Site Scripting (XSS)?
+  - ![](/assets/images/2022-04-30-15-11-57.png)
+- Why care?
+  - ![](/assets/images/2022-04-30-15-12-08.png)
+- Threats
+  - ![](/assets/images/2022-04-30-15-12-44.png)
+- Stored or persistent XSS
+  - ![](/assets/images/2022-04-30-15-14-49.png)
+- Example
+  - ![](/assets/images/2022-04-30-15-15-55.png)
+  - ![](/assets/images/2022-04-30-15-17-12.png)
+- Key Takeaways
+  1. Cross site scripting (XSS) is a type of injection attack in which malicious scripts are injected into otherwise benign and trusted web sites.
+  2. The prevalence of XSS has been stable for many years and is still a major threat.
+  3. Stored or Persistent XSS is when a malicious script is permanently stored, causing a victim to retrieve it when requesting information.
+
+---
+
+## Module 18: XSS Part 2
+- Reflected or non-persistent XSS
+  - ![](/assets/images/2022-04-30-15-22-12.png)
+  - Not stored in a Database
+- Reflected XSS example
+  - ![](/assets/images/2022-04-30-15-22-37.png)
+- DOM based XSS
+  - ![](/assets/images/2022-04-30-15-26-56.png)
+- Sources and Sinks
+  - ![](/assets/images/2022-04-30-15-28-11.png)
+- ![](/assets/images/2022-04-30-15-30-49.png)
+- Mitigations
+  - ![](/assets/images/2022-04-30-15-31-07.png)
+- Key Takeaways
+  1. Reflected or non-persistent XSS is when an injected script is delivered via an e-mail or other web site and takes the victim to the vulnerable site, which reflects the attack back to the victim’s browser.
+  2. DOM Based XSS is when an injected script is inserted into the Document Object Model environment and executes in the victim’s browser.
+  3. Stored XSS has a large target range and the vuln exists server side; reflected has a small target range, also existing server side; DOM based has a small target range, and can impact both server and client.
+  4. Practice proper mitigations to mitigate XSS, including using frameworks to escape output, review client side for use of sources and sinks, and enact a Content Security Policy to control where JavaScript may originate.
+
+---
+
+## Module 19: Injection: SQL and Command
+- ![](/assets/images/2022-04-30-15-39-23.png)
+- Why care?
+  - ![](/assets/images/2022-04-30-15-39-33.png)
+- Types of Injection
+  - ![](/assets/images/2022-04-30-15-39-48.png)
+- Threats
+  - ![](/assets/images/2022-04-30-15-42-37.png)
+  - Simple command injection
+    - ![](/assets/images/2022-04-30-15-45-59.png)
+  - SQL Injection
+    - ![](/assets/images/2022-04-30-15-46-18.png)
+- Mitigations
+  - ![](/assets/images/2022-04-30-15-47-12.png)
+  - ![](/assets/images/2022-04-30-15-47-20.png)
+- Key Takeaways
+  1. Injection is tricking an application into including unintended commands in the data sent to an interpreter.
+  2. The major types of injection attacks are SQL, OS Command, LDAP, and XSS.
+  3. Mitigate injection in your applications with proper input validation, safe API, and contextual output encoding.
+
+---
+
+## Module 20: Cross Site Request Forgery 
+- What is it?
+  - ![](/assets/images/2022-04-30-15-53-51.png)
+- Why care?
+  - ![](/assets/images/2022-04-30-15-54-00.png)
+- Example
+  - ![](/assets/images/2022-04-30-15-55-58.png)
+  - ![](/assets/images/2022-04-30-15-57-05.png)
+  - ![](/assets/images/2022-04-30-15-57-13.png)
+  - ![](/assets/images/2022-04-30-15-57-19.png)
+- Synchronizer Tokens
+  - ![](/assets/images/2022-04-30-15-58-14.png)
+- SameSite Cookies
+  - ![](/assets/images/2022-04-30-16-00-01.png)
+- ![](/assets/images/2022-04-30-16-01-44.png)
+- Key Takeaways
+  1. Cross Site Request Forgery is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated.
+  2. The risk presented by CSRF is a successful attack can force the user to transfer funds, change their email address, and so forth. If the victim is an admin, CSRF can compromise the entire web application.
+  3. Mitigate CSRF by adding an unpredictable CSRF token with each request, using framework-provided CSRF defenses, and consider an alternate CSRF Defense like requiring user interaction.
+
+--- 
+
+## Module 21: Insecure Communications
+- ![](/assets/images/2022-05-01-15-08-56.png)
+- Why care?
+  - ![](/assets/images/2022-05-01-15-09-03.png)
+- Networking sniffing
+  - ![](/assets/images/2022-05-01-15-09-29.png)
+    - Looks into the packet
+- Threat
+  - ![](/assets/images/2022-05-01-15-10-12.png)
+- Some solutions
+  - VPN
+  - TRansport Layer Security
+    - ![](/assets/images/2022-05-01-15-11-52.png)
+- Protocol choices through cipher suites from Mozilla
+  - ![](/assets/images/2022-05-01-15-14-53.png)
+- Key Takeaways
+  1. Insecure communications are the transmission of sensitive or private data in cleartext in a communication channel that can be sniffed by attackers.
+  2. The threat presented by insecure communications is the failure to adequately encrypt network traffic using strong cryptography resulting in customer data exposure and compromise.
+  3. Consider key exchange, authentication, bulk encryption, and message authentication code when determining if a communication's authentication and encryption are adequate.
+  4. When securing network communications, use TLS, serve all pages over HTTPS, use HTTP Strict Transport Security Header, and mark cookies as secure.
+
+---
+
+## Module 22: Social Engineering
+- ![](/assets/images/2022-05-01-15-19-46.png)
+  - Wolf in sheep's clothing
+- Why care?
+  - ![](/assets/images/2022-05-01-15-19-56.png)
+  - Developers are targeted, they have access to the source code and sys admin's
+- Goal of human attack
+  - Trick user into
+    - Clicking a link
+    - Telling a secret
+    - Open a (physical) door
+- The human factor
+  - ![](/assets/images/2022-05-01-15-22-51.png)
+- Social engineering vectors
+  - ![](/assets/images/2022-05-01-15-23-13.png)
+- Tactics
+  - ![](/assets/images/2022-05-01-15-23-31.png)
+- Social engineering process
+  - Gather info > establish rapport > Exploitation > Execution
+  - Gather info
+    - ![](/assets/images/2022-05-01-15-27-27.png)
+    - Salespeople like to share info
+  - Establish rapport
+    - ![](/assets/images/2022-05-01-15-27-56.png)
+  - Exploitation
+    - ![](/assets/images/2022-05-01-15-28-45.png)
+  - Execution
+    - ![](/assets/images/2022-05-01-15-28-58.png)
+- Key Takeaways
+  1. Human beings without knowledge of social engineering are potentially the weakest links in a system.
+  2. Social engineers utilize baiting, spear-phishing, pretexting, shoulder surfing, quid pro quo, phishing, tailgating, dumpster diving, and whaling.
+  3. The social engineering process includes gathering information, establishing rapport, exploitation, and execution.
+  4. The various scenarios considered included tailgating at the office, engineers receiving phishing emails, talking about confidential information in a public place, and trickery through impersonation.
+
+---
+
+## Module 23: AppSec in an Agile World, Part 1
+- Why care?
+  - ![](/assets/images/2022-05-01-15-37-18.png)
+- Agile basic terms
+  - ![](/assets/images/2022-05-01-15-37-51.png)
+  - ![](/assets/images/2022-05-01-15-38-23.png)
+- Agile Manifesto
+  - ![](/assets/images/2022-05-01-15-39-07.png)
+- Agile principles impacting security
+  - ![](/assets/images/2022-05-01-15-39-34.png)
+  - ![](/assets/images/2022-05-01-15-41-49.png)
+  - ![](/assets/images/2022-05-01-15-42-58.png)
+  - ![](/assets/images/2022-05-01-15-43-07.png)
+  - ![](/assets/images/2022-05-01-15-43-15.png)
+  - ![](/assets/images/2022-05-01-15-43-21.png)
+- Key Takeaways
+  1. Agile is the way of the future for software development, and building security in is the only avenue for real security success.
+  2. Each of the principles from the Agile Manifesto impact security, and must be considered to build a secure product or application.
+  3. The Agile methodology does not include security by default, but the phases of the secure development life cycle map to the stages of Agile.

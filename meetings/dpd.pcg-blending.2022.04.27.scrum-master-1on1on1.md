@@ -2,7 +2,7 @@
 id: bs8dpsir9r6a7ku6f2p5c39
 title: Dpd Pcg-Blending 2022 04 27 Scrum-Master-1on1on1
 desc: ''
-updated: 1651074225730
+updated: 1651238829455
 created: 1651071689966
 ---
 
