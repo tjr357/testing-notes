@@ -2,10 +2,12 @@
 id: 8syx875fcvbcz3vg0raf4s6
 title: Dpd Pcg-Blending 2022 05 03
 desc: ''
-updated: 1651587165592
+updated: 1651670476017
 created: 1651584656504
 ---
 
+## Previous Day's Meetings
+[[dpd.pcg-blending.2022.05.02.workbench-backlog-grooming]]
 
 ## Cards
 - POW-122
