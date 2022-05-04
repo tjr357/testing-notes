@@ -2,7 +2,7 @@
 id: vcltrwgk9i9hwv62t15a2ab
 title: Techx 2022 04 26 Meet-N-Greet
 desc: ''
-updated: 1650996128440
+updated: 1651519801567
 created: 1650994352995
 ---
 
@@ -13,5 +13,5 @@ created: 1650994352995
   - Successes and hurdles 
   - Reach out to @AngelaThorpe-Martin for help
 
-- [ ] Schedule meeting with Tamara for tomorrow (9-10, 10:30 - noon)
-- [ ] Get S-W background to Michele
+- [x] Schedule meeting with Tamara for tomorrow (9-10, 10:30 - noon)
+- [x] Get S-W background to Michele

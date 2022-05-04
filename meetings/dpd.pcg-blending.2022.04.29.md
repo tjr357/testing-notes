@@ -2,7 +2,7 @@
 id: ue3w2uzzagjnj8rwq7tzv25
 title: Dpd Pcg-Blending 2022 04 29
 desc: ''
-updated: 1651242637995
+updated: 1651519993859
 created: 1651238796894
 ---
 
@@ -61,7 +61,7 @@ created: 1651238796894
 #### Owner
 - @ScottStorm
 #### Notes
-- Mary Anne on vacation, Sam available at 2-3, meeting 
+- Marianne on vacation, Sam available at 2-3, meeting 
 ---
 #### Card Number
 - POW-124
@@ -73,15 +73,15 @@ created: 1651238796894
 #### Card Number
 - POW-128
 #### Owner
-- Paul Siason
+- @EarlSiason
 #### Notes
-- He started development access, needs access on laptop
+- He started development, needs Jira access on laptop
 ---
 ## Miscellaneous
 - TAG and TCS are losing some developers, @RamGummadala cannot guarantee when Workbench work will be done
   - Will get info next week
 - Set out the components for the Tasks for Workbench
-- [ ] Schedule an informal meeting, UX and Ram's team
+- [x] Schedule an informal meeting, UX and Ram's team
 - [ ] Follow-up lunch
 
 - [x] Schedule stand-ups 9:30

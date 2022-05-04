@@ -2,7 +2,7 @@
 id: u8y1cfg1uny4p06iddb11yq
 title: Training Security Journey Yellow Belt
 desc: ''
-updated: 1651434733318
+updated: 1651528889131
 created: 1650909577252
 ---
 
@@ -668,3 +668,72 @@ created: 1650909577252
   1. Agile is the way of the future for software development, and building security in is the only avenue for real security success.
   2. Each of the principles from the Agile Manifesto impact security, and must be considered to build a secure product or application.
   3. The Agile methodology does not include security by default, but the phases of the secure development life cycle map to the stages of Agile.
+
+---
+
+## Module 24: AppSec in an Agile World, Part 2
+- Security needs to be baked in but also include a "Security Focused" sprint every 3-6 sprints
+- ![](/assets/images/2022-05-02-17-36-22.png)
+- Planning
+  - Security requirements
+  - Security stories
+- Develop
+  - Threat modeling and mitigation
+  - Security code review
+  - Secure coding
+  - Static analysis
+- Test
+  - Dynamic analysis
+  - Vulnerability scanning
+- Release
+  - 3rd Party software
+  - PSIRT
+- Definition of done and security
+  - ![](/assets/images/2022-05-02-17-40-01.png)
+- Security focused sprint
+  - ![](/assets/images/2022-05-02-17-41-09.png)
+- Key Takeaways
+  1. Agile is the way of the future for software development, and building security in is the only avenue for real security success.
+  2. SDL for Agile focuses on security activities performed in standard and security sprints.
+  3. The security activities of a standard sprint include security stories, threat modeling, static analysis, security code review, dynamic analysis, vulnerability scanning, and 3rd party software.
+  4. Your Agile Definition of Done must include security activities.
+  5. The security activities of a security sprint include privacy assessment, product security baseline, attack surface reduction, and penetration testing.
+
+--- 
+
+## Module 25: AppSec in a DevOps World
+- ![](/assets/images/2022-05-02-17-48-45.png)
+- Why care?
+  - ![](/assets/images/2022-05-02-17-47-38.png)
+- All things continuous
+  - ![](/assets/images/2022-05-02-17-50-39.png)
+- DevSecOps
+  - ![](/assets/images/2022-05-02-17-54-07.png)
+- Key Takeaways
+  1. DevOps is a software development methodology focused on extreme code velocity.
+  2. All things continuous include integration, delivery, and deployment.
+  3. DevSecOps includes:
+
+---
+
+## Module 26: Security Behaviors in DevOps
+- ![](/assets/images/2022-05-02-17-59-03.png)
+- Embedding security habits
+  - ![](/assets/images/2022-05-02-17-59-37.png)
+- Security behaviors and habits
+  - ![](/assets/images/2022-05-02-18-00-11.png)
+  - ![](/assets/images/2022-05-02-18-00-21.png)
+  - ![](/assets/images/2022-05-02-18-00-26.png)
+  - ![](/assets/images/2022-05-02-18-00-33.png)
+  - ![](/assets/images/2022-05-02-18-00-39.png)
+  - ![](/assets/images/2022-05-02-18-00-46.png)
+  - ![](/assets/images/2022-05-02-18-00-55.png)
+  - ![](/assets/images/2022-05-02-18-01-01.png)
+- Key Takeaways
+  1. Build security in / start left
+  2. Uncover security design problems
+  3. React to automated security bugs
+  4. Detect security flaws in other’s code
+  5. Work towards eradication of 3rd party software vulns
+  6. Be mean to your code
+  7. Respond in a timely and organized fashion
