@@ -1,7 +1,7 @@
 ---
 id: 0cnjuccaloces8ny7abuo25
 title: Qa Java Core Demo
-desc: 'Dom demoing the QA Java Core'
+desc: Dom demoing the QA Java Core
 updated: 1647013256120
 created: 1647011289263
 ---

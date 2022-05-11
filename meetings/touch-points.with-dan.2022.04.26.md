@@ -1,8 +1,8 @@
 ---
 id: ddefi61pbpjwtgvoopk0ffr
-title: Touch Point with Dan
+title: '26'
 desc: ''
-updated: 1651694244611
+updated: 1652204691510
 created: 1649880697921
 ---
 
@@ -35,12 +35,4 @@ created: 1649880697921
 - Sync back with Tamara and Dan when getting back from vacation
 
 
-Break into new note
-- Start looking at things I would like to see changed
-- Take notes, review them at the end of the week, affinity mapping
-- Stay organized and the team organized
-- Build backlog and prioritize, make my own sprint goal
-- Weekly assessment with Dan, Dan to share
-- Has the team done any retros yet?????
-  - Discuss safe space, the team is going to benefit from this and this, I will inform you of the team's outcomes, enable the team and take direction, be encouraged to self-organize
-  - Make sure Chirayu sees me as an ally, over communicate, share topics that I've thought of
+

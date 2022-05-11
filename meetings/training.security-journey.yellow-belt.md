@@ -2,7 +2,7 @@
 id: u8y1cfg1uny4p06iddb11yq
 title: Training Security Journey Yellow Belt
 desc: ''
-updated: 1651528889131
+updated: 1651709681485
 created: 1650909577252
 ---
 
@@ -737,3 +737,429 @@ created: 1650909577252
   5. Work towards eradication of 3rd party software vulns
   6. Be mean to your code
   7. Respond in a timely and organized fashion
+
+---
+
+## Module 27: Security Requirements and User Stories
+- ![](/assets/images/2022-05-04-16-35-13.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-16-35-23.png)
+- Uses of security reqs
+  - ![](/assets/images/2022-05-04-16-41-58.png)
+- Positive impact
+  - ![](/assets/images/2022-05-04-16-42-10.png)
+- Source of security reqs
+  - ![](/assets/images/2022-05-04-16-42-27.png)
+- 3 phases
+  - ![](/assets/images/2022-05-04-16-42-49.png)
+- Reference Standard: ASVS
+  - ![](/assets/images/2022-05-04-16-43-18.png)
+- Key Takeaways
+  1. Security requirements are a statement of needed security functionality that ensures one of the many different security properties of software is being satisfied.
+  2. Security requirements positively impact development as a roadmap of product/application security improvements, a method to make security repeatable and standard, and as a clear definition of what developers and system architects /designers need to build.
+  3. Trusted sources for requirements include industry standards, applicable laws, and vulnerability history.
+
+---
+
+## Module 28: Threat Modeling Basics
+- ![](/assets/images/2022-05-04-16-57-24.png)
+- Basic application security hygiene
+  - ![](/assets/images/2022-05-04-16-57-46.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-16-58-54.png)
+- Benefits
+  - ![](/assets/images/2022-05-04-16-59-07.png)
+- We all do threat modeling, we just don't think about it
+- Security feedback loop
+  - ![](/assets/images/2022-05-04-17-00-36.png)
+- Threat modeleing in SDL
+  - ![](/assets/images/2022-05-04-17-00-54.png)
+- Process
+  - ![](/assets/images/2022-05-04-17-01-24.png)
+- A "good" threat model
+  - ![](/assets/images/2022-05-04-17-01-47.png)
+  - ![](/assets/images/2022-05-04-17-02-04.png)
+- Tools
+  - ![](/assets/images/2022-05-04-17-02-33.png)
+- Key Takeaways
+  1. Threat modeling is an approach for analyzing the design of a feature, application, or product, and eliminating potential security flaws.
+  2. Engineers and testers need threat modeling to improve product security, and threat modeling is a skill they already have.
+  3. The benefits of threat modeling are building security in, identifying security problems early, and encouraging the security mindset.
+  4. The threat modeling process includes scope, draw, analyze, mitigate, and document.
+
+--- 
+
+## Module 29: Threat Modeling Process
+- Why care?
+  - ![](/assets/images/2022-05-04-17-55-29.png)
+- 4 questions to ask
+  - ![](/assets/images/2022-05-04-17-55-46.png)
+- The process
+  - ![](/assets/images/2022-05-04-17-56-18.png)
+  - Focus at the Feature/Module level to begin
+- Attack Surface Analysis
+  - ![](/assets/images/2022-05-04-17-57-49.png)
+- Step 2: Draw a Data Flow Diagram (DFD)
+  - ![](/assets/images/2022-05-04-17-58-32.png)
+  - ![](/assets/images/2022-05-04-17-59-07.png)
+- Step 3: Analyze the DFD
+  - ![](/assets/images/2022-05-04-17-59-34.png)
+  - STRIDE
+  - Threat prioritization
+    - ![](/assets/images/2022-05-04-18-01-09.png)
+- Step 4: Mitigate
+  - ![](/assets/images/2022-05-04-18-01-27.png)
+- Step 5: Document
+  - ![](/assets/images/2022-05-04-18-03-05.png)
+- Key Takeaways
+  1. The four questions of threat modeling are “what are we building”, “what can go wrong”, “what are we going to do about that”, and “did we do a good enough job”.
+  2. The threat modeling process is light weight, including:
+     1. ▶ Step 1: Scope
+     2. ▶ Step 2: Draw
+     3. ▶ Step 3: Analyze
+     4. ▶ Step 4: Mitigate
+     5. ▶ Step 5: Document
+  3. Use STRIDE to enumerate threats in a DFD and apply compensating controls to mitigate threats.
+
+--- 
+
+## Module 30: Threat Modeling Examples
+- Why care?
+  - ![](/assets/images/2022-05-04-18-07-26.png)
+- Never use telnet for anything
+- Insecure example with telnet
+  - ![](/assets/images/2022-05-04-18-07-57.png)
+  - STRIDE
+    - ![](/assets/images/2022-05-04-18-08-09.png)
+  - Threats
+    - ![](/assets/images/2022-05-04-18-08-21.png)
+  - Mitigations
+    - ![](/assets/images/2022-05-04-18-08-49.png)
+  - A web app
+    - ![](/assets/images/2022-05-04-18-09-27.png)
+  - Client-side JS
+    - ![](/assets/images/2022-05-04-18-09-38.png)
+  - STRIDE
+    - ![](/assets/images/2022-05-04-18-10-12.png)
+    - User could disable JS on their side
+    - Mitigate: perform auth on the server-side; move trust boundary
+  - Library Web app: authentication
+    - ![](/assets/images/2022-05-04-18-11-08.png)
+    - STRIDE
+      - ![](/assets/images/2022-05-04-18-11-19.png)
+    - Threats
+      - ![](/assets/images/2022-05-04-18-11-35.png)
+    - Mitigations
+      - ![](/assets/images/2022-05-04-18-12-14.png)
+- Key Takeaways
+  1. Threat modeling examples provide you a working demonstration of how to implement the threat modeling process.
+  2. The data flow diagram for the telnet, client-side, and library threat models is the collection point for how a feature or application works.
+  3. STRIDE is applied to the data flow diagram as a starting point for the threats that exist.
+  4. Documented threats require mitigations; mitigations are the changes to the design that improve security.
+
+---
+
+## Module 31: Static Application Security Testing (SAST)
+- ![](/assets/images/2022-05-04-18-25-48.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-18-25-55.png)
+- Focus
+  - ![](/assets/images/2022-05-04-18-26-09.png)
+- Benefits
+  - ![](/assets/images/2022-05-04-18-27-10.png)
+- False positives and negatives
+  - ![](/assets/images/2022-05-04-18-27-29.png)
+  - No tools are perfect!
+- Traits
+  - ![](/assets/images/2022-05-04-18-27-45.png)
+  - Whitebox, access to source code
+- How SAST works
+  - ![](/assets/images/2022-05-04-18-31-08.png)
+- Classes of SAST findings
+  - ![](/assets/images/2022-05-04-18-31-53.png)
+- Use cases
+  - ![](/assets/images/2022-05-04-18-32-06.png)
+- Developer workflow
+  - ![](/assets/images/2022-05-04-18-32-20.png)
+- SAST offerings
+  - ![](/assets/images/2022-05-04-18-32-38.png)
+- Key Takeaways
+  1. No single tool provides an application security silver bullet; choose a suite of tools that best meets your needs.
+  2. SAST is static application security testing; a set of technologies that analyze application source code, byte code for security vulnerabilities.
+  3. The use cases for SAST are One off, Nightly, CI/CD and Desktop / IDE integrated
+  4. The SAST workflow for a developer includes Scan, Triage, Fix and Document.
+  5. There are multiple options in the open source and commercial space for SAST tools.
+
+---
+
+## Module 32: Dynamic Application Security Testing
+- ![](/assets/images/2022-05-04-18-37-33.png)
+- Fuzzing
+  - ![](/assets/images/2022-05-04-18-37-41.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-18-37-49.png)
+- Focus of DAST
+  - ![](/assets/images/2022-05-04-18-38-26.png)
+- Focus of fuzzing
+  - ![](/assets/images/2022-05-04-18-38-48.png)
+- DAST and SDL
+  - ![](/assets/images/2022-05-04-18-39-05.png)
+- Benefits
+  - ![](/assets/images/2022-05-04-18-39-17.png)
+- Traits
+  - ![](/assets/images/2022-05-04-18-39-31.png)
+- How DAST works
+  - ![](/assets/images/2022-05-04-18-39-52.png)
+- Classes of DAST findings
+  - ![](/assets/images/2022-05-04-18-41-16.png)
+- Classes of fuzz findings
+  - ![](/assets/images/2022-05-04-18-41-32.png)
+- Use cases
+  - ![](/assets/images/2022-05-04-18-41-46.png)
+- Developer workflow
+  - ![](/assets/images/2022-05-04-18-42-02.png)
+- DAST offerings
+  - ![](/assets/images/2022-05-04-18-42-19.png)
+- Fuzzing offerings
+  - ![](/assets/images/2022-05-04-18-42-35.png)
+- Key Takeaways
+  1. No single tool provides an application security silver bullet; choose a suite of tools that best meets your needs.
+  2. DAST is dynamic application security testing; a set of technologies that detect security vulnerabilities in an application in its running state.
+  3. Fuzzing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs.
+  4. The use cases for DAST/Fuzz are One off, Nightly, and CI/CD.
+  5. The DAST/Fuzz workflow for a developer is Define, Execute, Triage, Remediate, and Rescan.
+  6. There are multiple options in the open source and commercial space for DAST/Fuzz tools.
+
+---
+
+## Module 33: Next Gen AppSec Tools
+- ![](/assets/images/2022-05-04-19-19-03.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-19-18-52.png)
+- IAST
+  - ![](/assets/images/2022-05-04-19-19-34.png)
+  - Focus
+    - Web apps
+  - Agent that runs in app
+    - ![](/assets/images/2022-05-04-19-20-06.png)
+- RASP
+  - ![](/assets/images/2022-05-04-19-20-21.png)
+  - Focus
+    - ![](/assets/images/2022-05-04-19-20-37.png)
+  - ![](/assets/images/2022-05-04-19-20-48.png)
+    - Can block attacks and deny
+- Next gen and SDL
+  - ![](/assets/images/2022-05-04-19-21-03.png)
+- SCA
+  - ![](/assets/images/2022-05-04-19-21-42.png)
+  - Focus
+    - ![](/assets/images/2022-05-04-19-21-53.png)
+  - ![](/assets/images/2022-05-04-19-22-01.png)
+- CWPP
+  - ![](/assets/images/2022-05-04-19-22-46.png)
+  - Focus
+    - ![](/assets/images/2022-05-04-19-22-57.png)
+  - ![](/assets/images/2022-05-04-19-23-06.png)
+- Next Gen and SDL
+  - ![](/assets/images/2022-05-04-19-23-44.png)
+- IAST & RASP offerings
+  - ![](/assets/images/2022-05-04-19-24-12.png)
+- SCA & CWPP
+  - ![](/assets/images/2022-05-04-19-24-34.png)
+- Key Takeaways
+  1. IAST is interactive application security testing, and is used to discover vulnerabilities from the inside of the application in test.
+  2. RASP is runtime application self protection, and is used to detect and block vulnerabilities from the inside of the application in production.
+  3. SCA is software composition analysis, and is used to detect known vulnerable components so they can be upgraded or replaced. CWPP is a set of technologies that secure virtual machines, containers and serverless workloads in public and private clouds. The next generation of AppSec tools provide new capabilities, and should be examined for inclusion in your program.
+
+---
+
+## Module 34: Vulnerability Scanning
+- ![](/assets/images/2022-05-04-19-31-11.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-19-31-25.png)
+- Focus
+  - ![](/assets/images/2022-05-04-19-31-37.png)
+- In the SDL
+  - ![](/assets/images/2022-05-04-19-31-53.png)
+- Benefits
+  - ![](/assets/images/2022-05-04-19-33-58.png)
+- Traits
+  - ![](/assets/images/2022-05-04-19-35-21.png)
+  - A credentialed vulnerability scan means you tell the vulnerability scanner how you log in to the system. By giving it an actual username and password that works, when it does the scan, it not only looks at the system from the outside, it logs into the system and scans it from the inside to see if there are any problems.
+- Process
+  - ![](/assets/images/2022-05-04-19-36-05.png)
+- How scanning works
+  - ![](/assets/images/2022-05-04-19-38-10.png)
+- Classes of findings
+  - ![](/assets/images/2022-05-04-19-38-31.png)
+- Workflow
+  - ![](/assets/images/2022-05-04-19-39-38.png)
+- Offerings
+  - ![](/assets/images/2022-05-04-19-39-49.png)
+- Key Takeaways
+  1. No single tool provides an application security silver bullet; choose a suite of tools that best meets your needs.
+  2. Vulnerability scanning is a comprehensive evaluation of a system for exposed vulnerabilities without their direct exploitation.
+  3. A vulnerability scanner checks if the remote host is alive, and then performs firewall detection, TCP / UDP Port Scan, OS Detection, TCP / UDP Service Discovery, and finally Vulnerability assessment.
+  4. Vulnerability scans are performed as one-offs, against nightly builds, and integrated into CI/CD.
+  5. A developer uses a vulnerability scanner by scan definition, execution, report, triage, remediate of issues, and rescan.
+
+---
+
+## Module 35: Pen Testing & Bug Bounty
+- Pen Testing
+  - ![](/assets/images/2022-05-04-19-51-28.png)
+- Bug bounty
+  - ![](/assets/images/2022-05-04-19-51-38.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-19-51-54.png)
+- Focus
+  - ![](/assets/images/2022-05-04-19-52-11.png)
+- In the SDL
+  - ![](/assets/images/2022-05-04-19-53-05.png)
+- Benefits
+  - ![](/assets/images/2022-05-04-19-53-20.png)
+- How pen testing work
+  - ![](/assets/images/2022-05-04-19-53-42.png)
+  - Documentation is very important
+- Process
+  - ![](/assets/images/2022-05-04-19-54-53.png)
+- How to choose a pen testing company
+  - ![](/assets/images/2022-05-04-19-55-50.png)
+- How bug bounty works
+  - ![](/assets/images/2022-05-04-19-56-11.png)
+- Basics of bug bounty
+  - ![](/assets/images/2022-05-04-19-56-56.png)
+- Process
+  - ![](/assets/images/2022-05-04-19-57-30.png)
+- Offerings
+  - ![](/assets/images/2022-05-04-19-57-47.png)
+- Key Takeaways
+  1. Penetration testing is an authorized simulated attack on a computer system, performed to evaluate the security of the system.
+  2. Bug bounty is a crowdsourcing initiative that rewards individuals for discovering and reporting software bugs.
+  3. The benefits of pen testing and bug bounty are they find missed vulnerabilities, test internal response, and augment internal efforts with outside experts.
+  4. The pen testing process includes evaluate and choose a partner, scope and goal setting, discovery, exploitation, and documentation.
+  5. The bug bounty process includes establish goals, set scope, engage participants, review and prioritize submissions, pay for results, and fix.
+
+--- 
+
+## Module 36: Secure Code Review, Part 1
+- ![](/assets/images/2022-05-04-20-02-03.png)
+- Why care?
+  - ![](/assets/images/2022-05-04-20-02-22.png)
+- Purpose
+  - ![](/assets/images/2022-05-04-20-03-00.png)
+- Process
+  - ![](/assets/images/2022-05-04-20-03-16.png)
+- Checklist
+  - ![](/assets/images/2022-05-04-20-03-52.png)
+  - It's important to remember the question we're asking here is what you, as a developer, need to ask of the code you're reviewing at the moment. Take the question, and then look at the code and say, "How do I answer that question?" If you find enough evidence that the question is true, and there are ways to achieve it, you're good; it's not a finding.
+- ![](/assets/images/2022-05-04-20-05-51.png)
+- ![](/assets/images/2022-05-04-20-05-57.png)
+- ![](/assets/images/2022-05-04-20-06-04.png)
+- ![](/assets/images/2022-05-04-20-06-10.png)
+- Key Takeaways
+  1. Secure code review is an examination of source code intended to find mistakes overlooked in development, improving the overall quality of software.
+  2. The purpose of a secure code review is to refactor, detect and fix errors, and expose vulnerabilities.
+  3. The process for performing secure code review includes analyze, review, triage, remediate, review again, and close.
+  4. Ask security questions each time you review code; consider input validation, server side validation, output encoding, and default/hard coded credentials.
+
+---
+
+## Module 37: Secure Code Review Part 2
+- Why care?
+  - ![](/assets/images/2022-05-04-20-14-06.png)
+  - Secure code review is all about discovering potential vulnerabilities in the code we write. There will be problems with security in the code we write, the code we review. We go through this process to try to eliminate those as early as possible.
+
+We're setting up the process for outlining a blueprint of the types of questions you need to be asking about the code that you're reviewing for security purposes. As a developer, ask these questions about your code. Does my code do this? If it doesn't, then there's a problem.
+
+
+Are all SQL queries parameterized?
+
+I'm looking at a particular snippet of code; it's making a database call, and I need to examine that code to conclude if they are using parameters in that SQL query. Are they using string concatenation? If I see string concatenation, that means there's potential for SQL injection, and then that's a high priority finding.
+
+
+We have a series of questions related to user management and authentication. Question number one, is authentication implemented in a central way that applies to all pages?
+
+I'm looking at a snippet of code, and I'm looking to determine if authentication is being performed. Is it being done in a centralized way? The reason I'm looking for that is if authentication is being implemented differently for different parts of an application, then that tells me I need to take a closer look at how they're doing each of those individual ways. There could very easily be problems in the first one and no problems in the second one. We're calling for a standard approach because then you have one implementation, then I can spend a lot of time reviewing the code for that one implementation, and know that it's used across the entire application.
+
+A second question related to user management and authentication is, what functionality can be accessed without authentication?
+
+As I'm looking at this piece of code, I'm looking to see if it requires authentication. If it requires authentication and doesn't, that's a big deal; we want to get that fixed. I'm trying to determine if authentication is needed for the piece of code I'm looking at.
+
+The third question, are security checks placed before processing inputs?
+
+We want to ensure we're doing input validation even on authentication data because an attack can be disguised as a legitimate input. We're looking at this code to determine if input validation is done first, and then authentication checks are being processed, or is it reversed? If they're making authentication decisions first, we want to ensure that input validation is applied earlier.
+
+Our final question related to this topic, if passwords are operated upon in this section of code, is a password complexity check enforced on the password?
+
+If this application or product requires password complexity, it must be checked in the authentication routine. We want to look at that code to see if it is enforcing the complexity the way we expect it to according to our organizational policy.
+
+
+Now we come to session management. The first question we want to ask is, are sessions handled correctly and securely?
+
+We're looking to see, first of all, does the application have sessions? Often, we get session management from whatever framework, whatever language we're relying upon, but not necessarily all the time. We have to ask that; it seems like a simple question. But we do have to say, is there an approach for sessions? Is it being done securely? Some of the flags that can be set for cookies we want to ensure are done. Those are the types of things we're doing when we do that overarching view of session management. If we find that some of those things are not being done, those will be findings.
+
+The obvious next question, is session data validated?
+
+We've seen lots of times where applications use sessions, but they never check them. They're going through all the trouble of creating a session ID value, and then that session ID gets sent back to the server, then they determine if it's valid or not. That's something I'm looking for when I'm looking at session management code.
+
+Finally, are sessions stored in a secure manner?
+
+That's another piece we need to look at from a session management perspective. The session ID is very valuable, because if an attacker gets access to that session ID, they may get into the application. We want to see how those things are being stored on the server-side. If they're being stored on the client-side, we want to take a closer look to determine if they're being stored, should they be stored, or where they are being stored? And if they are, is it truly secure?
+
+With session management, we're looking at how session sharing is done. How is the system going to relate to multiple users logging in at the same time? Or the same user logging in multiple times across different devices? We're looking to see if the application is passing session parameters and URLs, which is bad because they can get recorded at other places we don't intend. Are they using unencrypted session keys? Weak session IDs are a problem. We want to look at how they're generating their session IDs to say, if you have a session ID at one, then that tells me the next one's probably going to be two, which would be bad because I can guess the session ID you're using along the way.
+
+
+Let's move on to authorization. The first question is, are authorization checks granular (page and directory level)? And for all resources?
+
+This gets back to the same issue we talked about with authentication. Is there a centralized approach to authorization? Is it being done granularly at the page, at the directory level? Is it being applied to all resources? We're coming back around to, is it central? If not, we need to look at all the schemes used for authorization throughout the code.
+
+The next question is, is authorization based on clearly defined roles?
+
+I'm looking at the code; I'm looking to see if they're doing role checks and if it's being done predictably and consistently. Are there 17 different roles defined in this small block of 100 lines of code? If there are, that's probably an issue, and we probably need to reevaluate. Things might be working correctly, but there's probably a bigger challenge in how they've approached the architecture.
+
+Next, is there execution stopped/terminated after invalid requests, i.e., when the authentication/authorization check fails?
+
+We're going through, and we're saying, "what happens in this code block if authorization does fail?" The determination is, "Hey, you don't have access." We're tracing to ensure that there isn't some potential back door where somebody could drop through an authorization check and have access when they shouldn't have it.
+
+The next question, are the checks correctly implemented?
+
+In our block of code, when there's an authorization check, we're going to look at that piece of code to say, "Hey, are they doing what we expected them to do?" Are they checking against the policy? This is how we do authorization for our application and our product.
+
+Our final question related to authorization is, is the check applied on all the required files and folders?
+
+This is an authorization from a file-level access perspective, something your application is controlling, whether one user can store files that only they have access to. We have to check the code to ensure there isn't some scenario where someone could access a file they're not supposed to.
+
+
+Next up is cryptography. Our first question is, is the password stored in an encrypted format? With authentication and cryptography working together, when we have passwords, we have to store them securely. We're looking to see how the application or product is storing the representation of the password. We're looking to confirm they're using a password hash, the proper salt, randomness, and the right algorithm to hash the stored passwords.
+
+We want to ask the same question of database credentials, so are database credentials stored in an encrypted format? With this, it may mean we're looking at configuration files that are part of the application or product that we're doing the code review on. Because we're saying secure code review, that also means we can go into the configuration files. They're part of the code review process. We want to confirm that there are no database credentials stored in plain text anymore.
+
+Now we get to the movement of data. Is the data sent on encrypted channels? That's going to come out in the code. There's going to be code to send data, whether it's the result of a request coming into a web application or whether it's a product communicating with a client or another version of the product somewhere. Data will be sent; we're looking to see in the code if we're doing encryption on the information sent from point A to point B.
+
+When we get to PII and sensitive information, is that sent over the network in encrypted form? Whenever I look at a block of code, I'm always looking for personally identifiable information that could be in play, because if I see that, that means we have to be careful. We have to dial in and focus on this block of code because PII ultimately leads to data breaches if there are vulnerabilities in that code. It means we have to be more on guard when we see that type of data processed. The other thing is to verify the data is sent in an encrypted form.
+
+Next, we want to ask, are the application's cryptographic functions the most recent versions of the protocols? If you see DES encryption, which is ancient, if you see MD5 as a hash, that is a gigantic finding. That's the type of thing we want to answer with this question, are there old versions of protocols that need to get ripped out that are relied upon in this block of code?
+
+Finally, are plain text secrets stored in memory for extended periods of time? We're using passwords or keys in our systems. The question is, is this block of code using and storing that value and leaving it in memory? Or does it use it and then dispose of it, so that it doesn't even exist in memory? We can do a lot of really secure things, but if we leave the keys on the counter, and the house is unlocked---someone's going to drive off with your car.
+
+
+We now come to logging and error handling. Are logs logging personal information, passwords, or other sensitive information? When I do a code review, I always look for how logging is performed. Then I start to scan all the created logs because a lot of times, as developers, we'll leave debug logs in for our benefit, and we don't always remember to delete them. When I'm looking at someone else's code, I'm always on guard to look for places where personal information is logged. Are there log statements that don't even need to be there anymore? I'm a firm believer in, keep it as simple as possible. If we don't need all these extra debug things there, let's take them out when we're done doing our debugging.
+
+Next, do audit logs log connection attempts, both successful and failures? I'm looking for the way the system application product relates to individual connections. Suppose the code is processing a connection request coming inbound. Is it properly auditing what's happening, both from a positive perspective when somebody was supposed to get in, and from a negative perspective, when someone wasn't supposed to get access?
+
+Our third and final question, is the password disclosed to the user or written to a file, logs, or console? With this one, we're paying attention to when we see a password. We want to check whether the password is never written out to the user directly in a plain text, unscrambled format. That could be an authentication page, where we want to make sure that there are stars, for example, in place of the password. We want to make sure there's never a case where we can give the user their password because it's stored in our system. If we ever see that in code, that is a gigantic finding. We never want to print out a password for somebody into their view. From a log file, console perspective, people will accidentally write a password as part of a log record. That's a big no-no, and if we see that, we need to get that fixed fast.
+
+
+We've talked a little bit about configuration files, but the key question we want to ask about security configuration is, is there any sensitive data in configuration files? We mentioned earlier that configuration files are part of our code. In this step, you should be searching the configuration files for any sensitive information like passwords, database strings, or keys; things that you can see printed out that would be stored in the source code control system. When they're in the source code control system with sensitive information included, anybody who has access to that code will see the actual values, such as a password.
+
+
+Race conditions are where you have two threads trying to access the same variable or the same piece of data. They can get into some security challenges when it isn't predictable as far as which thread gets to update the piece of information, and if things aren't being done correctly. This can impact C and C++; it can also impact Java and C# if you get into the nitty-gritty details of dealing with threads. Most of the other languages will obstruct you away from that, which is a nice thing.
+
+The second one I want to consider here is buffer overruns specific to the world of C and C++. Buffer overflows and buffer overruns result from not doing proper input validation when you take a piece of data from the user or the network. The guidance here is you want, in your C and C++ context, to be looking at where data is coming from and ensuring it's properly validated. Use routines in your program, which will not allow you to put too much data into a buffer, causing the buffer overrun.
+
+One of the interesting takeaways from the secure code review modules is just how much there is to remember, which could feel intimidating. That's why we created the checklist. If any of these questions are not asked and answered securely, it introduces vulnerabilities. The checklist is the solution to this problem because, as a developer, you don't want to remember all of these things, but you should understand what they are. I want the checklist to go through and ensure that I connect with each of them, check it off, and make sure there isn't an actual problem in the code I'm reviewing.
+
+Key Takeaways
+Ask security questions each time you review code.
+Consider: parameterized SQL queries, user management and authentication, session management, authorization, cryptography, logging/error handling, and security configuration.
