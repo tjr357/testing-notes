@@ -7,7 +7,7 @@ created: 1651257062514
 ---
 
 ## Previous meeting
-[[meet.2022.04.26.weekly-1on1]]
+[[touchpoints.with-tamara.2022.04.26]]
 
 ## Attendees
 - @Tamara

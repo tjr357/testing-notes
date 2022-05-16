@@ -1,11 +1,14 @@
 ---
 id: 5i6h0scoqfpi8dt8v2khon6
-title: Weekly 1on1
+title: '04'
 desc: ''
-updated: 1651685587516
+updated: 1652453003402
 created: 1651683796901
 ---
 _Edit the [[dendron.templates.meet]] to change this template generated for Dendron Meeting Notes._
+
+## Previous Meeting
+[[touchpoints.with-tamara.2022.04.29]]
 
 ## Attendees
 @Tamara 
