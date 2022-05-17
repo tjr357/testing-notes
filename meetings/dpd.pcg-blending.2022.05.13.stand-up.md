@@ -2,9 +2,12 @@
 id: j1ib9j78zghqr26ogjsu1qq
 title: Stand Up
 desc: ''
-updated: 1652456192999
+updated: 1652818538910
 created: 1652287337838
 ---
+
+### Previous Stand-up
+[[dpd.pcg-blending.2022.05.10.stand-up]]
 
 ### Notes
 - Go over design review on Monday during the Stand-up time
@@ -40,4 +43,4 @@ created: 1652287337838
 - Do we need another column for "In-Testing"
 
 ### To Do
-- [ ] Let Sam know to be there on Monday morning
+- [x] Let Sam know to be there on Monday morning
