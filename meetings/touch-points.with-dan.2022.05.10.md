@@ -2,12 +2,14 @@
 id: 2yuutt64w69558tpc21fooc
 title: '10'
 desc: ''
-updated: 1652207526249
+updated: 1652898708275
 created: 1652204758310
 ---
 
 ### Previous Meeting
 [[touch-points.with-dan.2022.05.04]]
+
+@DanRaczka
 
 ### Notes
 - Really think about the **patterns** of what I want to see and what I don't want to see
@@ -23,3 +25,5 @@ created: 1652204758310
 
 ### Next Meeting
 - Discuss the "Scrum Master Team Health Register" spreadsheet
+
+[[touch-points.with-dan.2022.05.18]]

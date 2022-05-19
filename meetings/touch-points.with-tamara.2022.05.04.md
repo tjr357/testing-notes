@@ -8,7 +8,7 @@ created: 1651683796901
 _Edit the [[dendron.templates.meet]] to change this template generated for Dendron Meeting Notes._
 
 ## Previous Meeting
-[[touchpoints.with-tamara.2022.04.29]]
+[[touch-points.with-tamara.2022.04.29]]
 
 ## Attendees
 @Tamara 
