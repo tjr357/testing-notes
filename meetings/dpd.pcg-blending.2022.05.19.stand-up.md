@@ -1,8 +1,8 @@
 ---
 id: wrs3dqjbwq8b5qf84b9ipwv
-title: Stand Up
+title: May 19 Stand Up
 desc: ''
-updated: 1652971570850
+updated: 1653053105520
 created: 1652966835373
 ---
 
@@ -22,3 +22,6 @@ created: 1652966835373
   - Background in Product Development, started out at Progressive and then consulting
   - Software development and architecture
   - Wants us to feel comfortable reaching out
+
+### Next Meeting
+[[dpd.pcg-blending.2022.05.20.stand-up]]

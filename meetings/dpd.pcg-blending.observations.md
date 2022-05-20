@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1652808041627
+updated: 1653075142516
 created: 1652472310526
 ---
 
@@ -36,3 +36,4 @@ Advice from Dan
 - As trust is being built, as the team makes decisions they think the PO will like, is that okay to share those with the PO later? And do we put a clause in that states the PO trusts us to make decisions and when something comes up that needs changed then it needs to be documented, discussed and prioritized just like all other work
 - It was noted that it would have been good to have PO in the "QC Page MVP UI Design" meeting
   - However they were not invited
+- Work with Hieu on deflecting PO's "tasks" to Scott
