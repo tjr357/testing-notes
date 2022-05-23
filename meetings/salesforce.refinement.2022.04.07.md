@@ -14,7 +14,7 @@ created: 1649340207819
 #### Card Number
 - S
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Will be ready for testing in QA 
 - Aubrey will be discussing the templates with Andy
@@ -22,35 +22,35 @@ created: 1649340207819
 #### Card Number
 - DE
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - On the PO&T team 
 ---
 #### Card Number
 - S67500
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 -  
 ---
 #### Card Number
 - S67501
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Will be ready for testing
 ---
 #### Card Number
 - S67499
 #### Owner
-- @Sarat
+- @people.Sarat
 #### Notes
 - 
 ---
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Aubrey
   > This is clunky, the screen is greyed out, they have to go through 3 screens, start over
@@ -58,4 +58,4 @@ created: 1649340207819
 - We need to test this on mobile too 
 ---
 ## Miscellaneous
-- Announcement: @Austin, leaving the company, starting on Monday
+- Announcement: @people.Austin, leaving the company, starting on Monday

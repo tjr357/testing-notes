@@ -6,7 +6,7 @@ updated: 1653071506277
 created: 1653069688875
 ---
 ### People
-- @ChirayuPoundarik
+- @people.ChirayuPoundarik
 
 ### Previous Meeting
 [[touch-points.with-chirayu.2022.04.13]]

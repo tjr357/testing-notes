@@ -11,7 +11,7 @@ created: 1647975941097
 ### Metrics
 - Let's not focus on how many tests, but how many people *are* writing tests
   - Shows that people can use the tool AND they can write a test
-    - @ChrisJohnson
+    - @people.ChrisJohnson
     > Nothing stops them from doing more  
     > The more people use the tool, the more in-PI automation can be done
 
@@ -19,6 +19,6 @@ created: 1647975941097
 - We don't want others to be writing tests all day
 - If it's a total number of tests that are being asked for, then we just show them how many tests we have
 - "Information is power and with great power comes great responsibility"
-- [x] ask @Sarat and @Tao what goal(s) they would like to see
+- [x] ask @people.Sarat and @people.Tao what goal(s) they would like to see
 
 [[salesforce.provar.implementation-touchpoint.2022.03.29]]

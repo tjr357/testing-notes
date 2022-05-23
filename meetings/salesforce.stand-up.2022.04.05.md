@@ -13,21 +13,21 @@ created: 1649165401508
 #### Card Number
 - 
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - This is ready for testing and ready in QA 
 ---
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - 
 ---
 #### Card Number
 - S67500
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - The email template is correct, the business is happy with what we have right now
 - There is no development work needed? 
@@ -35,7 +35,7 @@ created: 1649165401508
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Need to move to monitoring, we're waiting for the business to accept
 - Tao hasn't worked on this for a week
@@ -43,7 +43,7 @@ created: 1649165401508
 #### Card Number
 - S67501
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Will be brought into Doing
 ---

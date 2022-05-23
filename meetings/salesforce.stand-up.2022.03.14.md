@@ -13,21 +13,21 @@ created: 1647263921603
 #### Card Number
 - S67325
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - In Doing 
 ---
 #### Card Number
 - S67168
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - [x] Meet with Kim 
 ---
 #### Card Number
 - S67495
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - [ ] Ready for testing 
 ---
@@ -46,7 +46,7 @@ created: 1647263921603
 -
 ---
 ## Miscellaneous
-- @Chip:
+- @people.Chip:
     - Will meeting with Ashley, proposing that the Owner of the card
         - Owner - should always remain as the Developer
         - Pair 1 - Whoever is working on the card at the time

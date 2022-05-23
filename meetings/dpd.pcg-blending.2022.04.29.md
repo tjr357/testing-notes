@@ -13,28 +13,28 @@ created: 1651238796894
 #### Card Number
 - POW-121
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - 
 ---
 #### Card Number
 - POW-34
 #### Owner
-- @MelClifford
+- @people.MelClifford
 #### Notes
 - Working session with Suresh and Integration and Power Apps team 2-3
 ---
 #### Card Number
 - POW-71
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - Should be completed by eod, testing to begin Monday
 ---
 #### Card Number
 - POW-118
 #### Owner
--  @SureshThota
+-  @people.SureshThota
 #### Notes
 - Should be migrated to QA with OSB
 - Ram said the developer said the Dell Boomi will be ready by eod
@@ -42,7 +42,7 @@ created: 1651238796894
 #### Card Number
 - POW-90
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - All options require PoCs
   - UI options
@@ -52,33 +52,33 @@ created: 1651238796894
 #### Card Number
 - POW-120
 #### Owner
-- @WaltEbertz
+- @people.WaltEbertz
 #### Notes
 - 
 ---
 #### Card Number
 - POW-122
 #### Owner
-- @ScottStorm
+- @people.ScottStorm
 #### Notes
 - Marianne on vacation, Sam available at 2-3, meeting 
 ---
 #### Card Number
 - POW-124
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - Will add users to QA app
 ---
 #### Card Number
 - POW-128
 #### Owner
-- @EarlSiason
+- @people.EarlSiason
 #### Notes
 - He started development, needs Jira access on laptop
 ---
 ## Miscellaneous
-- TAG and TCS are losing some developers, @RamGummadala cannot guarantee when Workbench work will be done
+- TAG and TCS are losing some developers, @people.RamGummadala cannot guarantee when Workbench work will be done
   - Will get info next week
 - Set out the components for the Tasks for Workbench
 - [x] Schedule an informal meeting, UX and Ram's team

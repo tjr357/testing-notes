@@ -15,7 +15,7 @@ created: 1647871391194
 ### Card Number
 - S67499 
 ### Notes
-- @Kate will be adding the technical notes to the AC's
+- @people.Kate will be adding the technical notes to the AC's
 
 ---
 ### Card Number

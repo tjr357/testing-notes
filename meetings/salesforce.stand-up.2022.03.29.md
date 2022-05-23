@@ -13,14 +13,14 @@ created: 1648560346763
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Will be ready after S67496 is accepted 
 ---
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - We need info from Aubrey and then check with Terry or Andy (EMEA)
 ---

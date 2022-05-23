@@ -7,9 +7,9 @@ created: 1651087930524
 ---
 
 ## People
-@Tamara  
-@JessicaWieber
-@MicheleBrearley
+@people.Tamara  
+@people.JessicaWieber
+@people.MicheleBrearley
 
 - Post Mortem/After action reviews vs. Retro
 

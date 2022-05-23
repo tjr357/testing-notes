@@ -7,7 +7,7 @@ created: 1650982509997
 ---
 
 ## Attendees
-@Tamara
+@people.Tamara
 
 ## Goals
 
@@ -44,7 +44,7 @@ created: 1650982509997
 - Share feedback and be an advocate for her
 - She learned some of these things through executive training at Progressive
 - 
-- @ChirayuPoundarik does not fully understand what an SM is, what the role is, what the timing is
+- @people.ChirayuPoundarik does not fully understand what an SM is, what the role is, what the timing is
   - Tamara did let him know about my plan
   - 1:1:1 meeting to show Chirayu my training
     - She will only show what I feel is comfortable

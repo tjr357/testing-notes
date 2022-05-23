@@ -7,19 +7,19 @@ created: 1646333543710
 ---
 
 - Courses have been repetitive, mostly in PluralSight and about 20%
-- @Daanial 43% completed
+- @people.Daanial 43% completed
     - Communication skills, how to present, talk, collaborate have been helpful
     - Sometimes common sense, but not always practice it 
-- @Fahim 37%
-- @Khany 62%
-- Wait until @Fahim comes back to do experiential learning, March 13/14
+- @people.Fahim 37%
+- @people.Khany 62%
+- Wait until @people.Fahim comes back to do experiential learning, March 13/14
 
-- @Daanial, more flexible, stay a bit late or come in a little early 
-- @Fahim, has 2 little ones, would need to discuss with him 
+- @people.Daanial, more flexible, stay a bit late or come in a little early 
+- @people.Fahim, has 2 little ones, would need to discuss with him 
 
 - They will have the option to work from home so they don't have to rush to the office 
-- WFH: @Daanial, @Fahim - Thursdays and Fridays 
-- WFH: @Khany - Mondays and Tuesdays
+- WFH: @people.Daanial, @people.Fahim - Thursdays and Fridays 
+- WFH: @people.Khany - Mondays and Tuesdays
 
 Experiential learning
 - What is the most common task that we do day to day?

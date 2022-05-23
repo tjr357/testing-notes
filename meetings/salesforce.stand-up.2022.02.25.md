@@ -15,4 +15,4 @@ created: 1645799976821
 
 - Keep questions to Aubrey for Business and not the IT side
 
-- @Igor is pairing with @Jesse right now 
+- @people.Igor is pairing with @Jesse right now 

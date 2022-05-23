@@ -13,7 +13,7 @@ created: 1648733441187
 #### Card Number
 - S68128
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Got stuck with the deployment
 - He will reach out to Vasanth and/or Salesforce to see if they can help 
@@ -21,7 +21,7 @@ created: 1648733441187
 #### Card Number
 - DE16814
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - I will test this with skilling participants
 - Check with Aubrey to see if we need to test this now or if we can wait 
@@ -29,7 +29,7 @@ created: 1648733441187
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Sarat is working on the test class for this, needs to create a PR
 - Will be promoted to QA shortly 
@@ -37,7 +37,7 @@ created: 1648733441187
 #### Card Number
 - S67498
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - In Monitoring
 - This is working as it is, there was no work that needed to be done
@@ -48,14 +48,14 @@ created: 1648733441187
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 -
 ---
 #### Card Number
 - S67327 
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Are we going to be able to bring this into the next iteration?
 - Needs a point estimate

@@ -11,12 +11,12 @@ created: 1652966835373
 
 ### Notes
 - POW22
-  - @SureshThota worked with Integration team and this is deployed in QA
-  - Suresh will need a sandbox for the Azure website, will work with @GunabalanAnatharajan
+  - @people.SureshThota worked with Integration team and this is deployed in QA
+  - Suresh will need a sandbox for the Azure website, will work with @people.GunabalanAnatharajan
 - Per Guna, Rahul is working on the label for the microservices
 
 - With Workbench in Jira, do we start making the epics for them to follow suit with QC
-  - Work Order story/epic to be created by @HieuNgo
+  - Work Order story/epic to be created by @people.HieuNgo
 
 - @ MattWalter
   - Background in Product Development, started out at Progressive and then consulting

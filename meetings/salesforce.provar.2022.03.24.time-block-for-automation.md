@@ -7,10 +7,10 @@ created: 1648144120713
 ---
 
 ### Goals for this Sprint
-- @Sarat wants a framework
+- @people.Sarat wants a framework
   - There's where the callable tests will come into play
   > Tests should be consistent across all platforms
-- @Tao
+- @people.Tao
   > I just want save time and speed up testing steps
 
 

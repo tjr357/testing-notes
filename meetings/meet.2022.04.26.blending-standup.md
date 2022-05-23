@@ -7,8 +7,8 @@ created: 1650978016131
 ---
 
 ## Attendees
-@WaltEbertz
-@MelClifford
+@people.WaltEbertz
+@people.MelClifford
 both joined from Cleveland
 
 ## Goals

@@ -7,9 +7,9 @@ created: 1653068069571
 ---
 
 ### People
-- @MarianneBrooks
-- @SamanthaGrayshaw
-- @ScottStorm
+- @people.MarianneBrooks
+- @people.SamanthaGrayshaw
+- @people.ScottStorm
 
 ### Notes
 - We will need the Target column for the MVP

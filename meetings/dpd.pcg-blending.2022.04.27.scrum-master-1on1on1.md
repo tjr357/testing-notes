@@ -7,8 +7,8 @@ created: 1651071689966
 ---
 
 ## People
-- @Tamara
-- @ChirayuPoundarik
+- @people.Tamara
+- @people.ChirayuPoundarik
 
 ## Notes
 

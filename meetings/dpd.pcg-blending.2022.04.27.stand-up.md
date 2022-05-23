@@ -6,10 +6,10 @@ updated: 1651067747213
 created: 1651064155328
 ---
 
-@SureshThota
-@WaltEbertz
-@HieuNgo
-@ScottStorm
+@people.SureshThota
+@people.WaltEbertz
+@people.HieuNgo
+@people.ScottStorm
 
 ### Previous Stand up
 [[meet.2022.04.26.blending-standup]]
@@ -18,7 +18,7 @@ created: 1651064155328
 #### Card Number
 - POW-120
 #### Owner
-- @WaltEbertz
+- @people.WaltEbertz
 #### Notes
 - May 9 go-live
 - Walt to reach out a week before to the site and give them a timeline
@@ -26,16 +26,16 @@ created: 1651064155328
 #### Card Number
 - POW-71
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - 
 ---
 #### Card Number
 - POW-122
 #### Owner
-- @ScottStorm
+- @people.ScottStorm
 #### Notes
-- Will be working with @SamanthaGrayshaw and @HieuNgo
+- Will be working with @people.SamanthaGrayshaw and @people.HieuNgo
 - Asked Scott to include me
 ---
 #### Card Number

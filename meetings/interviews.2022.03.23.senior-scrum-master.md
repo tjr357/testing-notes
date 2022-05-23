@@ -9,15 +9,15 @@ created: 1648041591214
 [[interviews.2022.03.22.senior-scrum-master]]
 
 ### People
-- @Tamara
-- @DanRaczka
-- @BillMcMillen
+- @people.Tamara
+- @people.DanRaczka
+- @people.BillMcMillen
 
 ### Questions
 - As an SM, what's your favorite thing about your role?
-  - @BillMcMillen
+  - @people.BillMcMillen
   > Makes IT as fun as it can be, interesting, participation, promotes team oriented way and assist way
-  - @DanRaczka
+  - @people.DanRaczka
   > Focusing on a team, takes a step back and look at the team and support them how I can, how can we build the right culture, build something greater than anyone person can achieve, work together in harmony
 - Why do you think I would make a good SM?
   > Enjoyment and enthusiasm for the processes, will help apply to good and bad situations, I have faith in the processes, sometimes the answers are not there right away, work on my patience. Kind person, know how to connect and listen to others, I don't have an overbearing forceful control, collaborative - working with others, supporting, making decisions, leadership - taking opportunities to do more, know when to speak up, know when to steer, feeling confident to speak up

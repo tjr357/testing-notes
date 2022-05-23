@@ -13,14 +13,14 @@ created: 1648819974769
 #### Card Number
 - S67499
 #### Owner
-- @Sarat
+- @people.Sarat
 #### Notes
 - Will carry over, Sarat needing to get test class
 ---
 #### Card Number
 - DE16814
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Get this tested for ATOS
 - This is not working for B+S widget, but we are aware of this 

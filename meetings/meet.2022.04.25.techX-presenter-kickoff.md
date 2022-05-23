@@ -7,9 +7,9 @@ created: 1650898668633
 ---
 
 ## Attendees
-@CorrieTrouw  
-@AshleyGriffits  
-@JasonKarney  
+@people.CorrieTrouw  
+@people.AshleyGriffits  
+@people.JasonKarney  
 ...many others  
 
 ## Goals

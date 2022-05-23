@@ -7,7 +7,7 @@ created: 1648057857569
 ---
 
 ### People
-- @Gaurav
+- @people.Gaurav
 
 ### Questions
 - What is your vision for this group? How many teams, products etc.

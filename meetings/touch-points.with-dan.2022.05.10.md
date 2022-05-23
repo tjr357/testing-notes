@@ -9,7 +9,7 @@ created: 1652204758310
 ### Previous Meeting
 [[touch-points.with-dan.2022.05.04]]
 
-@DanRaczka
+@people.DanRaczka
 
 ### Notes
 - Really think about the **patterns** of what I want to see and what I don't want to see

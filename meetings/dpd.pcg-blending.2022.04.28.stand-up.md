@@ -6,10 +6,10 @@ updated: 1651154389682
 created: 1651151890479
 ---
 ### People
-@SureshThota  
-@WaltEbertz  
-@HieuNgo  
-@ScottStorm  
+@people.SureshThota  
+@people.WaltEbertz  
+@people.HieuNgo  
+@people.ScottStorm  
 
 ### Previous Stand up
 [[dpd.pcg-blending.2022.04.27.stand-up]]
@@ -18,7 +18,7 @@ created: 1651151890479
 #### Card Number
 - POW-121
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - Completed in QA
 - Walter tested in QA
@@ -27,7 +27,7 @@ created: 1651151890479
 #### Card Number
 - POW-34
 #### Owner
-- @MelClifford
+- @people.MelClifford
 #### Notes
 - Met with Yuna yesterday, Guna to help
 - Service is set up
@@ -35,7 +35,7 @@ created: 1651151890479
 #### Card Number
 - POW-71
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - Still waiting for Elias storep developer
 - DBA not responding, reached out to them yesterday
@@ -43,35 +43,35 @@ created: 1651151890479
 #### Card Number
 - POW-118
 #### Owner
--  @SureshThota
+-  @people.SureshThota
 #### Notes
 - Should go to QA tomorrow night 
 ---
 #### Card Number
 - POW-90
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - Will meet later today
 ---
 #### Card Number
 - POW-120
 #### Owner
-- @WaltEbertz
+- @people.WaltEbertz
 #### Notes
 - 
 ---
 #### Card Number
 - POW-122
 #### Owner
-- @ScottStorm
+- @people.ScottStorm
 #### Notes
 - Meeting for tomorrow to discuss 2-3
 ---
 #### Card Number
 - POW-124
 #### Owner
-- @SureshThota
+- @people.SureshThota
 #### Notes
 - List has been sent to Power Apps group
 ---
@@ -83,7 +83,7 @@ created: 1651151890479
 -
 ---
 ## Miscellaneous
-- @SamanthaGrayshaw, was at Garfield location with devs, feedback, major issues with login, auth between issues. No order selected workflow. They need to log out of both systems for their orders to be cleared
+- @people.SamanthaGrayshaw, was at Garfield location with devs, feedback, major issues with login, auth between issues. No order selected workflow. They need to log out of both systems for their orders to be cleared
   - They are very uncomfortable right now, logging out 8-10 times a day to drop the order
   - Workbench search functionality is quicker than Aurora
   - May need to reach out to the AD team, Suresh to discuss with them later today, Mike Thomas on Azure team

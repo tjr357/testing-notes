@@ -7,8 +7,8 @@ created: 1652710028374
 ---
 
 ### People
-- @ScottStorm
-- @MarianneBrooks
+- @people.ScottStorm
+- @people.MarianneBrooks
 
 ### Agenda
 - Want to nail down the naming of the Tests

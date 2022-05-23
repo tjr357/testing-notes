@@ -13,21 +13,21 @@ created: 1647896267129
 #### Card Number
 - S67
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Ready for testing 
 ---
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - 
 ---
 #### Card Number
 - DE16711 
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - We have a meeting with Austin to get this Approved 
 ---

@@ -7,7 +7,7 @@ created: 1650992391402
 ---
 
 ## People
-@ChirayuPoundarik
+@people.ChirayuPoundarik
 
 ## Notes
 

@@ -7,10 +7,10 @@ created: 1651255398852
 ---
 
 ## People
-@ScottStorm  
-@SamanthaGrayshaw  
-@ChirayuPoundarik  
-@HieuNgo  
+@people.ScottStorm  
+@people.SamanthaGrayshaw  
+@people.ChirayuPoundarik  
+@people.HieuNgo  
 
 ## Notes
 - How would COA tests be selected?

@@ -13,21 +13,21 @@ created: 1647009171624
 #### Card Number
 - S67495
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - 
 ---
 #### Card Number
 - S67579
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Should be ready, after the screenshots are added
 ---
 #### Card Number
 - DE16711
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Should take a couple of days to complete this story 
 ---

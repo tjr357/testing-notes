@@ -20,10 +20,10 @@ created: 1647609237737
 #### Card Number
 - [DE16711](https://rally1.rallydev.com/#/?detail=/defect/627277591765&fdp=true)
 #### Owner
-- @Sarat
+- @people.Sarat
 #### Notes
 - Ready for testing
-- Work with @Austin and @Sarat
+- Work with @people.Austin and @people.Sarat
 ---
 #### Card Number
 - S

@@ -10,7 +10,7 @@ created: 1651257062514
 [[touch-points.with-tamara.2022.04.26]]
 
 ## Attendees
-- @Tamara
+- @people.Tamara
 
 ## Goals
 

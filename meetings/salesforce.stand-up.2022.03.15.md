@@ -13,7 +13,7 @@ created: 1647266827677
 #### Card Number
 - SS67325
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - We will need to do some custom code on this one because of security  
 - Custom components are being used, not easy to maintain
@@ -23,7 +23,7 @@ created: 1647266827677
 #### Card Number
 - S67496
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - There is no AC on it yet
 - Kate and Tao will discuss this and put the AC 

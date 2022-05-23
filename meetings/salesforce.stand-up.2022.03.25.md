@@ -13,14 +13,14 @@ created: 1648214721295
 #### Card Number
 - S67496
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Completed the implementation, will be ready for testing 
 ---
 #### Card Number
 - DE16814
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Aubrey gave some feedback 
 ---

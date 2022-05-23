@@ -7,8 +7,8 @@ created: 1648479670805
 ---
 
 ### People
-- @KimTanner
-- @Kate
+- @people.KimTanner
+- @people.Kate
 
 - 2:30 PM
 - Kate and I will be on stand-by just in-case something goes awry

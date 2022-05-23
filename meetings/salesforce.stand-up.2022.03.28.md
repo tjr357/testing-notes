@@ -20,21 +20,21 @@ created: 1648474166757
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Sarat working on it 
 ---
 #### Card Number
 - S67496
 #### Owner
-- @Tao
+- @people.Tao
 #### Notes
 - Should be resolved and ready for testing 
 ---
 #### Card Number
 - S67498
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - In monitoring, we weren't sure if there was work that needed to be done on it
 - This has already been added to the flow
@@ -42,7 +42,7 @@ created: 1648474166757
 #### Card Number
 - DE16814
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - The PR is being sent for approval
 - Sarat is concerned that this might break the B+S functionality

@@ -13,7 +13,7 @@ created: 1649424623239
 #### Card Number
 - S67497
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Aubrey attached a word doc and Tao has implemented that
 - In QA and ready to test
@@ -24,7 +24,7 @@ created: 1649424623239
 #### Card Number
 - S67500
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 -  
 ---

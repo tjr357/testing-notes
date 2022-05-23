@@ -13,14 +13,14 @@ created: 1649770325998
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Worked with Tao, it's in QA now and ready for testing 
 ---
 #### Card Number
 - S67501
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - This may be ready later today 
 ---

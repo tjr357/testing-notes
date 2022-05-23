@@ -11,21 +11,21 @@ created: 1646323371482
 ### Card Number
 - S67279
 ### Owner
-- @Kate
+- @people.Kate
 ### Notes
 - Moved into Doing
 ---
 ### Card Number
 - S67494
 ### Owner
-- @Sarat
+- @people.Sarat
 ### Notes
 - Will start tomorrow 
 ---
 ### Card Number
 - DE16710
 ### Owner
-- @Tao
+- @people.Tao
 ### Notes
 - 
 ---

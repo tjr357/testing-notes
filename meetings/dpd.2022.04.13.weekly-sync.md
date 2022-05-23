@@ -7,22 +7,22 @@ created: 1649872824441
 ---
 
 ### People
-- @SureshThota
-- @EarlSioson
-- @JessicaMiller
-- @MelClifford
-- @RaguSundaraj
-- @SoumyaEagam
-- @JustinJudd
-- @ImaneHmada
-- @ScottStorm
-- @WaltEbertz
-- @RamGummadala
-- @DennisSomerville
-- @ChirayuPoundarik
-- @KannanVenkatraman
-- @CarlLubertozzi
-- @RamakrishnaJampala 
+- @people.SureshThota
+- @people.EarlSioson
+- @people.JessicaMiller
+- @people.MelClifford
+- @people.RaguSundaraj
+- @people.SoumyaEagam
+- @people.JustinJudd
+- @people.ImaneHmada
+- @people.ScottStorm
+- @people.WaltEbertz
+- @people.RamGummadala
+- @people.DennisSomerville
+- @people.ChirayuPoundarik
+- @people.KannanVenkatraman
+- @people.CarlLubertozzi
+- @people.RamakrishnaJampala 
   
 ### Notes
 - MVP has launched for 

@@ -7,7 +7,7 @@ created: 1653060930630
 ---
 
 ### People
-- @Devi
+- @people.Devi
 
 ### Notes
 - As a group we started coming up with a workflow

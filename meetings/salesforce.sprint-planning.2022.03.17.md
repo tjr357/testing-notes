@@ -12,12 +12,12 @@ created: 1647529388860
   - These will be marked as unscheduled
 
 - DE16710
-  - @Tao
+  - @people.Tao
     - Put the card in Accepted
     - Mark as deployable
     - Update the applicable fields
 
 ## Sprint Goal
-> **Our focus is on** Support Request to Case functionality from @NealDealCloser  
-**We believe it delivers** an optimized way to provide complaints to @OliveOpsSpecialist  
-**This will be confirmed** when @OliveOpsSpecialist receives a Case from @NealDealCloser in her queue
+> **Our focus is on** Support Request to Case functionality from @people.NealDealCloser  
+**We believe it delivers** an optimized way to provide complaints to @people.OliveOpsSpecialist  
+**This will be confirmed** when @people.OliveOpsSpecialist receives a Case from @people.NealDealCloser in her queue

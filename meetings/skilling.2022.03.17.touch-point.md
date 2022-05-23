@@ -10,7 +10,7 @@ created: 1647561390603
 [[skilling.2022.03.02.touch-point]]
 
 ### Notes
-- @Fahim, are some of the courses, the soft skills are going to take a while
+- @people.Fahim, are some of the courses, the soft skills are going to take a while
 - Most courses are beneficial, but they can do them side-by-side
 - Want some simple assignments
 

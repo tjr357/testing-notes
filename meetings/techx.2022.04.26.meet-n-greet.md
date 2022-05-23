@@ -6,12 +6,12 @@ updated: 1651519801567
 created: 1650994352995
 ---
 
-- @MicheleBrearley
+- @people.MicheleBrearley
   - Big retro fan
   - Early adopter of agile, scrum in previous org, 13 years agile experience
   - Scrum Master in the past
   - Successes and hurdles 
-  - Reach out to @AngelaThorpe-Martin for help
+  - Reach out to @people.AngelaThorpe-Martin for help
 
 - [x] Schedule meeting with Tamara for tomorrow (9-10, 10:30 - noon)
 - [x] Get S-W background to Michele

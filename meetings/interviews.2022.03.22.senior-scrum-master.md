@@ -6,7 +6,7 @@ updated: 1647958312090
 created: 1647952135095
 ---
 ### People
-- @Tamara
+- @people.Tamara
 
 ### Questions to ask
 - Can you share a little more about the team

@@ -11,9 +11,9 @@ created: 1651670191776
 
 ## People
 Have conflicts
-- @JasonBarr
-- @GunabalanAnatharajan
-- @EarlSioson
+- @people.JasonBarr
+- @people.GunabalanAnatharajan
+- @people.EarlSioson
 
 ## Cards
 ### In-Progress
@@ -27,7 +27,7 @@ Have conflicts
   - Had meeting yesterday
   - Need to agree on the format
   - Backend and frontend developers are in agreement of the format, the fields, the structure, generic components
-  - @HieuNgo will set up meeting to **sync up** on Workbench with components and where they're at in the process with PoC and Figma
+  - @people.HieuNgo will set up meeting to **sync up** on Workbench with components and where they're at in the process with PoC and Figma
 - POW-139
 - POW-131
 - POW-132
@@ -53,5 +53,5 @@ Have conflicts
 
 ## Miscellaneous
 - Edina site training set for Wednesday (05/11)
-  - @WaltEbertz to share with them that they will have access by Wednesday
-  - @SureshThota, we need employee details, @RamGummadala and him to meet
+  - @people.WaltEbertz to share with them that they will have access by Wednesday
+  - @people.SureshThota, we need employee details, @people.RamGummadala and him to meet

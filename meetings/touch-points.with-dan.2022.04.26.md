@@ -6,7 +6,7 @@ updated: 1652204691510
 created: 1649880697921
 ---
 
-@DanRaczka
+@people.DanRaczka
 
 ### Notes
 - How often do we want to meet?

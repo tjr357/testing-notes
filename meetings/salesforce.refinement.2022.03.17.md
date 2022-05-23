@@ -9,7 +9,7 @@ created: 1647525825014
 #### Card Number
 - S67496 
 #### Owner
-- @Tao
+- @people.Tao
 #### Notes
 - On the Complaint Details screen, Reps should be able to create a Support Request 
 ---

@@ -13,14 +13,14 @@ created: 1647868953623
 #### Card Number
 - S67325
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - 
 ---
 #### Card Number
 - S67496
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - More of a technical card
 - Should be done today 
@@ -28,7 +28,7 @@ created: 1647868953623
 #### Card Number
 - DE16711 
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - The Production defect took priority over this, they were kind of linked
 - They were using an Auto Manual record

@@ -7,7 +7,7 @@ created: 1647025399283
 ---
 
 ### People
-- @Chip, @DanRaczka, @MartinaJ, @JennyC
+- @people.Chip, @people.DanRaczka, @people.MartinaJ, @people.JennyC
 
 ### Topic
 - "How do your teams facilitate User Story Mapping?"

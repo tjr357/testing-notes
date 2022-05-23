@@ -13,7 +13,7 @@ created: 1649079015183
 #### Card Number
 - S68128
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Will work with Srini to figure out the deployment issue
 - Is ready for testing in QA 
@@ -21,7 +21,7 @@ created: 1649079015183
 #### Card Number
 - S67499
 #### Owner
-- @Sarat 
+- @people.Sarat 
 #### Notes
 - Ready for testing in QA 
 ---
@@ -35,9 +35,9 @@ created: 1649079015183
 #### Card Number
 - S67500
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
-- Will be working with @Heryma to help with this one
+- Will be working with @people.Heryma to help with this one
 - 
 ---
 #### Card Number
@@ -48,7 +48,7 @@ created: 1649079015183
 -
 ---
 ## Miscellaneous
-- @Chip will be taking over some BA duties 
+- @people.Chip will be taking over some BA duties 
 - There's a move to JIRA meeting, Chip will be attending
 - S67325
 

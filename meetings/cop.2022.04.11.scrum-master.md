@@ -7,15 +7,15 @@ created: 1649695929953
 ---
 
 ### People
-- @BillMcMillen
-- @DanRaczka
-- @Chip
-- @JennyC
-- @AndyGreen
-- @KhadyGueye
-- @KenSwarm
-- @GregLiebert
-- @AngelaThorpe-Martin
+- @people.BillMcMillen
+- @people.DanRaczka
+- @people.Chip
+- @people.JennyC
+- @people.AndyGreen
+- @people.KhadyGueye
+- @people.KenSwarm
+- @people.GregLiebert
+- @people.AngelaThorpe-Martin
 
 ### Notes
 #### Topics

@@ -11,7 +11,7 @@ _Edit the [[dendron.templates.meet]] to change this template generated for Dendr
 [[touch-points.with-tamara.2022.04.29]]
 
 ## Attendees
-@Tamara 
+@people.Tamara 
 
 - @JohnDoe
 

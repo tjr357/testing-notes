@@ -13,14 +13,14 @@ created: 1647523269786
 #### Card Number
 - S67495 
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Kate: The Sales Reps don't know about this button and we'll follow our normal deployment process 
 ---
 #### Card Number
 - [S67325](https://rally1.rallydev.com/#/117070905740d/teamboard?view=3f2cc321-e7f8-4e13-aac7-7461bf66a431&detail=/userstory/624256499307)
 #### Owner
-- @Tao
+- @people.Tao
 #### Notes
 - Awaiting on their decision
 - A new card will be created for the enhancement
@@ -28,7 +28,7 @@ created: 1647523269786
 #### Card Number
 - [DE16711](https://rally1.rallydev.com/#/117070905740d/teamboard?view=3f2cc321-e7f8-4e13-aac7-7461bf66a431&detail=/defect/627277591765)
 #### Owner
-- @Sarat
+- @people.Sarat
 #### Notes
 - May be able to use Provar to do the automation of creating invoices
 - [ ] Work with Sarat to get this data into FULL
@@ -36,21 +36,21 @@ created: 1647523269786
 #### Card Number
 - S67169, S67171
 #### Owner
-- @Tao 
+- @people.Tao 
 #### Notes
 - Kate reached out to Jose Tuesday, Dave mentioned this to Aubrey, maybe this could be a new work request to make it a new enhancement, most likely not a Phase 1 
 ---
 #### Card Number
 - S67496
 #### Owner
-- @Tao
+- @people.Tao
 #### Notes
 - Discuss in Refinement
 ---
 #### Card Number
 - DE16710
 #### Owner
-- @Tao
+- @people.Tao
 #### Notes
 - Going to Production next week, Monday
 ---
