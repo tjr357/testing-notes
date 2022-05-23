@@ -2,7 +2,7 @@
 id: j1ib9j78zghqr26ogjsu1qq
 title: Stand Up
 desc: ''
-updated: 1652818538910
+updated: 1653337780903
 created: 1652287337838
 ---
 
@@ -16,13 +16,17 @@ created: 1652287337838
   - Preston Williams is the Lead developer
   - We may have to get a new URL and name for the project
 
-- POW-138
+- @stories.POW-138
+
   - Filter req not met
-- POW-144
+- @stories.POW-144
+
   - Needs to send Earl the JSON
-- POW-141
+- @stories.POW-141
+
   - Suresh will provid Mel the table(s)
-- POW-139
+- @stories.POW-139
+
   - Suresh, to talk with Guna and get an update on this
 
 
@@ -30,7 +34,7 @@ created: 1652287337838
 
 - POW-131
   - Needs to be tested
-- POW-132
+- @stories.POW-132
   - Being worked on
   - Suresh will schedule a demo for this
 - POW-148

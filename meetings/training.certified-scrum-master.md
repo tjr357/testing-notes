@@ -2,7 +2,7 @@
 id: a72j7u6sxmegovmu07hwt5m
 title: Certified Scrum Master
 desc: ''
-updated: 1651858222947
+updated: 1653322078350
 created: 1651755580154
 ---
 
@@ -314,6 +314,7 @@ Scrum is minimally perscriptive
 - ScrumAlliance.org is used throughout the rest of the world typically, 10x bigger than Scrum.org
 
 ### Action items
+#todos
 - [ ] Download and review Scrum Master Checklist
 - [ ] Book - *Agile Retrospectives: Making Good Teams Great*
 - [ ] Read Scrum Guide before taking the exam

@@ -2,18 +2,18 @@
 id: 87puy9wgat6zjczm8hvuhl8
 title: Stand Up
 desc: ''
-updated: 1653316582047
+updated: 1653321161267
 created: 1653310771746
 ---
 
 ### Previous Meeting
-[[dpd.pcg-blending.2022.05.20.stand-up]]
+[[May 20 Stand Up | dpd.pcg-blending.2022.05.20.stand-up]]
 
 ### Cards Discussed
 - @stories.PCGQC-11 
 - Owner @people.JasonBarr
 - Notes
-  - Rahul continuing to work on this with Jason
+  - @people.RahulLandge continuing to work on this with Jason 
 --- 
 - @stories.PCGQC-35
 - Owner 
@@ -32,6 +32,7 @@ created: 1653310771746
 - @stories.PCGQC-34
 - Owner
 - Notes
+![[dpd.pcg-blending.2022.05.20.stand-up#^yh8dangfz1xs:#^m96ua976pj9w]]
 ---
 - @stories.PCGQC-3
 - Owner
@@ -86,6 +87,8 @@ created: 1653310771746
 ---
 
 ### Action Items
-- Create Epic for Increment 3
+- [ ] Create Epic for Increment 3
 - Difference between "On-Hold" and "Blocked" do we understand 
 - Hieu to check with Sam and Marianne about the Target values, for the MVP this should be static
+
+## Tasks

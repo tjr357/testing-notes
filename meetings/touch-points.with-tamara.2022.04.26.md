@@ -2,7 +2,7 @@
 id: 1t63jtgsm65c8km1wlm6uji
 title: Meet 2022 04 26 Weekly-1on1
 desc: ''
-updated: 1650986497670
+updated: 1653326955469
 created: 1650982509997
 ---
 
@@ -57,8 +57,9 @@ created: 1650982509997
 - **DO NOT GIVE IN**
 - **Things can be done in any order**
 ## Action Items
-- [ ] Fill out coaching plan, Tamara to send out
+#todos
+- [x] Fill out coaching plan, Tamara to send out
 - [x] Send IDP to Tamara
-- [ ] Schedule between 3 - 5 for content advisor tomorrow
+- [x] Schedule between 3 - 5 for content advisor tomorrow
 - [x] 1:1:1 tranisition meeting coming up with Chirayu
 - Do not email Tamara **on weekends** 

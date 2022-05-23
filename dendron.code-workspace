@@ -14,7 +14,11 @@
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on"
+        "editor.tabCompletion": "on",
+        "todo-tree.tree.showBadges": false,
+        "todo-tree.tree.showCountsInTree": false,
+        "todo-tree.tree.disableCompactFolders": true,
+        "todo-tree.tree.scanMode": "workspace"
     },
     "extensions": {
         "recommendations": [

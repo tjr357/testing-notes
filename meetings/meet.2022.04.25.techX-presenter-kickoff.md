@@ -2,7 +2,7 @@
 id: th4hynv9xkqb4uz9281qfy8
 title: TechX Presenter Kickoff
 desc: ''
-updated: 1650901923493
+updated: 1653334619951
 created: 1650898668633
 ---
 
@@ -42,6 +42,6 @@ created: 1650898668633
     - ![](/assets/images/2022-04-25-11-15-48.png)
   - [Content board](https://swcompany.sharepoint.com/Sites/TechX2022/Lists/TechX%20Spring%202022%20Content/AllItems.aspx?OR=Teams%2DHL&CT=1650900076810&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMjA0MDExMTQwOSJ9&viewid=6937ebeb%2D242d%2D4d75%2D9c42%2Dd26ecf8aa7d6)
 ## Action Items
-- [ ] Align with co-presenters on presentation
-- [ ] Align with content advisors on presentation
-- [ ] Submit session outlines to content advisors 
+- [x] Align with co-presenters on presentation
+- [x] Align with content advisors on presentation
+- [x] Submit session outlines to content advisors 

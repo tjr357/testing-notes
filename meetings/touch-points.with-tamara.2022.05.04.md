@@ -2,7 +2,7 @@
 id: 5i6h0scoqfpi8dt8v2khon6
 title: '04'
 desc: ''
-updated: 1652453003402
+updated: 1653326599392
 created: 1651683796901
 ---
 _Edit the [[dendron.templates.meet]] to change this template generated for Dendron Meeting Notes._
@@ -12,8 +12,6 @@ _Edit the [[dendron.templates.meet]] to change this template generated for Dendr
 
 ## Attendees
 @people.Tamara 
-
-- @JohnDoe
 
 ## Goals
 

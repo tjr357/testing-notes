@@ -2,7 +2,7 @@
 id: 0ymzz5gws9i5bhpshgu33ey
 title: Stand Up
 desc: ''
-updated: 1651672838909
+updated: 1653337776792
 created: 1651670191776
 ---
 
@@ -23,14 +23,16 @@ Have conflicts
     - Internal, North American only
     - [ ] Create a card for Label Printing
 - POW-122
-- POW-138
+- @stories.POW-138
+
   - Had meeting yesterday
   - Need to agree on the format
   - Backend and frontend developers are in agreement of the format, the fields, the structure, generic components
   - @people.HieuNgo will set up meeting to **sync up** on Workbench with components and where they're at in the process with PoC and Figma
-- POW-139
+- @stories.POW-139
+
 - POW-131
-- POW-132
+- @stories.POW-132
 - POW-118
 - POW-90
 - POW-120
@@ -38,8 +40,10 @@ Have conflicts
 ### To Do
 - POW-123
 - POW-100
-- POW-141
-- POW-144
+- @stories.POW-141
+
+- @stories.POW-144
+
 - POW-146
 - POW-142
 - POW-135

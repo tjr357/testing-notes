@@ -2,7 +2,7 @@
 id: xvltl0npjhl4i71dj7k48ok
 title: Techx 2022 04 27 Content-Advisor-Meetup
 desc: ''
-updated: 1651089522663
+updated: 1653334664775
 created: 1651087930524
 ---
 
@@ -23,6 +23,6 @@ created: 1651087930524
 - Replace sprint with 2 week time
   
 ## Action Items
-- [ ] Find and review videos and things to share
-  - [ ] Review everything before sharing it, making sure it goes with our message
-- [ ] Come up with Session name
+- [x] Find and review videos and things to share
+  - [x] Review everything before sharing it, making sure it goes with our message
+- [x] Come up with Session name

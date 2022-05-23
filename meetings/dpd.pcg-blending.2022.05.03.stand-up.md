@@ -2,7 +2,7 @@
 id: 8syx875fcvbcz3vg0raf4s6
 title: Dpd Pcg-Blending 2022 05 03
 desc: ''
-updated: 1651670476017
+updated: 1653337722095
 created: 1651584656504
 ---
 
@@ -15,13 +15,15 @@ created: 1651584656504
   - Mural cards
   - Microservices, table design and structure
   - Should be good by tomorrow
-- POW-4
+- @stories.POW-4
+
   - Been working on IoM
   - Move to next Sprint
   - Ram working with Dennis to figure out
 - POW-128
   - Suresh said he completed the React UI setup
-- POW-22
+- @stories.POW-139
+
 - POW-34
     - Move both to backlog
 - POW-118
