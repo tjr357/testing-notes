@@ -2,7 +2,7 @@
 id: ue3w2uzzagjnj8rwq7tzv25
 title: Dpd Pcg-Blending 2022 04 29
 desc: ''
-updated: 1651519993859
+updated: 1653338479894
 created: 1651238796894
 ---
 
@@ -11,7 +11,7 @@ created: 1651238796894
 
 ### Cards Discussed
 #### Card Number
-- POW-121
+- @stories.POW-121
 #### Owner
 - @people.SureshThota
 #### Notes
@@ -57,21 +57,21 @@ created: 1651238796894
 - 
 ---
 #### Card Number
-- POW-122
+- @stories.POW-122
 #### Owner
 - @people.ScottStorm
 #### Notes
 - Marianne on vacation, Sam available at 2-3, meeting 
 ---
 #### Card Number
-- POW-124
+- @stories.POW-124
 #### Owner
 - @people.SureshThota
 #### Notes
 - Will add users to QA app
 ---
 #### Card Number
-- POW-128
+- @stories.POW-128
 #### Owner
 - @people.EarlSiason
 #### Notes

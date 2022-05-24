@@ -2,7 +2,7 @@
 id: wrs3dqjbwq8b5qf84b9ipwv
 title: May 19 Stand Up
 desc: ''
-updated: 1653053105520
+updated: 1653337992522
 created: 1652966835373
 ---
 
@@ -10,7 +10,7 @@ created: 1652966835373
 [[dpd.pcg-blending.2022.05.18.stand-up]]
 
 ### Notes
-- POW22
+- @stories.POW-22
   - @people.SureshThota worked with Integration team and this is deployed in QA
   - Suresh will need a sandbox for the Azure website, will work with @people.GunabalanAnatharajan
 - Per Guna, Rahul is working on the label for the microservices

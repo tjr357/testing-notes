@@ -2,7 +2,7 @@
 id: ewi0uv46wddptn5yr6uif4m
 title: Stand Up
 desc: ''
-updated: 1653337150875
+updated: 1653338032538
 created: 1652793382856
 ---
 
@@ -13,7 +13,7 @@ created: 1652793382856
 
 - @stories.PCGQC-11
   - Earl, Rahul and Suresh will be reviewing the documents and will be marked Done after the Review
-- PCGQC-51
+- @stories.PCGQC-51
   - Might need a Cosmos DB with 2 Collections per Jason
     - Test Methods collection
 

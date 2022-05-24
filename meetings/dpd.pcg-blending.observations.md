@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1653075142516
+updated: 1653421110787
 created: 1652472310526
 ---
 
@@ -37,3 +37,19 @@ Advice from Dan
 - It was noted that it would have been good to have PO in the "QC Page MVP UI Design" meeting
   - However they were not invited
 - Work with Hieu on deflecting PO's "tasks" to Scott
+
+- Marianne is our SME, she is not the PO
+- Sam is our PO but her time is not dedicated
+- Get Scott and Marianne some agile training, user stories 
+- The pieces need some influence
+- We need to re-write stories and they need to be better defined
+- Understand people's strengths
+  - Don't make meetings that show people's weaknesses or give them an opportunity to look silly
+
+- all of Wednesday or Thursday next week
+  - Redefine features
+  - Mural to Jira
+  - Marianne (Business) has given us what's needed 
+  - Don't make Marianne write the stories, she can see them, she is the stakeholder
+  - Sam wants to do an all day workshop, morning writing, afternoon show Marianne
+  
