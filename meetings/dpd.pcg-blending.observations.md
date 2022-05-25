@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1653421110787
+updated: 1653424062017
 created: 1652472310526
 ---
 
@@ -38,6 +38,7 @@ Advice from Dan
   - However they were not invited
 - Work with Hieu on deflecting PO's "tasks" to Scott
 
+![](/assets/images/2022-05-24-16-27-33.png)
 - Marianne is our SME, she is not the PO
 - Sam is our PO but her time is not dedicated
 - Get Scott and Marianne some agile training, user stories 
@@ -52,4 +53,4 @@ Advice from Dan
   - Marianne (Business) has given us what's needed 
   - Don't make Marianne write the stories, she can see them, she is the stakeholder
   - Sam wants to do an all day workshop, morning writing, afternoon show Marianne
-  
+- BA wants to not have the UX and developer present it helps him do his job
