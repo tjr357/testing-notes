@@ -12,7 +12,7 @@ created: 1651151890479
 @people.ScottStorm  
 
 ### Previous Stand up
-[[dpd.pcg-blending.2022.04.27.stand-up]]
+[[dpd.pcg-b.2022.04.27.stand-up]]
 
 ### Cards Discussed
 #### Card Number

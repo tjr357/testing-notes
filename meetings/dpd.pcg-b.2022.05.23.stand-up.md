@@ -7,7 +7,7 @@ created: 1653310771746
 ---
 
 ### Previous Meeting
-[[May 20 Stand Up | dpd.pcg-blending.2022.05.20.stand-up]]
+[[May 20 Stand Up|dpd.pcg-b.2022.05.20.stand-up]]
 
 ### Cards Discussed
 - @stories.PCGQC-11 
@@ -32,7 +32,7 @@ created: 1653310771746
 - @stories.PCGQC-34
 - Owner
 - Notes
-![[dpd.pcg-blending.2022.05.20.stand-up#^yh8dangfz1xs:#^m96ua976pj9w]]
+![[dpd.pcg-b.2022.05.20.stand-up#^yh8dangfz1xs:#^m96ua976pj9w]]
 ---
 - @stories.PCGQC-3
 - Owner

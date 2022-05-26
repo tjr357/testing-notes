@@ -7,7 +7,7 @@ created: 1651584656504
 ---
 
 ## Previous Day's Meetings
-[[dpd.pcg-blending.2022.05.02.workbench-backlog-grooming]]
+[[dpd.pcg-b.2022.05.02.workbench-backlog-grooming]]
 
 ## Cards
 - POW-122

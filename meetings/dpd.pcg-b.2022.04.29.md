@@ -7,7 +7,7 @@ created: 1651238796894
 ---
 
 ### Previous Stand-up
-[[dpd.pcg-blending.2022.04.28.stand-up]]
+[[dpd.pcg-b.2022.04.28.stand-up]]
 
 ### Cards Discussed
 #### Card Number

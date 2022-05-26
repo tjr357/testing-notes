@@ -7,7 +7,7 @@ created: 1652793382856
 ---
 
 ### Previous Stand-up
-[[dpd.pcg-blending.2022.05.16.stand-up]]
+[[dpd.pcg-b.2022.05.16.stand-up]]
 
 ### Repurpose as Backlog grooming refinement
 

@@ -7,7 +7,7 @@ created: 1652287337838
 ---
 
 ### Previous Stand-up
-[[dpd.pcg-blending.2022.05.10.stand-up]]
+[[dpd.pcg-b.2022.05.10.stand-up]]
 
 ### Notes
 - Go over design review on Monday during the Stand-up time

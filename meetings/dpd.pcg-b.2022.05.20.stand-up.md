@@ -7,7 +7,7 @@ created: 1653052804226
 ---
 
 ### Previous Meeting
-[[dpd.pcg-blending.2022.05.19.stand-up]]
+[[dpd.pcg-b.2022.05.19.stand-up]]
 
 ### Cards Discussed
 
@@ -47,7 +47,7 @@ created: 1653052804226
 - @stories.POW-158
 
 ### Next Meeting
-[[dpd.pcg-blending.2022.05.23.stand-up]]
+[[dpd.pcg-b.2022.05.23.stand-up]]
 
 ### Action Items
 #todos 

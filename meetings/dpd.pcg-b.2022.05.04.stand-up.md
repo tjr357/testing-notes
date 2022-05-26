@@ -7,7 +7,7 @@ created: 1651670191776
 ---
 
 ## Previous Day's Meetings
-[[dpd.pcg-blending.2022.05.03.stand-up]]
+[[dpd.pcg-b.2022.05.03.stand-up]]
 
 ## People
 Have conflicts

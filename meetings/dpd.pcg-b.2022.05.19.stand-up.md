@@ -7,7 +7,7 @@ created: 1652966835373
 ---
 
 ### Previous Meeting
-[[dpd.pcg-blending.2022.05.18.stand-up]]
+[[dpd.pcg-b.2022.05.18.stand-up]]
 
 ### Notes
 - @stories.POW-22
@@ -24,4 +24,4 @@ created: 1652966835373
   - Wants us to feel comfortable reaching out
 
 ### Next Meeting
-[[dpd.pcg-blending.2022.05.20.stand-up]]
+[[dpd.pcg-b.2022.05.20.stand-up]]
