@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1653424062017
+updated: 1654089765100
 created: 1652472310526
 ---
 
@@ -54,3 +54,12 @@ Advice from Dan
   - Don't make Marianne write the stories, she can see them, she is the stakeholder
   - Sam wants to do an all day workshop, morning writing, afternoon show Marianne
 - BA wants to not have the UX and developer present it helps him do his job
+
+- Are people not putting cameras on because they are doing other work? This should be okay but the exception
+
+- Team alignment attendance
+  - We need everyone there for the meetings
+  - There are many people not in this Retro, we need to hear from them
+  - Consistency is needed 
+  - We need to understand the allocation of Sam and Marianne
+

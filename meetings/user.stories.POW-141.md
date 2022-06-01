@@ -1,8 +1,8 @@
 ---
 id: 8mku8rvqaydvejut7m2wt87
-title: POW-141
+title: User Tiles details API
 desc: ''
-updated: 1653316325625
+updated: 1653657704114
 created: 1653316321215
 ---
 

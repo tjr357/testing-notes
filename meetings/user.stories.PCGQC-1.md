@@ -1,8 +1,8 @@
 ---
 id: tg4t0txddt360vxm43xwmxs
-title: PCGQC-1
+title: Customer Details
 desc: ''
-updated: 1653316076842
+updated: 1653658036925
 created: 1653316061955
 ---
 
