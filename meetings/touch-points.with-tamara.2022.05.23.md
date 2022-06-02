@@ -2,7 +2,7 @@
 id: 6l7wchb5198v0robpunbbde
 title: '23'
 desc: ''
-updated: 1653334722689
+updated: 1654110168790
 created: 1653326616305
 ---
 @people.Tamara
@@ -33,7 +33,7 @@ created: 1653326616305
 
 ### Action Items
 - [x] Reach out to the Security Journey PoC to not do the Green belt
-- [ ] Take CSM exam asap
+- [x] Take CSM exam asap
 - [x] Fix the allocation of the expense report
   - [x] Review the expense report guide
 - [x] Connect with Kristi Poltrone on Potluck with Rajesh's org

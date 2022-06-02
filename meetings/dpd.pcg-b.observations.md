@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1654089765100
+updated: 1654193342024
 created: 1652472310526
 ---
 
@@ -63,3 +63,13 @@ Advice from Dan
   - Consistency is needed 
   - We need to understand the allocation of Sam and Marianne
 
+- Sam has 4 teams and 3 applications
+  - She wants a team of PO's that she oversees and thos PO's would be dedicatedto each team
+- Workbench has been rebuilt several times, the PowerApps version is a mess, from a solution architecture stand point there are too many dependent systems in the chain
+  - They had a stable app and it wasn't feature rich and now they have the features but it's not stable
+- For QC let's view Mural, the 13 features, let's make sure they are the correct features and rewrite what we need to
+- Hieu is making designs and they may or may not align with what the SME (Marianne) had envisioned and yet these are being looked at as the single source of truth
+- Marianne should not be writing stories, she doesn't need to be
+- Suresh and Doug M. are working together all the time to put out fires and discuss what needs to be fixed and how
+- The Mosaic room will most likely be split up into several dedicated teams
+  - Right now 5 teams all work on the same backlog and the development managers divy up the work to their teams

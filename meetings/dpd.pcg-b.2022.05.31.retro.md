@@ -2,16 +2,18 @@
 id: fxy44o6qn6myyv5dmdq010j
 title: Retro
 desc: ''
-updated: 1654016796488
+updated: 1654110566971
 created: 1654001686097
 ---
 
 - Include Brian, next time
+
+### What's going well?
 - Communication is going well
   - Being able to reach out at a moment's notice to any one, informal and formal meeting
 - Team foundations are getting established
 
-
+### What's not going well? And Ideas
 - How are Workbench and QC Product integrated and how are the 2 projects being allocated, to help us unblock cards, etc. 
 - MVP change?
   - Having a doc to state what's to be done in the MVP, should be created, source of truth, signed off

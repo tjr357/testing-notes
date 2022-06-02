@@ -2,7 +2,7 @@
 id: 0ymzz5gws9i5bhpshgu33ey
 title: Stand Up
 desc: ''
-updated: 1653337776792
+updated: 1654110138792
 created: 1651670191776
 ---
 
@@ -21,7 +21,6 @@ Have conflicts
   - Sub-task of POW-123
   - HALS will **not be** used going forward
     - Internal, North American only
-    - [ ] Create a card for Label Printing
 - POW-122
 - @stories.POW-138
 
