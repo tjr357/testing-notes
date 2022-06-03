@@ -2,11 +2,12 @@
 id: vk4extllzpvx9dljda9sp3m
 title: Stand Up
 desc: ''
-updated: 1654195020125
+updated: 1654287443655
 created: 1654175084069
 ---
 
-### Previous 
+### Previous
+
 [[Sprint Planning | dpd.pcg-b.2022.06.01.sprint-planning]]
 
 | Key               | Summary                                   | Assignee                     | Components                         |
@@ -34,5 +35,3 @@ created: 1654175084069
 | @stories.PCGQC-12 | Finalize the user stories for QC MVP      | @people.ScottStorm           |                                    |
 | @stories.PCGQC-35 | QC MVP Product Requirements Documentation | @people.ScottStorm           |                                    |
 | @stories.POW-152  | Infrastructure Creation for BAT App       | Assignee                     |                                    |
-
-

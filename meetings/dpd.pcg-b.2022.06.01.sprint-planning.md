@@ -2,7 +2,7 @@
 id: 8q64gwz48ws4u8qgico0vyz
 title: Sprint Planning
 desc: ''
-updated: 1654265824724
+updated: 1654287622240
 created: 1654090222628
 ---
 
@@ -13,3 +13,4 @@ created: 1654090222628
 - [ ] Brainstorm session on technical deep dive 
   - [ ] Figure out who needs to be involved
 - Workbench and UX are focusing on future state
+

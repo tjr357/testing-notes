@@ -2,7 +2,7 @@
 id: xr9g59t5y4chyw4ddeeb1l7
 title: Stand Up
 desc: ''
-updated: 1654265022800
+updated: 1654287587016
 created: 1654178756665
 ---
 
@@ -39,15 +39,13 @@ created: 1654178756665
 - Transaction microservice was deployed
 - @stories.PCGQC-70
   - Suresh and Mel to meet with UI team to discuss
-
 - QC Testing
   - Rahul
 - @stories.PCGQC-3
-  - @people.HieuNgo looking for feedback from @people.ScottStorm
-
+  - @people.HieuNgo looking for feedback from @people.ScottStorm  
 - Chirayu Do we have Personas for QC Product?
   - @personas.BrendanTheBlender
 - Global Business Process Manager - Kyle Rich has been hired
-  - Chirayu will get 3 blenders for Hieu to interview 
+  - Chirayu will get 3 blenders for Hieu to interview
 
 - [ ] Figure out the WV room situation, snacks, food, drink, breaks
