@@ -2,9 +2,10 @@
 id: 00a6r0n2cqpanrjdxhi8bwx
 title: Status Update
 desc: ''
-updated: 1654185809644
+updated: 1654270173783
 created: 1654182024989
 ---
+@people.MattWalter
 
 - User stories are too technical
 - Wants them to use Personas, journeys
@@ -22,30 +23,29 @@ created: 1654182024989
 - Test engineer is needed, we want as much automation
 - Dedicated tester across the teams!!!
   - QA lead needed too, testing approach, strategy
-  - [ ] Come up with the strategy
+  - IMPORTANT Come up with the strategy
 - We need these teams fully staffed
 - I shared with Matt that we don't have a dedicated Product Owner
   - He's meeting with Laura K. to discuss some of these things
   - Need a dedicated PO
     - Need to be writing the functional user stories
   - Maybe a dedicated Product Manager
-- We need to be working ahead of the team, having the backlog grooming sessions
+- THINK We need to be working ahead of the team, having the backlog grooming sessions
 - We are getting an agile coach at the end of June
   - We can bounce ideas off of them
 - Let's start with the WHY! 
   - "We think if we build this"
-  - [ ] Create hypotheses
-    - [ ] Radiate this
+  - THINK Create hypotheses and radiate this
   - How do we work towards proving, validating these?
     - How do we measure these things
 - Move towards a Product team!!!! 
 - When people are passionate their work shows it
-- [ ] List out the Risks
-  - [ ] PO
-  - [ ] QA Testers
-  - [ ] Security, roles
-    - [ ] UI experience
-    - [ ] Integrations
-    - [ ] Data
+- [x] List out the Risks
+  - [x] PO
+  - [x] QA Testers
+  - [x] Security, roles
+    - [x] UI experience
+    - [x] Integrations
+    - [x] Data
 
 - Keep it simple, clean, we can all read and digest, owners and answers 

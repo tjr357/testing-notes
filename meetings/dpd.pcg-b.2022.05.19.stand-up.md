@@ -2,7 +2,7 @@
 id: wrs3dqjbwq8b5qf84b9ipwv
 title: May 19 Stand Up
 desc: ''
-updated: 1653337992522
+updated: 1654269144891
 created: 1652966835373
 ---
 
@@ -18,7 +18,7 @@ created: 1652966835373
 - With Workbench in Jira, do we start making the epics for them to follow suit with QC
   - Work Order story/epic to be created by @people.HieuNgo
 
-- @ MattWalter
+- @people.MattWalter
   - Background in Product Development, started out at Progressive and then consulting
   - Software development and architecture
   - Wants us to feel comfortable reaching out

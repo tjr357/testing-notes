@@ -2,7 +2,7 @@
 id: ue3w2uzzagjnj8rwq7tzv25
 title: Dpd Pcg-Blending 2022 04 29
 desc: ''
-updated: 1653338479894
+updated: 1654270501388
 created: 1651238796894
 ---
 
@@ -73,7 +73,7 @@ created: 1651238796894
 #### Card Number
 - @stories.POW-128
 #### Owner
-- @people.EarlSiason
+- @people.EarlSioson
 #### Notes
 - He started development, needs Jira access on laptop
 ---
@@ -82,7 +82,5 @@ created: 1651238796894
   - Will get info next week
 - Set out the components for the Tasks for Workbench
 - [x] Schedule an informal meeting, UX and Ram's team
-- [ ] Follow-up lunch
-
 - [x] Schedule stand-ups 9:30
 - [x] Put touchpoint on calendar for next Friday with Chirayu weekly

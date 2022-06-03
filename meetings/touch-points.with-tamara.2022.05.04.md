@@ -1,8 +1,8 @@
 ---
 id: 5i6h0scoqfpi8dt8v2khon6
-title: '04'
+title: 'May 4'
 desc: ''
-updated: 1653326599392
+updated: 1654269197227
 created: 1651683796901
 ---
 _Edit the [[dendron.templates.meet]] to change this template generated for Dendron Meeting Notes._
@@ -30,7 +30,7 @@ _Edit the [[dendron.templates.meet]] to change this template generated for Dendr
 - Tamara coaches up to John Buonomicci
 
 ## Action Items
-- Tamara will make a connection to link up with Matt Walter, (New Sr. Director) to help with (career advancement) networking plan
+- Tamara will make a connection to link up with @people.MattWalter, (New Sr. Director) to help with (career advancement) networking plan
   - Same with John Fitzpatrick, help him be exposed to more modern way of doing things, coach and mentor up
 - Inform Alyse about SM
 - Follow Up Task 2

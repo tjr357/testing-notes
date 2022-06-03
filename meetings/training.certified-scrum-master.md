@@ -2,7 +2,7 @@
 id: a72j7u6sxmegovmu07hwt5m
 title: Certified Scrum Master
 desc: ''
-updated: 1654110199736
+updated: 1654270211314
 created: 1651755580154
 ---
 
@@ -316,5 +316,5 @@ Scrum is minimally perscriptive
 ### Action items
 #todos
 - [x] Download and review Scrum Master Checklist
-- [ ] Book - *Agile Retrospectives: Making Good Teams Great*
+- THINK Book - *Agile Retrospectives: Making Good Teams Great*
 - [x] Read Scrum Guide before taking the exam

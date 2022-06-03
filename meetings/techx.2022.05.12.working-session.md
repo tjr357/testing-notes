@@ -2,7 +2,7 @@
 id: wgsttbujbyj1ctndzvpw758
 title: Working Session
 desc: ''
-updated: 1653334692392
+updated: 1654269983119
 created: 1652374928241
 ---
 
@@ -24,5 +24,5 @@ created: 1652374928241
 ## Action Items
 - [x] (Come up with 8-10 reasons for why to start, stop and continue)[[Working Session Action Items|techx.2022.05.12.working-session-action-items]]
 - [x] Send Jessica the Scrum Master CoP
-- [ ] Jessica, had idea to create an S-W Agile community, start gearing it towards S-W's agile experience
-  - [ ] Maybe a Teams channel 
+- THINK Jessica, had idea to create an S-W Agile community, start gearing it towards S-W's agile experience
+  - Maybe a Teams channel 

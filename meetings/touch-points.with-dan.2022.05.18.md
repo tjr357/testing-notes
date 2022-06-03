@@ -2,7 +2,7 @@
 id: 78zo6gqiupg0fig8co9agjw
 title: 'May 18 Touch Point'
 desc: ''
-updated: 1652899488920
+updated: 1654270191366
 created: 1652896461519
 ---
 
@@ -11,4 +11,4 @@ created: 1652896461519
 
 - Consider a longer Sprint Planning for the PO to be there, maximize their time
   - Get on a cadence
-- [ ] Create a "here's what I want to discuss with PO" 
+- [x] Create a "here's what I want to discuss with PO" 

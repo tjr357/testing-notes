@@ -2,11 +2,11 @@
 id: 8q64gwz48ws4u8qgico0vyz
 title: Sprint Planning
 desc: ''
-updated: 1654095541024
+updated: 1654265824724
 created: 1654090222628
 ---
 
-- [ ] Follow up with Chiaryu, to get final UI approval from Sam and Marianne
+- Chiaryu, to get final UI approval from Sam and Marianne
 
 - UX will focus more on the Workbench versus QC Product 
 - Documents have been put in the Files section of a team chat, a Word doc has been 

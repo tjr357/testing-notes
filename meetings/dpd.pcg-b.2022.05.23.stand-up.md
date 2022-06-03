@@ -2,7 +2,7 @@
 id: 87puy9wgat6zjczm8hvuhl8
 title: Stand Up
 desc: ''
-updated: 1653321161267
+updated: 1654270595345
 created: 1653310771746
 ---
 
@@ -88,7 +88,7 @@ created: 1653310771746
 
 ### Action Items
 - [ ] Create Epic for Increment 3
-- Difference between "On-Hold" and "Blocked" do we understand 
+- ??? Difference between "On-Hold" and "Blocked" do we understand 
 - Hieu to check with Sam and Marianne about the Target values, for the MVP this should be static
 
 ## Tasks

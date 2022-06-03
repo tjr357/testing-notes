@@ -113,3 +113,4 @@ publishing:
         editViewMode: tree
     enablePrettyLinks: true
     enableTaskNotes: true
+    theme: dark

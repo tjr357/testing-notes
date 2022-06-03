@@ -2,7 +2,7 @@
 id: f66jtj2ascg2yjb0k6kzxhu
 title: May 27 Stand Up
 desc: ''
-updated: 1653659541002
+updated: 1654198834825
 created: 1653593065478
 ---
 
@@ -13,7 +13,7 @@ created: 1653593065478
 ### Workbench Epic
 #### In Progress
 @stories.POW-138  
-@stories.POW-139  
+@stories.POW-139 
 - URL should be ready by end of today
 - @people.SureshThota will provide update
 - We are waiting on review from @people.JasonBarr and @people.GunabalanAnatharajan

@@ -2,7 +2,7 @@
 id: y8ttvhb4wh84isxcmkgpa0x
 title: 'June 1 Touch Point'
 desc: ''
-updated: 1654110418410
+updated: 1654270123063
 created: 1654105348587
 ---
 
@@ -22,4 +22,4 @@ created: 1654105348587
   - What's going on with the blockers
 - What are you actually working on?
 - We're creating containers, we're trying to keep people within that circle
-- [ ] Magic circle, meetings, facilitating
+- THINK Magic circle, meetings, facilitating
