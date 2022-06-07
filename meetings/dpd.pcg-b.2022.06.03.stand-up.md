@@ -2,7 +2,7 @@
 id: xr9g59t5y4chyw4ddeeb1l7
 title: Stand Up
 desc: ''
-updated: 1654287587016
+updated: 1654607560842
 created: 1654178756665
 ---
 
@@ -48,4 +48,4 @@ created: 1654178756665
 - Global Business Process Manager - Kyle Rich has been hired
   - Chirayu will get 3 blenders for Hieu to interview
 
-- [ ] Figure out the WV room situation, snacks, food, drink, breaks
+- [x] Figure out the WV room situation, snacks, food, drink, breaks

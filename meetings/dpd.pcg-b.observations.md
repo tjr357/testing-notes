@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1654193549373
+updated: 1654540442427
 created: 1652472310526
 ---
 
@@ -73,3 +73,5 @@ Advice from Dan
 - Suresh and Doug M. are working together all the time to put out fires and discuss what needs to be fixed and how
 - The Mosaic room will most likely be split up into several dedicated teams
   - Right now 5 teams all work on the same backlog and the development managers divy up the work to their teams
+
+- Hieu says "opportunity" I need to adopt that language, "there's an opportunity here/there" :)
