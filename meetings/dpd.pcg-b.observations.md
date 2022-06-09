@@ -2,8 +2,9 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1654540442427
+updated: 1654694383890
 created: 1652472310526
+published: false
 ---
 
 - Our Team Norms discussion had to be pushed back to next week and I wanted to discuss our cadence and restructuring our sprint, we definitely need to make our Sprints more structured.
@@ -20,16 +21,20 @@ created: 1652472310526
 
 ---
 Advice from Dan
-- For carry over, this is common, which my teams still struggle with
+
+h
+
 - I would advise you to keep track of your sprint plans, and note what was carried over each sprint. At least you capture the baseline data and can track trends over time
 - Like, how many cards were planned into the sprint, how many were added/removed, done/carried over
 - Since this is your first sprint, I would focus on continuing to make observations, keep them organized in notes (like you did above), to help document the baseline time health (such as with carry over)
 - Don’t stress too much about having to fix everything now. Take an assessment of the current state, and then plan small iterative  improvements
+
 ---
+
 - Seems like Hieu is approaching Jira from a development stand point. Where as I'm looking at it from a user's stand point
   - What are workflows used for in Jira?
     - Maybe this will answer the Defintion of Done
-  - There seems to be a difference between "Stories" and "User Stories" 
+  - There seems to be a difference between "Stories" and "User Stories"
   - Doesn't seem we want stories to have "As a, I want, so that"
     - Hieu referred to this as the "whys"
 - Scott is feeling a little lost about what his role is
@@ -39,9 +44,10 @@ Advice from Dan
 - Work with Hieu on deflecting PO's "tasks" to Scott
 
 ![](/assets/images/2022-05-24-16-27-33.png)
+
 - Marianne is our SME, she is not the PO
 - Sam is our PO but her time is not dedicated
-- Get Scott and Marianne some agile training, user stories 
+- Get Scott and Marianne some agile training, user stories
 - The pieces need some influence
 - We need to re-write stories and they need to be better defined
 - Understand people's strengths
@@ -50,7 +56,7 @@ Advice from Dan
 - all of Wednesday or Thursday next week
   - Redefine features
   - Mural to Jira
-  - Marianne (Business) has given us what's needed 
+  - Marianne (Business) has given us what's needed
   - Don't make Marianne write the stories, she can see them, she is the stakeholder
   - Sam wants to do an all day workshop, morning writing, afternoon show Marianne
 - BA wants to not have the UX and developer present it helps him do his job
@@ -60,7 +66,7 @@ Advice from Dan
 - Team alignment attendance
   - We need everyone there for the meetings
   - There are many people not in this Retro, we need to hear from them
-  - Consistency is needed 
+  - Consistency is needed
   - We need to understand the allocation of Sam and Marianne
 
 - Sam has 4 teams and 3 applications
@@ -75,3 +81,14 @@ Advice from Dan
   - Right now 5 teams all work on the same backlog and the development managers divy up the work to their teams
 
 - Hieu says "opportunity" I need to adopt that language, "there's an opportunity here/there" :)
+
+- THINK Talk with Chirayu
+  - POS Workbench
+    - Mosaic group built it
+    - Consider the ramifications of our Workbench  
+    - They need Schedule AND the Closing/Yielding piece  
+    - Does not work the same way as Global Blending  
+  - MGroup
+    - Selling intermixes
+    - No orders go through Workbench currently
+    - Might need to talk about how those flow from PCG Workbench into Mosaic
