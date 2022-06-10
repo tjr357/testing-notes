@@ -2,14 +2,16 @@
 id: aloi7td4f3shqwm9tpvlaw6
 title: 'June 1 Touch Point'
 desc: ''
-updated: 1654110401496
+updated: 1654882914862
 created: 1654103748492
 ---
 
 ### Previous Meeting
+
 [[May 27 Touch point | touch-points.with-chirayu.2022.05.27]]
 
 ### Notes
+
 - We need to be transparent with Matt
 - We will have a sandbox for the Workbench
   - Chirayu has this confidence

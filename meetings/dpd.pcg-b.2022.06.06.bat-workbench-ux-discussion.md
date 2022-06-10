@@ -2,7 +2,7 @@
 id: visd8if5oppvj2yu6lkn8on
 title: Bat Workbench UX Discussion
 desc: ''
-updated: 1654608242561
+updated: 1654808580716
 created: 1654529224117
 ---
 
@@ -25,4 +25,4 @@ created: 1654529224117
 
 KUDOS  
 
-- Hieu, Justin, Suresh, Earl for audit review very thorough and audit review and discussion
+- Hieu, Justin, Suresh, Earl for audit review very thorough and audit review and discussio[[n|scratch.2022.06.09.170259.n]]

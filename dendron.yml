@@ -70,7 +70,7 @@ workspace:
     dendronVersion: 0.83.0
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
-    enableHandlebarTemplates: false
+    enableHandlebarTemplates: true
     templateHierarchy: template
 preview:
     enableFMTitle: true
@@ -81,6 +81,7 @@ preview:
     automaticallyShowPreview: false
     enableFrontmatterTags: true
     enableHashesForFMTags: false
+    theme: dark 
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -90,7 +91,7 @@ publishing:
     assetsPrefix: /testing-notes
     copyAssets: true
     siteHierarchies:
-        - root
+        - dpd.pcg-b
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://tjr357.github.io
