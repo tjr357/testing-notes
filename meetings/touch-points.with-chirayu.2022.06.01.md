@@ -2,7 +2,7 @@
 id: aloi7td4f3shqwm9tpvlaw6
 title: 'June 1 Touch Point'
 desc: ''
-updated: 1654882914862
+updated: 1655230024987
 created: 1654103748492
 ---
 
@@ -23,5 +23,5 @@ created: 1654103748492
 - Workbench vision is a Capacity planning tool
   - Very similar to the Starbucks ordering app
 - With Personas, there is some overlap
-  - [ ] How can we document, feature documentation, get this Chirayu
-    - [ ] Reach out to Tom on Aurora on the Mural board they are using
+  - How can we document, feature documentation, get this Chirayu
+    - [x] Reach out to Tom on Aurora on the Mural board they are using

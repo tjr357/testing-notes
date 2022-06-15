@@ -2,7 +2,7 @@
 id: vntl0st5kc67yrxykrbsfxx
 title: Discussion Lunch N Learn
 desc: ''
-updated: 1654808505722
+updated: 1655238614667
 created: 1654795689522
 ---
 
@@ -27,3 +27,4 @@ created: 1654795689522
 - THINK Do we have Presentation coaches? 
   - UX involvement
 
+i
