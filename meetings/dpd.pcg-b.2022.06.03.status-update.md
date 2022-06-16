@@ -2,7 +2,7 @@
 id: 00a6r0n2cqpanrjdxhi8bwx
 title: Status Update
 desc: ''
-updated: 1654270173783
+updated: 1655412069456
 created: 1654182024989
 ---
 @people.MattWalter
@@ -35,7 +35,7 @@ created: 1654182024989
   - We can bounce ideas off of them
 - Let's start with the WHY! 
   - "We think if we build this"
-  - THINK Create hypotheses and radiate this
+  - IMPORTANT Create hypotheses and radiate this
   - How do we work towards proving, validating these?
     - How do we measure these things
 - Move towards a Product team!!!! 

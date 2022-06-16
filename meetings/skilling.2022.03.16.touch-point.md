@@ -8,7 +8,7 @@ created: 1647439470397
 
 ### Notes
 - People were sharing that there is added pressure and there's some stress
-- @people.Alyse-Lamparyk did reach out to them to help them with their expecation
+- @people.AlyseLamparyk did reach out to them to help them with their expecation
 - The Skill IQ's don't seem to be giving us the information that we orignally were hoping for, people are saying they are useless 
 - Don't waste training time
 - Just using videos and quizes is not enough

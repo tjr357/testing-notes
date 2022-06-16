@@ -2,7 +2,7 @@
 id: tlqc8g66esccxillres4ur5
 title: 09
 desc: ''
-updated: 1654790772815
+updated: 1655317353047
 created: 1654788655180
 published: false
 ---
@@ -36,5 +36,5 @@ published: false
 ### Action Items
 
 - [ ] Start introducing Fan 4's, office hours, every day or every other day, longer half-day sprint planning
-- [ ] COP, how to join a new team remotely
+- [x] COP, how to join a new team remotely
 - !!! Have a backlog of items of improvements to share with the coaches that are coming!

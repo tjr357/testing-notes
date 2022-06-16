@@ -1,10 +1,12 @@
 ---
 id: 2fmg0x6zna87hprnysjij33
-title: '132402'
+title: Business Analyst Discussion Tom Lenker
 desc: ''
-updated: 1655232907862
+updated: 1655409593812
 created: 1655227443410
 ---
+
+@people.TomLenker
 
 - There were no docs at the time when he started
   - There were 4 at one point, so he combined them 
@@ -34,4 +36,4 @@ created: 1655227443410
 - Why we did it source of truth is the Mural
 - What we did source of truth is Rally/Jira
 
-- [ ] Check with Katie Campbell to get Tom's time to work with Scott and Brian
+- [x] Check with Katie Campbell to get Tom's time to work with Scott and Brian
