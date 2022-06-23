@@ -12,6 +12,6 @@ published: false
 
 - Potluck discussion
 - Get logistics to Yvonne
-- Work with @AngieBates
+- Work with @people.AngieBates
   - Change of communication
   - Tamara will connect her with me

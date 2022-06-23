@@ -2,7 +2,7 @@
 id: r5d961dak7678r6kdq9l37n
 title: '15'
 desc: ''
-updated: 1655309155028
+updated: 1655832214660
 created: 1655307492152
 ---
 
@@ -24,4 +24,6 @@ created: 1655307492152
 - [ ] Create a big list of opportunities I see, share with the coach, Chirayu, Matt
     - Don't try to boil the ocean
 - [ ] Plan things out of what to work on
-- Share 1 or 2 in the retro, that will be the most impactful 
+- Share 1 or 2 in the retro, that will be the most impactful
+
+

@@ -2,7 +2,7 @@
 id: avgx91u2xffsjicrbqo63gd
 title: Agile Touch Point
 desc: ''
-updated: 1655409426643
+updated: 1655903817998
 created: 1655400742379
 published: false
 ---
@@ -27,7 +27,7 @@ published: false
 - Need to revalidate the training timelines
   - Starting on June 27
     - The Coach will be on-site this week
-- [ ] Are we all in the office for the week of the 27th
-- [ ] Add Ryan to the ceremonies  
+- [x] Are we all in the office for the week of the 27th
+- [x] Add Ryan to the ceremonies  
 - Team channels for Blending and IOM
 - Tamara will be getting some help

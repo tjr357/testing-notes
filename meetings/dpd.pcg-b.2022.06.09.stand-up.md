@@ -2,7 +2,7 @@
 id: 54e59xx5wdj2te5le54e95d
 title: Stand Up
 desc: ''
-updated: 1654808747241
+updated: 1655903850113
 created: 1654780598736
 ---
 
@@ -46,9 +46,9 @@ We should be able to demo in Dev at the very least
 - [x] POW-210, 211 convert to subtasks and link to UI development part 2 card
 - [x] Delete PCGQC-12, PCGQC-35
 
-- [ ] What is our Definiton of Done?!?!?!
+- ??? What is our Definiton of Done?!?!?!
 
-- [ ] Update board based on conversation
+- [x] Update board based on conversation
   - Keep On-Hold,
   - Columns show what we need to talk about
   - Testing and Ready to Deploy are subtasks for "In-Progress"

@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1654694383890
+updated: 1655911867879
 created: 1652472310526
 published: false
 ---
@@ -92,3 +92,9 @@ h
     - Selling intermixes
     - No orders go through Workbench currently
     - Might need to talk about how those flow from PCG Workbench into Mosaic
+
+- Complex issues first vs. complex issues later
+  - Sprint vs. Project level
+
+- Ryan, how would you define a Scrum Master?
+
