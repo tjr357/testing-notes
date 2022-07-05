@@ -2,7 +2,7 @@
 id: su0nff9fkc19qpdrflzdcep
 title: '22'
 desc: ''
-updated: 1655993444971
+updated: 1656100683171
 created: 1655926286015
 ---
 
@@ -19,7 +19,7 @@ Mike Brewer, training started today but did not let Tamara know and not in align
     - Ignore Leader Training for now
   - Agile fundamentals for POs
     - Dennis, Chirayu, 
-  - !!! Need availability from team members for training next week
+  - Need availability from team members for training next week
   - Scrum Master, PO and BA training
 - Agile Fundamentals Training
   - 1 Day, 4 hours, not 2 days

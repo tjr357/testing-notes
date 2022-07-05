@@ -20,6 +20,7 @@ commands:
         enableMarker: false
     randomNote: {}
     copyNoteLink: {}
+    templateHierarchy: template
 workspace:
     vaults:
         -
@@ -35,6 +36,7 @@ workspace:
         addBehavior: asOwnDomain
     graph:
         zoomSpeed: 1
+        createStub: false
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
@@ -81,7 +83,7 @@ preview:
     automaticallyShowPreview: false
     enableFrontmatterTags: true
     enableHashesForFMTags: false
-    theme: dark 
+    theme: dark
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
