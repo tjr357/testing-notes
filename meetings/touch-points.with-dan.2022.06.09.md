@@ -2,7 +2,7 @@
 id: tlqc8g66esccxillres4ur5
 title: 09
 desc: ''
-updated: 1655317353047
+updated: 1657047482755
 created: 1654788655180
 published: false
 ---
@@ -31,7 +31,7 @@ published: false
 
 ### Questions
 
-- BA is confused about what to do? 
+- BA is confused about what to do?
 
 ### Action Items
 

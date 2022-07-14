@@ -2,7 +2,7 @@
 id: my9l8lhvjlibg7hg0p81bde
 title: Agile Fundamental Training
 desc: ''
-updated: 1656607031720
+updated: 1657047511250
 created: 1656521676415
 ---
 

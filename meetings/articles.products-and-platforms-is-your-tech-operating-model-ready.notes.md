@@ -2,7 +2,7 @@
 id: edzmqj32hclj59ul9wv1j6d
 title: Notes
 desc: ''
-updated: 1655915552771
+updated: 1657047457598
 created: 1655910802640
 ---
 
@@ -43,7 +43,7 @@ The article discusses these 3 points:
 ![[articles.products-and-platforms-is-your-tech-operating-model-ready#define-value-focused-performance-metrics,1:#*]]
 
 - Are we tracking these metrics? If so, how are these being tracked?
-- If not, how would we go about tracking them? 
+- If not, how would we go about tracking them?
 
 ---
 

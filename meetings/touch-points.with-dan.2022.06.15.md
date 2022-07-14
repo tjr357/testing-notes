@@ -2,7 +2,7 @@
 id: r5d961dak7678r6kdq9l37n
 title: '15'
 desc: ''
-updated: 1655832214660
+updated: 1657047485977
 created: 1655307492152
 ---
 
@@ -20,10 +20,8 @@ created: 1655307492152
 
 - [ ] Do we revisit combining projects into 1
   - What are the pros and cons?
-  - Consider splitting teams? 
+  - Consider splitting teams?
 - [ ] Create a big list of opportunities I see, share with the coach, Chirayu, Matt
-    - Don't try to boil the ocean
+  - Don't try to boil the ocean
 - [ ] Plan things out of what to work on
 - Share 1 or 2 in the retro, that will be the most impactful
-
-

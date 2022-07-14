@@ -2,7 +2,7 @@
 id: 88n36eow01ppqwc9rcrd82t
 title: '28'
 desc: ''
-updated: 1657042173426
+updated: 1657047498351
 created: 1656427009719
 ---
 
@@ -11,14 +11,14 @@ created: 1656427009719
 - It's the Team's tool
   - Accountability, visibily and status
 - Speak to the benefit "accurate reflection of the work"
-- Don't let Stand-up be the bottleneck 
-  - I'm trying to empower them 
+- Don't let Stand-up be the bottleneck
+  - I'm trying to empower them
 - Hopefully the training will help them understand the Scrum Master role and the other things
 - Ask some leading questions to the trainer
-  - Sub-tasks, carry-over work 
-  - Be legimately curious 
+  - Sub-tasks, carry-over work
+  - Be legimately curious
   - Advice for teams that carry over multiple work
-  - !!! Ask on behalf of the team
+  - Ask on behalf of the team
   - Be there to make the right conversations happen, ask the questions
   - Is this bigger more complex than we anticipated
   - Card splitting  
@@ -29,7 +29,7 @@ created: 1656427009719
   - Help the team plan and hold them accountable
   - How to visualize our progress?
     - Graphing? Racing towards the end?
-    - Burn up chart 
+    - Burn up chart
 
 Refine cards if possible
 Story points, score them

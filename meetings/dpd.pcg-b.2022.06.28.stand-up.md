@@ -2,15 +2,13 @@
 id: wuw93vjm1bjji82edicttuu
 title: June 28 Stand Up
 desc: ''
-updated: 1657026403646
+updated: 1657047514805
 created: 1656420444629
 ---
 
 ### Previous
 
 [[June 27 Stand Up|dpd.pcg-b.2022.06.27.stand-up]]
-
-
 
 | Key                 | Assignee                     | Notes                                                                           | Components            |
 | ------------------- | ---------------------------- | ------------------------------------------------------------------------------- | --------------------- |
@@ -41,11 +39,10 @@ created: 1656420444629
 | @stories.POW-146    | @people.GunabalanAnatharajan |                                                                                 | Microservices and API |
 | @stories.POW-181    | @people.EarlSioson           |                                                                                 | UI Front End          |
 
+Similar card for POW-202 will be needed for QC
 
-Similar card for POW-202 will be needed for QC 
-
-Do we understand when we say "parent card"? 
+Do we understand when we say "parent card"?
 
 Tasks and subtasks
 
-Defintion of done and what's demoable 
+Defintion of done and what's demoable
