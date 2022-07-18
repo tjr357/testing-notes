@@ -2,7 +2,7 @@
 id: bnxzd1q38ulk5q9y6dnzxfs
 title: Quality Management and Continuous Improvement in Project Environments
 desc: ''
-updated: 1657573931022
+updated: 1657833054381
 created: 1657568769915
 ---
 
@@ -121,3 +121,11 @@ Different projects have different needs, sometimes it might be okay to have low 
 - Sensors
 - Output
 - Feedback
+
+
+### Developing a Quality Management Strategy
+
+- We need to place Quality high up on our list of priorities
+
+### Continuous Improvement and Assessing Quality Challenges
+

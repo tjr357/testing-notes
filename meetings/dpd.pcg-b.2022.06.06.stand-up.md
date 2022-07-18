@@ -16,7 +16,7 @@ created: 1654198600591
 | @stories.PCGQC-68 | Login Process                                | @people.SureshThota          |                                                  |                                    |
 | @stories.POW-145  | Blender Admin API                            | Assignee                     |                                                  | Microservices and API              |
 | @stories.POW-130  | Test data / API for UI development           | @people.BrianComiskey        |                                                  | Testing; UI Front End              |
-| @stories.POW-202  | BaT App Integration with StoreP and Aurora   | @people.SoumyuajitPaul       |                                                  | Integration                        |
+| @stories.POW-202  | BaT App Integration with StoreP and Aurora   | @people.SoumyajitPaul       |                                                  | Integration                        |
 | **IN PROGRESS**   | **IN PROGRESS**                              | **IN PROGRESS**              | **IN PROGRESS**                                  | **IN PROGRESS**                    |
 | @stories.PCGQC-70 | QC - React UI App setup from Template        | @people.MelClifford          |                                                  | UI Front End                       |
 | @stories.POW-199  | Workbench Card                               | @people.HieuNgo              | should be unblocked by EoD today                 | UX                                 |
@@ -31,7 +31,7 @@ created: 1654198600591
 | @stories.POW-152  | Infrastructure Creation for BAT App          | Assignee                     |                                                  |                                    |
 | @stories.POW-181  | UI Development of PCG Workbench MVP (Part 2) | @people.EarlSioson           |                                                  | UI Front End                       |
 | **ON HOLD**       | **ON HOLD**                                  | **ON HOLD**                  | **ON HOLD**                                      | **ON HOLD**                        |
-| @stories.POW-22   | APIM for Microservices                       | @people.SoumyuajitPaul       | Paul spoke with Ram, there's a meeting tomorrow. | Microservices and API              |
+| @stories.POW-22   | APIM for Microservices                       | @people.SoumyajitPaul       | Paul spoke with Ram, there's a meeting tomorrow. | Microservices and API              |
 | **BLOCKED**       | **BLOCKED**                                  | **BLOCKED**                  | **BLOCKED**                                      | **BLOCKED**                        |
 | @stories.PCGQC-12 | Finalize the user stories for QC MVP         | @people.ScottStorm           |                                                  |                                    |
 | @stories.PCGQC-35 | QC MVP Product Requirements Documentation    | @people.ScottStorm           |                                                  |                                    |

@@ -67,7 +67,7 @@ created: 1653310771746
 ---
 
 - @stories.POW-22
-- Owner @people.SoumyuajitPaul
+- Owner @people.SoumyajitPaul
 - Notes
 
 ---

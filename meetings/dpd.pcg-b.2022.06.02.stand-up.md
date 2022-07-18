@@ -30,7 +30,7 @@ created: 1654175084069
 | @stories.POW-146  | WB Sequence Number Update API             | @people.GunabalanAnatharajan | Microservices and API              |
 | @stories.POW-157  | Web application Hosting in Azure Web      | @people.SureshThota          |                                    |
 | **ON HOLD**       | **ON HOLD**                               | **ON HOLD**                  | **ON HOLD**                        |
-| @stories.POW-22   | APIM for Microservices                    | @people.SoumyuajitPaul       | Microservices and API              |
+| @stories.POW-22   | APIM for Microservices                    | @people.SoumyajitPaul       | Microservices and API              |
 | **BLOCKED**       | **BLOCKED**                               | **BLOCKED**                  | **BLOCKED**                        |
 | @stories.PCGQC-12 | Finalize the user stories for QC MVP      | @people.ScottStorm           |                                    |
 | @stories.PCGQC-35 | QC MVP Product Requirements Documentation | @people.ScottStorm           |                                    |

@@ -31,7 +31,7 @@ created: 1654178756665
 | @stories.POW-152  | Infrastructure Creation for BAT App          | Assignee                     |                                    |
 | @stories.POW-181  | UI Development of PCG Workbench MVP (Part 2) | @people.EarlSioson           | UI Front End                       |
 | **ON HOLD**       | **ON HOLD**                                  | **ON HOLD**                  | **ON HOLD**                        |
-| @stories.POW-22   | APIM for Microservices                       | @people.SoumyuajitPaul       | Microservices and API              |
+| @stories.POW-22   | APIM for Microservices                       | @people.SoumyajitPaul       | Microservices and API              |
 | **BLOCKED**       | **BLOCKED**                                  | **BLOCKED**                  | **BLOCKED**                        |
 | @stories.PCGQC-12 | Finalize the user stories for QC MVP         | @people.ScottStorm           |                                    |
 | @stories.PCGQC-35 | QC MVP Product Requirements Documentation    | @people.ScottStorm           |                                    |

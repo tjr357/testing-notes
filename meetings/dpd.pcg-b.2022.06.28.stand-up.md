@@ -13,7 +13,7 @@ created: 1656420444629
 | Key                 | Assignee                     | Notes                                                                           | Components            |
 | ------------------- | ---------------------------- | ------------------------------------------------------------------------------- | --------------------- |
 | **TO DO**           | **TO DO**                    | **TO DO**                                                                       | **TO DO**             |
-| @stories.POW-145    | @people.SoumyuajitPaul       | Ameya asked for the design structure for the API to proceed with the QA testing | Microservices and API |
+| @stories.POW-145    | @people.SoumyajitPaul       | Ameya asked for the design structure for the API to proceed with the QA testing | Microservices and API |
 | @stories.PCGQC-9    | Assignee                     |                                                                                 | Testing; UI Front End |
 | **ON HOLD**         | **ON HOLD**                  | **ON HOLD**                                                                     | **ON HOLD**           |
 | **IN PROGRESS**     | **IN PROGRESS**              | **IN PROGRESS**                                                                 | **IN PROGRESS**       |
@@ -28,7 +28,7 @@ created: 1656420444629
 | **IN REVIEW**       | **IN REVIEW**                | **IN REVIEW**                                                                   | **ON HOLD**           |
 | @stories.POW-177    | @people.HieuNgo              |                                                                                 |                       |
 | **TESTING**         | **TESTING**                  | **TESTING**                                                                     | **BLOCKED**           |
-| @stories.POW-202    | @people.SoumyuajitPaul       | Testing can be completed today                                                  | Integration           |
+| @stories.POW-202    | @people.SoumyajitPaul       | Testing can be completed today                                                  | Integration           |
 | @stories.POW-215    | @people.EarlSioson           | Testing API later today                                                         |                       |
 | @stories.POW-130    | @people.BrianComiskey        | Will meet with Suresh on this one                                               | Testing; UI Front End |
 | **READY TO DEPLOY** | **READY TO DEPLOY**          | **READY TO DEPLOY**                                                             | **BLOCKED**           |

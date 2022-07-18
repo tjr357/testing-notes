@@ -24,7 +24,7 @@ created: 1657546141398
 | @stories.POW-97     | @people.JustinDruga          |                                                                                 |                       |
 | @stories.POW-145    | @people.Ameya                | Ameya asked for the design structure for the API to proceed with the QA testing | Microservices and API |
 | @stories.POW-227    | @people.SureshThota          |                                                                                 | Testing; UI Front End |
-| @stories.POW-232    | @people.SoumyuajitPaul       |                                                                                 | Testing; UI Front End |
+| @stories.POW-232    | @people.SoumyajitPaul       |                                                                                 | Testing; UI Front End |
 | @stories.PCGQC-2    | Assignee                     | Is being reviewed by Suresh and will be tested by Scott                         |                       |
 | @stories.PCGQC-34   | Assignee                     | Is being reviewed by Suresh and will be tested by Scott                         | Microservices and API |
 | @stories.PCGQC-1    | Assignee                     |                                                                                 |                       |
@@ -39,7 +39,7 @@ created: 1657546141398
 | **BLOCKED**         | **BLOCKED**                  | **BLOCKED**                                                                     | **BLOCKED**           |
 | **DONE**            | **DONE**                     | **DONE**                                                                        | **DONE**              |
 | @stories.POW-152    | @people.GunabalanAnatharajan |                                                                                 |                       |
-| @stories.POW-202    | @people.SoumyuajitPaul       |                                                                                 | Integration           |
+| @stories.POW-202    | @people.SoumyajitPaul       |                                                                                 | Integration           |
 | @stories.POW-130    | @people.BrianComiskey        |                                                                                 | Testing; UI Front End |
 | @stories.POW-228    | @people.EarlSioson           |                                                                                 | Testing; UI Front End |
 | @stories.POW-230    | @people.EarlSioson           |                                                                                 | Microservices and API |

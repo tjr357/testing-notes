@@ -14,7 +14,7 @@ created: 1657026420853
 | ------------------- | ---------------------------- | ------------------------------------------------------------------------------- | --------------------- |
 | **TO DO**           | **TO DO**                    | **TO DO**                                                                       | **TO DO**             |
 | @stories.POW-227    | @people.SureshThota          |                                                                                 | Testing; UI Front End |
-| @stories.POW-232    | @people.SoumyuajitPaul       |                                                                                 | Testing; UI Front End |
+| @stories.POW-232    | @people.SoumyajitPaul       |                                                                                 | Testing; UI Front End |
 | @stories.POW-228    | @people.EarlSioson           |                                                                                 | Testing; UI Front End |
 | @stories.POW-39     | @people.EarlSioson           |                                                                                 | Testing; UI Front End |
 | @stories.POW-223    | Assignee                     |                                                                                 | Testing; UI Front End |
@@ -42,6 +42,6 @@ created: 1657026420853
 | **BLOCKED**         | **BLOCKED**                  | **BLOCKED**                                                                     | **BLOCKED**           |
 | **DONE**            | **DONE**                     | **DONE**                                                                        | **DONE**              |
 | @stories.POW-152    | @people.GunabalanAnatharajan | There is a Dell Boomi issue, Jason and Guna are on it                           |                       |
-| @stories.POW-202    | @people.SoumyuajitPaul       | Testing can be completed today                                                  | Integration           |
+| @stories.POW-202    | @people.SoumyajitPaul       | Testing can be completed today                                                  | Integration           |
 | @stories.POW-40     | @people.HieuNgo              |                                                                                 |                       |
 | @stories.PCGQC-3    | Assignee                     |                                                                                 |                       |

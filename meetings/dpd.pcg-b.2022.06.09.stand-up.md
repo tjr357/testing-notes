@@ -16,7 +16,7 @@ created: 1654780598736
 | @stories.POW-145  | Blender Admin API                            | Assignee                     |                                                  | Microservices and API              |
 | @stories.POW-130  | Test data / API for UI development           | @people.BrianComiskey        |                                                  | Testing; UI Front End              |
 | **IN PROGRESS**   | **IN PROGRESS**                              | **IN PROGRESS**              | **IN PROGRESS**                                  | **IN PROGRESS**                    |
-| @stories.POW-202  | BaT App Integration with StoreP and Aurora   | @people.SoumyuajitPaul       |                                                  | Integration                        |
+| @stories.POW-202  | BaT App Integration with StoreP and Aurora   | @people.SoumyajitPaul       |                                                  | Integration                        |
 | @stories.PCGQC-70 | QC - React UI App setup from Template        | @people.MelClifford          |                                                  | UI Front End                       |
 | @stories.POW-199  | Workbench Card                               | @people.HieuNgo              | should be unblocked by EoD today                 | UX                                 |
 | @stories.PCGQC-1  | Customer Details                             | Assignee                     |                                                  |                                    |
@@ -33,7 +33,7 @@ created: 1654780598736
 | **BLOCKED**       | **BLOCKED**                                  | **BLOCKED**                  | **BLOCKED**                                      | **BLOCKED**                        |
 | **DONE**          | **DONE**                                     | **DONE**                     | **DONE**                                         | **DONE**                           |
 | @stories.PCGQC-68 | Login Process                                | @people.SureshThota          |                                                  |                                    |
-| @stories.POW-22   | APIM for Microservices                       | @people.SoumyuajitPaul       | Paul spoke with Ram, there's a meeting tomorrow. | Microservices and API              |
+| @stories.POW-22   | APIM for Microservices                       | @people.SoumyajitPaul       | Paul spoke with Ram, there's a meeting tomorrow. | Microservices and API              |
 | @stories.POW-142  | AD Authentication POC for React App          | @people.SureshThota          |                                                  | Microservices and API;UI Front End |
 | @stories.POW-138  | Workorder Query Microservice                 | @people.MelClifford          | should be completed by EoD                       | Microservices and API              |
 | @stories.POW-144  | Operator LOV API                             | @people.MelClifford          |                                                  | Microservices and API              |

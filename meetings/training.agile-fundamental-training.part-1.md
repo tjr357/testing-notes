@@ -1,6 +1,6 @@
 ---
 id: my9l8lhvjlibg7hg0p81bde
-title: Agile Fundamental Training
+title: Part 1
 desc: ''
 updated: 1657047511250
 created: 1656521676415
