@@ -2,7 +2,7 @@
 id: 54e59xx5wdj2te5le54e95d
 title: Stand Up
 desc: ''
-updated: 1655903850113
+updated: 1658331668208
 created: 1654780598736
 ---
 
@@ -46,7 +46,7 @@ We should be able to demo in Dev at the very least
 - [x] POW-210, 211 convert to subtasks and link to UI development part 2 card
 - [x] Delete PCGQC-12, PCGQC-35
 
-- ??? What is our Definiton of Done?!?!?!
+- What is our Definiton of Done?!?!?!
 
 - [x] Update board based on conversation
   - Keep On-Hold,

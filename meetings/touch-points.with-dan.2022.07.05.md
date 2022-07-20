@@ -2,7 +2,7 @@
 id: ys7uar94cn3aydcabo5gqil
 title: '05'
 desc: ''
-updated: 1657553911267
+updated: 1658331600559
 created: 1657042181759
 ---
 
@@ -30,4 +30,4 @@ created: 1657042181759
 - [x] Sync with Ryan on the sub-taks discussion
 - [ ] Reach out to the other Scrum Masters for help on how to work in Jira and help the team let the tool work for us
 - [x] Schedule weekly 1-on-1's with Ryan
-- [ ] Update risk of no PO for QC, *when the time is appropriate*
+- [x] Update risk of no PO for QC, *when the time is appropriate*

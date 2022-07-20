@@ -2,7 +2,7 @@
 id: 00a6r0n2cqpanrjdxhi8bwx
 title: Status Update
 desc: ''
-updated: 1655412069456
+updated: 1658331659067
 created: 1654182024989
 ---
 @people.MattWalter
@@ -30,7 +30,7 @@ created: 1654182024989
   - Need a dedicated PO
     - Need to be writing the functional user stories
   - Maybe a dedicated Product Manager
-- THINK We need to be working ahead of the team, having the backlog grooming sessions
+- We need to be working ahead of the team, having the backlog grooming sessions
 - We are getting an agile coach at the end of June
   - We can bounce ideas off of them
 - Let's start with the WHY! 

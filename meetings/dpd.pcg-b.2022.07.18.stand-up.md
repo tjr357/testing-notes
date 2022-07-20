@@ -2,7 +2,7 @@
 id: ueavwxdlplv3kys36qnnka1
 title: Stand Up
 desc: ''
-updated: 1658178332693
+updated: 1658331548056
 created: 1658151426714
 ---
 
@@ -50,4 +50,4 @@ Jason is out this week
 
 Jason to create additional users in QA and Prod, to query the DB
 
-- [ ] Work with Suresh on getting the Security Scan by Thursday!!!
+- [x] Work with Suresh on getting the Security Scan by Thursday!!!

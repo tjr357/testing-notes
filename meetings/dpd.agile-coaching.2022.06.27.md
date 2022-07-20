@@ -2,7 +2,7 @@
 id: tgxtxdij0icswnj834ojnsi
 title: 'Agile Coach Meet & Greet'
 desc: ''
-updated: 1656341277640
+updated: 1658331645878
 created: 1656101089390
 ---
 
@@ -36,7 +36,7 @@ created: 1656101089390
 - What's your goal as an agile coach?
 
 - Where's the frustration with the developers and POs
-  - ??? Seems like we were trying to have a demo
+  - Seems like we were trying to have a demo
 - Keep building that network and working with mentors
 - Do team builders, remote games, retros
 - Let people be themselves

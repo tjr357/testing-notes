@@ -2,7 +2,7 @@
 id: tlifo8lg5le1llxel16wvwl
 title: Observations
 desc: ''
-updated: 1655911867879
+updated: 1658331680176
 created: 1652472310526
 published: false
 ---
@@ -82,7 +82,7 @@ h
 
 - Hieu says "opportunity" I need to adopt that language, "there's an opportunity here/there" :)
 
-- THINK Talk with Chirayu
+- Talk with Chirayu
   - POS Workbench
     - Mosaic group built it
     - Consider the ramifications of our Workbench  
