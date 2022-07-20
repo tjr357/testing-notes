@@ -7,7 +7,7 @@ created: 1653068069571
 ---
 
 ### People
-- @people.MarianneBrooks
+- @stakeholder.MarianneBrooks
 - @people.SamanthaGrayshaw
 - @people.ScottStorm
 

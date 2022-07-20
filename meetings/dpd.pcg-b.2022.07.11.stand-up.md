@@ -2,7 +2,7 @@
 id: pm2bhcgcpm30wt0s8qk6pvl
 title: Stand Up
 desc: ''
-updated: 1657555016900
+updated: 1658179432173
 created: 1657546141398
 ---
 
@@ -71,7 +71,6 @@ If we could deliver something tomorrow,
  PCGQC-34
 
 - Break off into smaller pieces  
-- [ ] Schedule meeting
 - If Matt or Rajesh were to ask me about the launch, I would say we are good, based on what people have told me, but I could NOT quanitify it, this scares me
 - Stay organized
 - Get the team talking, and get them engaged, they tend to be waiting for me to say something

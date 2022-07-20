@@ -2,13 +2,13 @@
 id: 1ij97dfxcc6s608i48u19re
 title: 'July 14 Touch Point'
 desc: ''
-updated: 1657814336395
+updated: 1658179394091
 created: 1657812507773
 ---
 
 @agile-coach.RyanFish
 
-- [ ] Share in the demo what features will be shown and be transparent
+- [ ] Share in the demo invite what features will be shown and be transparent
   - [ ] Help the team own the Demo
 
 - Keep in mind people are working on whatever and at any time

@@ -6,7 +6,7 @@ updated: 1655223361108
 created: 1654870034691
 ---
 
-@people.SamanthaGrayshaw, @people.ScottStorm, @people.SureshThota, @people.MarianneBrooks, @people.BrianComiskey, @people.ChirayuPoundarik
+@people.SamanthaGrayshaw, @people.ScottStorm, @people.SureshThota, @stakeholder.MarianneBrooks, @people.BrianComiskey, @people.ChirayuPoundarik
 
 ### Notes
 

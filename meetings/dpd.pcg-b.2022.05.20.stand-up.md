@@ -18,7 +18,7 @@ created: 1653052804226
   - Microservices portion being worked on
 - @stories.PCGQC-1  - or the subtasks we don't have Acceptance Criteria, so @people.HieuNgo not entirely sure what to do
 - @stories.PCGQC-34 ^yh8dangfz1xs
-  - @people.MarianneBrooks provided a new Target point, we're not entirely sure where to go with this one, Target value column
+  - @stakeholder.MarianneBrooks provided a new Target point, we're not entirely sure where to go with this one, Target value column
     - @people.ScottStorm, meeting with @people.SamanthaGrayshaw and Marianne, hopefully this afternoon
     - @people.ChirayuPoundarik says that each Target Value is different for each product ^m96ua976pj9w
 - @stories.PCGQC-3

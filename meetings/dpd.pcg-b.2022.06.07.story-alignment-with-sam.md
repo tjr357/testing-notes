@@ -36,7 +36,7 @@ created: 1654609587581
 
 ### Questions for Marianne from Sam
 
-@people.MarianneBrooks
+@stakeholder.MarianneBrooks
 
 1. What tests are preloaded?
 2. Are they always the same tests on label? Standardized?
