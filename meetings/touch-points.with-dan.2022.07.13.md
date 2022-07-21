@@ -2,13 +2,15 @@
 id: 2d1buqltmguz3f0vuujuztc
 title: 'July 13 Touch Point'
 desc: ''
-updated: 1657803701792
+updated: 1658337818002
 created: 1657738845027
 ---
 
 ### Previous
 
 [[July 5 Touch Point|touch-points.with-dan.2022.07.05]]
+
+### Notes
 
 - Use the Backlog Refinements as a way to look towards the future
   - Forward thinking and the leaders should definitely be involved!
