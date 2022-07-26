@@ -2,8 +2,9 @@
 id: s8dziovjrm88whnznttf1xc
 title: Coordinating with Virtual Teams
 desc: ''
-updated: 1658407044902
+updated: 1658857022408
 created: 1658349137133
+published: true
 ---
 
 ### Course Overview
