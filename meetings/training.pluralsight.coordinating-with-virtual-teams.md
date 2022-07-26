@@ -2,7 +2,7 @@
 id: s8dziovjrm88whnznttf1xc
 title: Coordinating with Virtual Teams
 desc: ''
-updated: 1658354672967
+updated: 1658407044902
 created: 1658349137133
 ---
 
@@ -203,4 +203,7 @@ created: 1658349137133
   - Sprint Planning & Backlog Refinement
     - ![Remote Sprint Planning & Backlog Refinement](/assets/images/2022-07-20-18-03-26.png)
   - Daily Scrum, Sprint Review, Sprint Retro
-    - 
+
+
+### Utilizing the Ideal Technology
+
