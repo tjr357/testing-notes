@@ -94,6 +94,7 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - dpd.pcg-b
+        - training
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://tjr357.github.io
