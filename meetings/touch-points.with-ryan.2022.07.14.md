@@ -8,8 +8,8 @@ created: 1657812507773
 
 @agile-coach.RyanFish
 
-- [ ] Share in the demo invite what features will be shown and be transparent
-  - [ ] Help the team own the Demo
+- ??? Share in the demo invite what features will be shown and be transparent
+  - ??? Help the team own the Demo
 
 - Keep in mind people are working on whatever and at any time
 - When that fatigue is setting in, look into cutting back on things, getting to know the team
@@ -17,6 +17,6 @@ created: 1657812507773
 - If Chirayu is providing value to the conversation then keep him in the conversation
 - Keep the balance 
 
-- [ ] Get a post mortem for why POW-152 was missed
+- [ ] ! Get a post mortem for why POW-152 was missed
 
-- [ ] Celebrate the wins
+- ??? Celebrate the wins

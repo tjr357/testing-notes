@@ -68,6 +68,6 @@ QC Tool
 
 - Jason
 
-- [ ] Follow up with Chirayu, about who should be in the demos 
+- [-] Follow up with Chirayu, about who should be in the demos 
   - Control who gets the invite
   - We want to have a demo for QC for next week

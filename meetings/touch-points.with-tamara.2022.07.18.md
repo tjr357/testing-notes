@@ -15,4 +15,4 @@ Make adjustments to the Jira board
 
 - Tamra to schedule Roadmap discussion, plans and the playbook
 
-- [ ] Talk with Chirayu about not coming to the retros
+- [<] ! Talk with Chirayu about not coming to the retros

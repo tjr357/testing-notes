@@ -2,7 +2,7 @@
 id: tlqc8g66esccxillres4ur5
 title: 09
 desc: ''
-updated: 1658331566928
+updated: 1659042353573
 created: 1654788655180
 published: false
 ---
@@ -38,3 +38,6 @@ published: false
 - ??? Start introducing Fan 4's, office hours, every day or every other day, longer half-day sprint planning
 - [x] COP, how to join a new team remotely
 - Have a backlog of items of improvements to share with the coaches that are coming!
+
+
+

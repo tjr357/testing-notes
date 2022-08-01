@@ -36,11 +36,11 @@ Epics and Stories within Jira, connect with Tamara on
 ### Take Aways
 
 - [x] Include Matt on the invite the Social Hour
-- [ ] Check with Collision Core to see how they are using Rally and how that translates to Jira, Ashley Griffits
-- [ ] Be sure to review the metrics, understand the goal
-- [ ] What is our Definition of Ready, have this conversation with Ryan and Dan
-- [ ] What is our current average and where should we be, be comfortable with data, work with Dan and Ryan
-- [ ] Does the team need education on the different terms, share this 
-- [ ] Learn the team members strengths what their skillsets are, what are pain points
-  - [ ] Identify one day where he does training if need be, maybe pair up with a more senior developer
-  - [ ] We need to help set them up for success
+- [>] Check with Collision Core to see how they are using Rally and how that translates to Jira, Ashley Griffits
+- [>] Be sure to review the metrics, understand the goal
+- [>] What is our Definition of Ready, have this conversation with Ryan and Dan
+- [>] What is our current average and where should we be, be comfortable with data, work with Dan and Ryan
+- [>] Does the team need education on the different terms, share this 
+- [>] Learn the team members strengths what their skillsets are, what are pain points
+  - [<] Identify one day where he does training if need be, maybe pair up with a more senior developer
+  - ??? We need to help set them up for success

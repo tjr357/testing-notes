@@ -92,7 +92,7 @@ published: true
 - Use best tech
 - Have an agenda and share in advance
 - Keep difference in time zones in mind
-  - [ ] Check with Mel to see how we're doing
+  - [ ] ! Check with Mel to see how we're doing
 - Invite only required folks
 - Keep members **engaged**
 - Follow up after a remote meeting

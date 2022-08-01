@@ -1,18 +1,25 @@
 ---
-id: 99cghjja9dg089w1dx4ho41
-title: July 22 Stand Up
+id: oiyhtlak4dlvqv99u53k844
+title: Stand Up
 desc: ''
-updated: 1659102153217
-created: 1658496982147
+updated: 1659357407062
+created: 1659101487454
 ---
 
 ### Previous
 
-[[July 21 Stand Up|dpd.pcg-b.2022.07.21.stand-up]]
+[[Stand Up|dpd.pcg-b.2022.07.22.stand-up]]
 
 ### Notes
 
-| Key                 | Assignee                     | Notes                                                                                                   | Components            |
+- Rick accepted but did not show up
+  - This type of engagement is new and people 
+  - Was there an expectation  
+- We need to show the broader team the value in these types of discussion
+
+### Board
+
+| **Key**                 | **Assignee**                     | **Notes**                                                                                                   | **Components**            |
 | ------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------- |
 | **TO DO**           | **TO DO**                    | **TO DO**                                                                                               | **TO DO**             |
 | @stories.POW-232    | @people.SoumyajitPaul        |                                                                                                         | Testing; UI Front End |
@@ -28,7 +35,7 @@ created: 1658496982147
 | **IN PROGRESS**     | **IN PROGRESS**              | **IN PROGRESS**                                                                                         | **IN PROGRESS**       |
 | @stories.POW-227    | @people.SureshThota          | The security scan team, not super sure about getting security Scan, cannot get approval without Shannon | Testing; UI Front End |
 | @stories.POW-235    | @people.SureshThota          |                                                                                                         | Testing; UI Front End |
-| @stories.POW-239    | @people.SoumyajitPaul        |                                                          | Testing; UI Front End |
+| @stories.POW-239    | @people.SoumyajitPaul        |                                                                                                         | Testing; UI Front End |
 | @stories.POW-240    | @people.SoumyajitPaul        |                                                                                                         | Testing; UI Front End |
 | @stories.PCGQC-2    | Assignee                     | @people.RahulLandge The microservice(s) need to be deployed still                                       |                       |
 | @stories.PCGQC-1    | Assignee                     |                                                                                                         |                       |
@@ -37,7 +44,7 @@ created: 1658496982147
 | **IN REVIEW**       | **IN REVIEW**                | **IN REVIEW**                                                                                           | **ON HOLD**           |
 | @stories.PCG-97     | @people.MelClifford          |                                                                                                         | Testing; UI Front End |
 | **TESTING**         | **TESTING**                  | **TESTING**                                                                                             | **BLOCKED**           |
-| @stories.POW-152    | @people.GunabalanAnatharajan | Suresh, will be testing. Jason to create prod user                                                       |                       |
+| @stories.POW-152    | @people.GunabalanAnatharajan | Suresh, will be testing. Jason to create prod user                                                      |                       |
 | **READY TO DEPLOY** | **READY TO DEPLOY**          | **READY TO DEPLOY**                                                                                     | **BLOCKED**           |
 | **BLOCKED**         | **BLOCKED**                  | **BLOCKED**                                                                                             | **BLOCKED**           |
 | **DONE**            | **DONE**                     | **DONE**                                                                                                | **DONE**              |
@@ -46,12 +53,15 @@ created: 1658496982147
 | @stories.POW-177    | @people.HieuNgo              |                                                                                                         |                       |
 | @stories.POW-223    | Assignee                     |                                                                                                         | Testing; UI Front End |
 
-Brian, to ping Edina facility manager to confirm that no one is working in the site
+Brian and Hieu on Tuesday are doing Research on Hold tab and rush indicator
 
-Schedule call tonight at 8:00 
+POW-4, Architecture Increment Reviews are really never done, they are on-going
 
-Jay, issues with Microservices, no support for JDK 17, Guna, Rahul to be in a meeting
+Security Scan is in-process, Suresh is coordinating with the Security team
 
-- [x] Place team block on calendar for Monday
+Hieu:
 
-Test details and saving, API connecting could be an issue, a React issue, the unknown, does not have the data
+- PCGQC-81 Personas 
+- Prepping for final stage 3 designs, need to get feedback from end users 
+
+Hooked save button up in Dev, it's not working, going to work with the backend microservice team to test
