@@ -1,0 +1,64 @@
+<h1 id="go-live-backup-plan"><a aria-hidden="true" class="anchor-heading" href="#go-live-backup-plan"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Go Live Backup Plan</h1>
+<p>Plan B</p>
+<ul>
+<li>
+<p>Let the Aurora support handle this, so there will be a remedy ticket, we will be the Remedy PoC</p>
+</li>
+<li>
+<p>Jen Kiffer - Aurora</p>
+</li>
+<li>
+<p>Facility Managers</p>
+</li>
+<li>
+<p>Chirayu</p>
+</li>
+<li>
+<p>If we get a critical issue (more 1-2 hours to fix) we will revert back to the PowerApps version and we'll need help from</p>
+<ul>
+<li>Justin, Paul and Narendhar
+<ul>
+<li>Do they have the time blocked for this</li>
+<li>Revert to the 2 old Boomi services
+<ul>
+<li>Azure SQL service</li>
+<li>Getting data from the Aurora service</li>
+<li>New service was tested in QA by Suresh</li>
+</ul>
+</li>
+<li>There's the Migration PPM</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>We cannot we create orders in Prod, so we'll need to have someone monitor this at 6:30 AM</p>
+</li>
+</ul>
+<p>PPM's
+248330 </p>
+<ul>
+<li>GEA Change Request 248330 - APIM PCG Workbench WorkorderQuery and WorkOrderTransaction Migration is in Change management step can we progress the ppm workflow for this.</li>
+</ul>
+<p>245684</p>
+<ul>
+<li>Only to revert
+<ul>
+<li>Two Boomi Services:
+<ul>
+<li>Get WO from POS - This should be new service for Azure SQL, existing data verse one should not be modified</li>
+<li>Get WO Status from Aurora - This will be modification of existing one as OSB is calling the Booomi endpoint. this supposed to be migrated today after 8 PM</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Narendhar</p>
+<blockquote>
+<p>There are other deployments happening tomorrow, could we do the deployment tomorrow?</p>
+</blockquote>
+<p>Facilities are closed on the weekends</p>
+<p>10am tomorrow re-schedule</p>
+<ul>
+<li>No one is on call for this weekend</li>
+</ul>

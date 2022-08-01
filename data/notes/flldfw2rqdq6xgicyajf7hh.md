@@ -1,0 +1,115 @@
+
+- Change is the heart of every project
+- Agility is our ability to initiate and respond to change
+- When processes can help, we should embrace them
+  - When they get in our way, we should question them to determine if they serve as important guard rails or as roadblocks 
+- Embrace and leverage change
+  - ![](/assets/images/2022-04-28-10-49-53.png)
+- Make corrections along the way
+  - ![](/assets/images/2022-04-28-10-50-33.png)
+- Value is vision made real
+  - ![](/assets/images/2022-04-28-10-54-13.png)
+> "Real artists ship." - Steve Jobs
+
+- Be realistic and conversative in our approach to cadence delivery
+- ![](/assets/images/2022-04-28-11-05-55.png)
+- Maximize work not done
+- ![](/assets/images/2022-04-28-11-15-24.png)
+- ![](/assets/images/2022-04-28-11-17-50.png)
+  - Team members should feel safe to speak up when they think something is wrong
+- ![](/assets/images/2022-04-28-11-19-26.png)
+- Scrum Master
+  - ![](/assets/images/2022-04-28-13-34-50.png)
+  - Servant Leadership
+    - ![](/assets/images/2022-04-28-13-36-06.png)
+    - ![](/assets/images/2022-04-28-13-36-39.png)
+- Scrum Ceremonies
+  - ![](/assets/images/2022-04-28-13-39-36.png)
+- Kanban vs. Scrum
+  - ![](/assets/images/2022-04-28-13-40-20.png)
+- Estimation
+  - ![](/assets/images/2022-04-28-13-46-53.png)
+    - Planning Poker
+      - ![](/assets/images/2022-04-28-13-47-55.png)
+    - T-Shirt Sizing
+      - ![](/assets/images/2022-04-28-13-48-25.png)
+  - Backlog
+    - ![](/assets/images/2022-04-28-13-51-05.png) 
+- Definition of Ready
+  - ![](/assets/images/2022-04-28-14-06-36.png)
+  - Be careful to not let the DoR become a phase gate, dependent upon and waiting for one thing to be finished before another can be begin
+  - Should outline best practices, **not hard and fast rules**
+  - Avoid definitions that prvent concurrent work
+    - ex. "every new story _must_ include solution architecture documentation"
+  - Definitions should encourage just enough detail to do the work, not exhaustive coverage
+  - Should NOT get in the way
+- INVEST model
+  - ![](/assets/images/2022-04-28-14-07-47.png)
+- Definition of Done
+  - aka "releaseable"
+  - ![](/assets/images/2022-04-28-14-13-49.png)
+- Acceptance Criteria
+  - ![](/assets/images/2022-04-28-14-14-33.png)
+- ![](/assets/images/2022-04-28-14-16-00.png)
+- The Sprint Backlog
+  - Is what's being done
+- Story Points
+  - ![](/assets/images/2022-04-28-14-20-28.png)
+  - Using velocity as a metric of the team's success is a **poor practice**
+  - In fibonaci sequence, each # is roughly 60% greater than the previous number
+- Scope
+  - ![](/assets/images/2022-04-28-14-22-19.png)
+  - Negotiate what needs to change and ask why
+- Timeboxing
+  - ![](/assets/images/2022-04-28-14-26-20.png)
+- Scrum Ceremonies
+  - Daily Scrum
+    - ![](/assets/images/2022-04-28-14-27-57.png)
+    - ![](/assets/images/2022-04-28-14-28-34.png)
+    - Ideally first thing in the morning
+    - 3 questions:
+      - What did you do?
+      - What are you doing?
+      - What's blocking you?
+      - ![](/assets/images/2022-04-28-14-30-11.png)
+  - Sprint Planning
+    - ![](/assets/images/2022-04-28-14-31-51.png)
+    - ![](/assets/images/2022-04-28-14-32-21.png)
+    - ![](/assets/images/2022-04-28-14-32-57.png)
+    - Anti-patterns
+      - ![](/assets/images/2022-04-28-14-33-48.png)
+  - Sprint Review
+    - Could be seen as a demo
+    - ![](/assets/images/2022-04-28-14-34-21.png)
+    - ![](/assets/images/2022-04-28-14-35-13.png)
+    - Inspect and adapt
+      - ![](/assets/images/2022-04-28-14-36-06.png)
+    - Anti-patterns
+      - ![](/assets/images/2022-04-28-14-36-33.png)
+  - Sprint Retros
+    - ![](/assets/images/2022-04-28-14-37-25.png)
+    - ![](/assets/images/2022-04-28-14-37-59.png)
+## Collaboration & Self Management in Agile Environments
+- ![](/assets/images/2022-04-28-14-57-24.png)
+- ![](/assets/images/2022-04-28-14-58-25.png)
+- ![](/assets/images/2022-04-28-14-58-42.png)
+- Teams need to be self-managed
+  - ![](/assets/images/2022-04-28-14-59-22.png)
+  - ![](/assets/images/2022-04-28-15-25-29.png)
+  - Trust is key
+  - Respect - the whole is greater than the individual, each member has something to contribute
+  - Transparency
+  - Shared authority
+- Effective Collaboration: Skills Required
+  - Influencing
+    - ![](/assets/images/2022-04-28-15-37-25.png)
+  - Conflict resolution
+    - ![](/assets/images/2022-04-28-15-38-47.png)
+    - ![](/assets/images/2022-04-28-15-39-10.png)
+  - Open-mindedness
+    - ![](/assets/images/2022-04-28-15-39-55.png)
+- Leveraging Agile Principles for Success
+  - ![](/assets/images/2022-04-28-15-45-17.png)
+- Leveraging Reviews and Retros
+  - ![](/assets/images/2022-04-28-15-47-38.png)
+- ![](/assets/images/2022-04-28-16-06-28.png)

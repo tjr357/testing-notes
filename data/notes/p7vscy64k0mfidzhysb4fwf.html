@@ -1,0 +1,36 @@
+<h1 id="workflow-config-discussion"><a aria-hidden="true" class="anchor-heading" href="#workflow-config-discussion"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Workflow Config Discussion</h1>
+<h3 id="people"><a aria-hidden="true" class="anchor-heading" href="#people"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>People</h3>
+<ul>
+<li><a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">@people.Devi (Private)</a></li>
+</ul>
+<h3 id="notes"><a aria-hidden="true" class="anchor-heading" href="#notes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Notes</h3>
+<ul>
+<li>As a group we started coming up with a workflow</li>
+<li>Get Devi a good artifact of the workflow</li>
+<li><img src="/testing-notes/assets/images/2022-05-20-11-36-54.png"></li>
+</ul>
+<div class="mermaid">
+      flowchart LR
+    n[New]
+    ba[BA]
+    ux[UX]
+    dr[Design Review]
+    uit[UI/Todo]
+    c[Coding]
+    dc[Done Coding]
+    unit[Code/Unit Testing]
+    at[Acceptance Testing]
+    closed[Closed]
+
+    n-->ba
+    ba-->ux 
+    ux-->dr
+    dr-->uit
+    uit-->c
+    c-->dc
+    dc-->unit
+    unit--Testing passed-->at
+    unit--Failed unit testing-->c
+    at-->closed
+
+</div>
